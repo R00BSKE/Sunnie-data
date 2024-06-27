@@ -35,7 +35,7 @@
     "notifications.text.activitypoints.1": "Je hebt %AMOUNT% Schelpen gekregen!",
     "notifications.text.activitypoints.2": "Je hebt %AMOUNT% Harten gekregen!",
     "notifications.text.activitypoints.3": "Je hebt %AMOUNT% Gift Points gekregen!",
-    "notifications.text.activitypoints.5": "Je hebt %AMOUNT% Diamanten gekregen!",
+    "notifications.text.activitypoints.5": "Je hebt %AMOUNT% plexcoins gekregen!",
     "notification.hotel.event.alert": "Event",
     "notification.hotel.event.message":" Een event wordt gehost!:",
     "notification.hotel.event.linkTitle":"Ga naar: %ROOMNAME%",
