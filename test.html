@@ -1,0 +1,137 @@
+<!DOCTYPE html>
+<html lang="nl">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>PlexFM</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #f4f4f4;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            height: 100vh;
+            margin: 0;
+        }
+
+        .radio-player {
+            background: rgba(255, 255, 255, 0.8); /* White background with 80% opacity */
+            border-radius: 8px;
+            box-shadow: 0 4px 8px rgba(0, 0, 0, 0.3); /* Darker shadow for contrast */
+            padding: 10px;
+            width: 100%;
+            max-width: 400px;
+            text-align: center;
+            position: relative;
+            backdrop-filter: blur(10px); /* Optional: adds a blur effect to the background behind the container */
+        }
+
+        .controls {
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            margin-top: 10px;
+            flex-wrap: wrap; /* To handle responsiveness */
+        }
+
+        .control-button {
+            background: #001c3a;
+            border: none;
+            border-radius: 4px;
+            color: white;
+            cursor: pointer;
+            padding: 10px 20px;
+            margin: 5px;
+            font-size: 16px;
+            transition: background 0.3s;
+        }
+
+        .control-button:hover {
+            background: #003d7a;
+        }
+
+        .control-button:disabled {
+            background: #aaa;
+            cursor: not-allowed;
+        }
+
+        .volume-control {
+            display: flex;
+            align-items: center;
+            margin-left: 10px; /* Adjust space between buttons and volume control */
+        }
+
+        .volume-control label {
+            display: none; /* Hide the label, if you don't need it */
+        }
+
+        .volume-control input[type="range"] {
+            width: 100px;
+        }
+
+        .logo {
+            margin-bottom: 10px;
+        }
+
+        .logo img {
+            width: 150px; /* Adjust the size of the logo as needed */
+            height: auto;
+        }
+    </style>
+</head>
+<body>
+    <div class="radio-player">
+        <a href="https://www.plex-hotel.nl" class="logo" target="_blank">
+            <img src="plexTJ.png" alt="PlexFM Logo">
+        </a>
+        <audio id="audio" src="https://radio.virtualc.nl/listen/plexfm/radio.mp3" type="audio/mp3"></audio>
+        <div class="controls">
+            <button class="control-button" onclick="startAudio()">Start Radio</button>
+            <button class="control-button" onclick="pauseAudio()">Pause</button>
+            <button class="control-button" onclick="stopAudio()">Stop</button>
+            <div class="volume-control">
+                <label for="volume">Volume:</label>
+                <input id="volume" type="range" min="0" max="1" step="0.01" value="0.5" onchange="setVolume(this.value)">
+            </div>
+        </div>
+    </div>
+    
+    <script>
+        const audio = document.getElementById('audio');
+        let userInteracted = false;
+    
+        function startAudio() {
+            audio.play().catch(error => {
+                console.error("Error playing audio:", error);
+            });
+        }
+    
+        function pauseAudio() {
+            audio.pause();
+        }
+    
+        function stopAudio() {
+            audio.pause();
+            audio.currentTime = 0;
+        }
+    
+        function setVolume(volume) {
+            audio.volume = volume;
+        }
+    
+        document.addEventListener('DOMContentLoaded', () => {
+            startAudio();
+        });
+    
+        // Ensure audio plays on first user interaction if autoplay is blocked
+        window.addEventListener('click', () => {
+            if (!userInteracted) {
+                userInteracted = true;
+                startAudio();
+            }
+        });
+    </script>
+    
+</body>
+</html>
