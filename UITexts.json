@@ -88,5 +88,7 @@
     "toolbar.icon.label.battle.pass": "Plex-Pass",
     "mod.tools.interface.title": "Modtools",
     "dev.tools.interface.title": "Devtools",
-    "purse.seasonal.currency.104": "Eventpunten"
+    "purse.seasonal.currency.104": "Eventpunten",
+    "inventory.rares": "Rares",
+    "inventory.ltds": "LTDs"
 }
