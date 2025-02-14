@@ -91,5 +91,9 @@
     "purse.seasonal.currency.104": "Eventpunten",
     "inventory.rares": "Rares",
     "inventory.ltds": "LTDs",
-    "widget.memenu.collections": "Collections"
+    "widget.memenu.collections": "Collections",
+    "collectibles.collections.title": "Collectie",
+    "collectibles.items.title": "Collector's Kast",
+    "collectibles.transfer.title": "Overdracht",
+    "collectibles.info.title": "Info"
 }
