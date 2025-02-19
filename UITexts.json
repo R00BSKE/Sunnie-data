@@ -99,5 +99,7 @@
     "collectibles.collections.title": "Collectie",
     "collectibles.items.title": "Collector's Kast",
     "collectibles.transfer.title": "Overdracht",
-    "collectibles.info.title": "Info"
+    "collectibles.info.title": "Info",
+    "collectibles.score": "Collector XP:",
+    "collectibles.high_score": "Hoogste XP aller tijden:"
 }
