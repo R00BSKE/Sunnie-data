@@ -12757,5 +12757,13 @@
     "badge_name_MIN05": "Flamingo Zonsondergang",
     "badge_desc_MIN05": "",
     "badge_name_DE17J": "Strand 2024",
-    "badge_desc_DE17J": "Lekker zonnen"
+    "badge_desc_DE17J": "Lekker zonnen",
+    "badge_name_ACH_TimeSpentRoomTypeChat": "Grote Kletskous %roman%",
+    "badge_desc_ACH_TimeSpentRoomTypeChat": "Voor het kletsen via chat of in een openbare ruimte gedurende %limit% minuten.",
+    "badge_name_ACH_TimeSpentRoomTypeGames": "Professionele Gamer %roman%",
+    "badge_desc_ACH_TimeSpentRoomTypeGames": "Omdat je %limit% minuten in een gamekamer bent geweest.",
+    "badge_name_ACH_TimeSpentRoomTypeRPG": "Altijd aan het werk %roman%",
+    "badge_desc_ACH_TimeSpentRoomTypeRPG": "Omdat je %limit% minuten in een bedrijven- of RPG-ruimte bent geweest.",
+    "badge_name_ACH_TimeSpentRoomTypeTrade": "De Hosselaar van Plex %roman%",
+    "badge_desc_ACH_TimeSpentRoomTypeTrade": "Voor het verblijven in een ruilkamer gedurende %limit% minuten. Beste Pixel Meester"
 }
