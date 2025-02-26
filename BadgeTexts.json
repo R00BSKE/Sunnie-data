@@ -12765,5 +12765,11 @@
     "badge_name_ACH_TimeSpentRoomTypeRPG": "Altijd aan het werk %roman%",
     "badge_desc_ACH_TimeSpentRoomTypeRPG": "Omdat je %limit% minuten in een bedrijven- of RPG-ruimte bent geweest.",
     "badge_name_ACH_TimeSpentRoomTypeTrade": "De Hosselaar van Plex %roman%",
-    "badge_desc_ACH_TimeSpentRoomTypeTrade": "Voor het verblijven in een ruilkamer gedurende %limit% minuten. Beste Pixel Meester"
+    "badge_desc_ACH_TimeSpentRoomTypeTrade": "Voor het verblijven in een ruilkamer gedurende %limit% minuten. Beste Pixel Meester",
+    "badge_name_ACH_TradeCount": "Ervaren Ruiler %roman%",
+    "badge_desc_ACH_TradeCount": "Je hebt %limit% keer geruild. Tijd om Plex-rijk te worden!",
+    "badge_name_ACH_CoinValueTraded": "De Ultieme Plex-Coins verzamelaar %roman%",
+    "badge_desc_ACH_CoinValueTraded": "Voor het ruilen van Plex-Coins Meubi ter waarde van %limit% Plex-Coins.",
+    "badge_name_ACH_PlaceCreditValue": "Ik ben Bobba Rijk %roman%",
+    "badge_desc_ACH_PlaceCreditValue": "Plaats Plex-Coins Meubi met een waarde van %limit% Plex-Coins in jouw kamer en laat zien hoe rijk je bent!"
 }
