@@ -12,6 +12,7 @@
     "modtools.userinfo.minutesSinceLastLogin": "Laatste Login",
     "modtools.userinfo.lastPurchaseDate": "Laatste Aankoop",
     "modtools.userinfo.primaryEmailAddress": "Email",
+    "Events.title":"Events",
     "modtools.userinfo.identityRelatedBanCount": "Verbannen Accs",
     "modtools.userinfo.registrationAgeInMinutes": "Geregistreerd",
     "modtools.userinfo.userClassification": "Rank",
