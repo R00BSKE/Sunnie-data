@@ -7,6 +7,26 @@
         "description": ""
       },
       {
+        "code": "conf_handitem_block",
+        "name": "Handitem Blokker",
+        "description": ""
+      },
+      {
+        "code": "conf_invis_control",
+        "name": "Onzichtbare meubi controller",
+        "description": ""
+      },
+      {
+        "code": "conf_queue_speed",
+        "name": "Roller snelheid controller",
+        "description": ""
+      },
+      {
+        "code": "conf_wired_disable",
+        "name": "Wired uitschakelaar",
+        "description": ""
+      },
+      {
         "code": "tile_walkmagic",
         "name": "Magische Looptegel",
         "description": ""
