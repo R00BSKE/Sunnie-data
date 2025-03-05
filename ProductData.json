@@ -7,6 +7,11 @@
         "description": ""
       },
       {
+        "code": "wf_act_move_rotate_user",
+        "name": "WIRED Reactie: Verplaats en/of draai speler",
+        "description": ""
+      },
+      {
         "code": "conf_handitem_block",
         "name": "Handitem Blokker",
         "description": ""
