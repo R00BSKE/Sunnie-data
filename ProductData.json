@@ -92254,7 +92254,7 @@
       {
         "code": "wf_act_freeze",
         "name": "WIRED Effect: Bevries Speler",
-        "description": "wf_act_freeze desc"
+        "description": ""
       },
       {
         "code": "wf_act_furni_to_furni",
@@ -92379,7 +92379,7 @@
       {
         "code": "wf_act_unfreeze",
         "name": "WIRED Effect: Ontdooi Speler",
-        "description": "wf_act_unfreeze desc"
+        "description": ""
       },
       {
         "code": "wf_antenna1",
