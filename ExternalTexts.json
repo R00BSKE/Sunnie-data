@@ -21062,5 +21062,12 @@
     "action-9": "Liggend",
     "action-10": "Signalen",
     "action-11": "Dans",
+    "widget.areahide.options": "Opties",
+    "widget.areahide.title": "Verberg gebied in kamer",
+    "widget.areahide.options.invert.info": "Houd het geselecteerde gebied zichtbaar en verberg de rest van de kamer",
+    "widget.areahide.options.invert": "Omdraaien",
+    "widget.areahide.options.invisibility.info": "Onzichtbare meubi kunnen worden bestuurd met 'Onzichtbare Meubi Controller'",
+    "widget.areahide.options.invisibility": "Maak deze meubi onzichtbaar",
+    "widget.areahide.options.wallitems": "Verberg muur-items",
     "": ""
 }
