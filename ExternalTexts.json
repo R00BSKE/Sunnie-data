@@ -21069,5 +21069,10 @@
     "widget.areahide.options.invisibility.info": "Onzichtbare meubi kunnen worden bestuurd met 'Onzichtbare Meubi Controller'",
     "widget.areahide.options.invisibility": "Maak deze meubi onzichtbaar",
     "widget.areahide.options.wallitems": "Verberg muur-items",
+    "wiredfurni.error.title": "Update mislukt",
+    "wiredfurni.error.require_antenna_furni": "Je kan enkel antenna meubi selecteren.",
+    "wiredfurni.error.require_click_tiles": "Je kan enkel onzichtbare kliktegel meubi selecteren.",
+    "wiredfurni.error.require_counter_furni": "Je kan enkel timer meubi selecteren.",
+    "wiredfurni.error.require_room_linker": "Kan alleen Wired kamerlinkers selecteren!",
     "": ""
 }
