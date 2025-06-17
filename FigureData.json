@@ -19347,6 +19347,182 @@
                     ]
                 },
                 {
+                    "id": 6158,
+                    "gender": "U",
+                    "club": 0,
+                    "colorable": true,
+                    "selectable": true,
+                    "preselectable": false,
+                    "sellable": false,
+                    "parts": [
+                        {
+                            "id": 1,
+                            "type": "hd",
+                            "colorable": true,
+                            "index": 0,
+                            "colorindex": 1
+                        },
+                        {
+                            "id": 1,
+                            "type": "bd",
+                            "colorable": true,
+                            "index": 0,
+                            "colorindex": 1
+                        },
+                        {
+                            "id": 6781,
+                            "type": "fc",
+                            "colorable": true,
+                            "index": 0,
+                            "colorindex": 1
+                        },
+                        {
+                            "id": 1,
+                            "type": "lh",
+                            "colorable": true,
+                            "index": 0,
+                            "colorindex": 1
+                        },
+                        {
+                            "id": 1,
+                            "type": "rh",
+                            "colorable": true,
+                            "index": 0,
+                            "colorindex": 1
+                        },
+                        {
+                            "id": 6782,
+                            "type": "ey",
+                            "colorable": false,
+                            "index": 1,
+                            "colorindex": 0
+                        },
+                        {
+                            "id": 6783,
+                            "type": "fc",
+                            "colorable": true,
+                            "index": 2,
+                            "colorindex": 2
+                        }
+                    ]
+                },
+                {
+                    "id": 6159,
+                    "gender": "U",
+                    "club": 0,
+                    "colorable": true,
+                    "selectable": true,
+                    "preselectable": false,
+                    "sellable": false,
+                    "parts": [
+                        {
+                            "id": 6784,
+                            "type": "hd",
+                            "colorable": true,
+                            "index": 0,
+                            "colorindex": 1
+                        },
+                        {
+                            "id": 6784,
+                            "type": "bd",
+                            "colorable": true,
+                            "index": 0,
+                            "colorindex": 1
+                        },
+                        {
+                            "id": 6784,
+                            "type": "ey",
+                            "colorable": true,
+                            "index": 0,
+                            "colorindex": 1
+                        },
+                        {
+                            "id": 6784,
+                            "type": "lh",
+                            "colorable": true,
+                            "index": 0,
+                            "colorindex": 1
+                        },
+                        {
+                            "id": 6784,
+                            "type": "rh",
+                            "colorable": true,
+                            "index": 0,
+                            "colorindex": 1
+                        },
+                        {
+                            "id": 6785,
+                            "type": "hd",
+                            "colorable": false,
+                            "index": 1,
+                            "colorindex": 0
+                        },
+                        {
+                            "id": 6785,
+                            "type": "bd",
+                            "colorable": false,
+                            "index": 1,
+                            "colorindex": 0
+                        },
+                        {
+                            "id": 6785,
+                            "type": "ey",
+                            "colorable": false,
+                            "index": 1,
+                            "colorindex": 0
+                        },
+                        {
+                            "id": 6785,
+                            "type": "lh",
+                            "colorable": false,
+                            "index": 1,
+                            "colorindex": 0
+                        },
+                        {
+                            "id": 6785,
+                            "type": "rh",
+                            "colorable": false,
+                            "index": 1,
+                            "colorindex": 0
+                        },
+                        {
+                            "id": 6786,
+                            "type": "hd",
+                            "colorable": true,
+                            "index": 2,
+                            "colorindex": 2
+                        },
+                        {
+                            "id": 6786,
+                            "type": "bd",
+                            "colorable": true,
+                            "index": 2,
+                            "colorindex": 2
+                        },
+                        {
+                            "id": 6786,
+                            "type": "ey",
+                            "colorable": true,
+                            "index": 2,
+                            "colorindex": 2
+                        },
+                        {
+                            "id": 6786,
+                            "type": "lh",
+                            "colorable": true,
+                            "index": 2,
+                            "colorindex": 2
+                        },
+                        {
+                            "id": 6786,
+                            "type": "rh",
+                            "colorable": true,
+                            "index": 2,
+                            "colorindex": 2
+                        }
+                    ]
+                },
+                {
                     "id": 626,
                     "gender": "F",
                     "club": 0,
@@ -38686,7 +38862,7 @@
                     "gender": "U",
                     "club": 0,
                     "colorable": false,
-                    "selectable": false,
+                    "selectable": true,
                     "preselectable": false,
                     "sellable": false,
                     "parts": [
@@ -42414,7 +42590,7 @@
                     "gender": "U",
                     "club": 0,
                     "colorable": false,
-                    "selectable": false,
+                    "selectable": true,
                     "preselectable": false,
                     "sellable": false,
                     "parts": [
@@ -47816,6 +47992,107 @@
                     ]
                 },
                 {
+                    "id": 6135,
+                    "gender": "F",
+                    "club": 0,
+                    "colorable": false,
+                    "selectable": true,
+                    "preselectable": false,
+                    "sellable": false,
+                    "parts": [
+                        {
+                            "id": 6752,
+                            "type": "ch",
+                            "colorable": false,
+                            "index": 0,
+                            "colorindex": 0
+                        },
+                        {
+                            "id": 6752,
+                            "type": "ls",
+                            "colorable": false,
+                            "index": 0,
+                            "colorindex": 0
+                        },
+                        {
+                            "id": 6752,
+                            "type": "rs",
+                            "colorable": false,
+                            "index": 0,
+                            "colorindex": 0
+                        }
+                    ]
+                },
+                {
+                    "id": 6136,
+                    "gender": "M",
+                    "club": 0,
+                    "colorable": false,
+                    "selectable": true,
+                    "preselectable": false,
+                    "sellable": false,
+                    "parts": [
+                        {
+                            "id": 6753,
+                            "type": "ch",
+                            "colorable": false,
+                            "index": 0,
+                            "colorindex": 0
+                        },
+                        {
+                            "id": 6753,
+                            "type": "ls",
+                            "colorable": false,
+                            "index": 0,
+                            "colorindex": 0
+                        },
+                        {
+                            "id": 6753,
+                            "type": "rs",
+                            "colorable": false,
+                            "index": 0,
+                            "colorindex": 0
+                        }
+                    ]
+                },
+                {
+                    "id": 6147,
+                    "gender": "U",
+                    "club": 0,
+                    "colorable": false,
+                    "selectable": true,
+                    "preselectable": false,
+                    "sellable": false,
+                    "parts": [
+                        {
+                            "id": 6764,
+                            "type": "ch",
+                            "colorable": false,
+                            "index": 0,
+                            "colorindex": 0
+                        },
+                        {
+                            "id": 6764,
+                            "type": "ls",
+                            "colorable": false,
+                            "index": 0,
+                            "colorindex": 0
+                        },
+                        {
+                            "id": 6764,
+                            "type": "rs",
+                            "colorable": false,
+                            "index": 0,
+                            "colorindex": 0
+                        }
+                    ],
+                    "hiddenLayers": [
+                        {
+                            "partType": "lg"
+                        }
+                    ]
+                },
+                {
                     "id": 876,
                     "gender": "M",
                     "club": 0,
@@ -53169,6 +53446,24 @@
                             "type": "lg",
                             "colorable": false,
                             "index": 2,
+                            "colorindex": 0
+                        }
+                    ]
+                },
+                {
+                    "id": 6137,
+                    "gender": "U",
+                    "club": 0,
+                    "colorable": false,
+                    "selectable": true,
+                    "preselectable": false,
+                    "sellable": false,
+                    "parts": [
+                        {
+                            "id": 6754,
+                            "type": "lg",
+                            "colorable": false,
+                            "index": 0,
                             "colorindex": 0
                         }
                     ]
@@ -63486,7 +63781,7 @@
                     "gender": "U",
                     "club": 0,
                     "colorable": false,
-                    "selectable": false,
+                    "selectable": true,
                     "preselectable": false,
                     "sellable": false,
                     "parts": [
@@ -63557,7 +63852,7 @@
                     "gender": "U",
                     "club": 0,
                     "colorable": false,
-                    "selectable": false,
+                    "selectable": true,
                     "preselectable": false,
                     "sellable": false,
                     "parts": [
@@ -67405,6 +67700,29 @@
                             "colorable": true,
                             "index": 1,
                             "colorindex": 1
+                        }
+                    ]
+                },
+                {
+                    "id": 6133,
+                    "gender": "U",
+                    "club": 0,
+                    "colorable": false,
+                    "selectable": true,
+                    "preselectable": false,
+                    "sellable": false,
+                    "parts": [
+                        {
+                            "id": 6750,
+                            "type": "ha",
+                            "colorable": false,
+                            "index": 0,
+                            "colorindex": 0
+                        }
+                    ],
+                    "hiddenLayers": [
+                        {
+                            "partType": "hrb"
                         }
                     ]
                 },
@@ -72497,6 +72815,168 @@
                     ]
                 },
                 {
+                    "id": 6138,
+                    "gender": "U",
+                    "club": 0,
+                    "colorable": false,
+                    "selectable": true,
+                    "preselectable": false,
+                    "sellable": false,
+                    "parts": [
+                        {
+                            "id": 6755,
+                            "type": "he",
+                            "colorable": false,
+                            "index": 0,
+                            "colorindex": 0
+                        }
+                    ]
+                },
+                {
+                    "id": 6139,
+                    "gender": "U",
+                    "club": 0,
+                    "colorable": false,
+                    "selectable": true,
+                    "preselectable": false,
+                    "sellable": false,
+                    "parts": [
+                        {
+                            "id": 6756,
+                            "type": "he",
+                            "colorable": false,
+                            "index": 0,
+                            "colorindex": 0
+                        }
+                    ]
+                },
+                {
+                    "id": 6140,
+                    "gender": "U",
+                    "club": 0,
+                    "colorable": false,
+                    "selectable": true,
+                    "preselectable": false,
+                    "sellable": false,
+                    "parts": [
+                        {
+                            "id": 6757,
+                            "type": "he",
+                            "colorable": false,
+                            "index": 0,
+                            "colorindex": 0
+                        }
+                    ]
+                },
+                {
+                    "id": 6141,
+                    "gender": "U",
+                    "club": 0,
+                    "colorable": false,
+                    "selectable": true,
+                    "preselectable": false,
+                    "sellable": false,
+                    "parts": [
+                        {
+                            "id": 6758,
+                            "type": "he",
+                            "colorable": false,
+                            "index": 0,
+                            "colorindex": 0
+                        }
+                    ]
+                },
+                {
+                    "id": 6142,
+                    "gender": "U",
+                    "club": 0,
+                    "colorable": false,
+                    "selectable": true,
+                    "preselectable": false,
+                    "sellable": false,
+                    "parts": [
+                        {
+                            "id": 6759,
+                            "type": "he",
+                            "colorable": false,
+                            "index": 0,
+                            "colorindex": 0
+                        }
+                    ]
+                },
+                {
+                    "id": 6144,
+                    "gender": "U",
+                    "club": 0,
+                    "colorable": false,
+                    "selectable": true,
+                    "preselectable": false,
+                    "sellable": false,
+                    "parts": [
+                        {
+                            "id": 6761,
+                            "type": "he",
+                            "colorable": false,
+                            "index": 0,
+                            "colorindex": 0
+                        }
+                    ]
+                },
+                {
+                    "id": 6145,
+                    "gender": "U",
+                    "club": 0,
+                    "colorable": false,
+                    "selectable": true,
+                    "preselectable": false,
+                    "sellable": false,
+                    "parts": [
+                        {
+                            "id": 6762,
+                            "type": "he",
+                            "colorable": false,
+                            "index": 0,
+                            "colorindex": 0
+                        }
+                    ]
+                },
+                {
+                    "id": 6146,
+                    "gender": "U",
+                    "club": 0,
+                    "colorable": false,
+                    "selectable": true,
+                    "preselectable": false,
+                    "sellable": false,
+                    "parts": [
+                        {
+                            "id": 6763,
+                            "type": "he",
+                            "colorable": false,
+                            "index": 0,
+                            "colorindex": 0
+                        }
+                    ]
+                },
+                {
+                    "id": 6148,
+                    "gender": "U",
+                    "club": 0,
+                    "colorable": false,
+                    "selectable": true,
+                    "preselectable": false,
+                    "sellable": false,
+                    "parts": [
+                        {
+                            "id": 6765,
+                            "type": "he",
+                            "colorable": false,
+                            "index": 0,
+                            "colorindex": 0
+                        }
+                    ]
+                },
+                {
                     "id": 1605,
                     "gender": "U",
                     "club": 0,
@@ -74285,6 +74765,42 @@
                     "parts": [
                         {
                             "id": 6662,
+                            "type": "ea",
+                            "colorable": false,
+                            "index": 0,
+                            "colorindex": 0
+                        }
+                    ]
+                },
+                {
+                    "id": 6152,
+                    "gender": "U",
+                    "club": 0,
+                    "colorable": false,
+                    "selectable": true,
+                    "preselectable": false,
+                    "sellable": false,
+                    "parts": [
+                        {
+                            "id": 6769,
+                            "type": "ea",
+                            "colorable": false,
+                            "index": 0,
+                            "colorindex": 0
+                        }
+                    ]
+                },
+                {
+                    "id": 6153,
+                    "gender": "U",
+                    "club": 0,
+                    "colorable": false,
+                    "selectable": true,
+                    "preselectable": false,
+                    "sellable": false,
+                    "parts": [
+                        {
+                            "id": 6770,
                             "type": "ea",
                             "colorable": false,
                             "index": 0,
@@ -76393,6 +76909,78 @@
                     "parts": [
                         {
                             "id": 6699,
+                            "type": "fa",
+                            "colorable": false,
+                            "index": 0,
+                            "colorindex": 0
+                        }
+                    ]
+                },
+                {
+                    "id": 6129,
+                    "gender": "U",
+                    "club": 0,
+                    "colorable": false,
+                    "selectable": true,
+                    "preselectable": false,
+                    "sellable": false,
+                    "parts": [
+                        {
+                            "id": 6746,
+                            "type": "fa",
+                            "colorable": false,
+                            "index": 0,
+                            "colorindex": 0
+                        }
+                    ]
+                },
+                {
+                    "id": 6130,
+                    "gender": "U",
+                    "club": 0,
+                    "colorable": false,
+                    "selectable": true,
+                    "preselectable": false,
+                    "sellable": false,
+                    "parts": [
+                        {
+                            "id": 6747,
+                            "type": "fa",
+                            "colorable": false,
+                            "index": 0,
+                            "colorindex": 0
+                        }
+                    ]
+                },
+                {
+                    "id": 6131,
+                    "gender": "U",
+                    "club": 0,
+                    "colorable": false,
+                    "selectable": true,
+                    "preselectable": false,
+                    "sellable": false,
+                    "parts": [
+                        {
+                            "id": 6748,
+                            "type": "fa",
+                            "colorable": false,
+                            "index": 0,
+                            "colorindex": 0
+                        }
+                    ]
+                },
+                {
+                    "id": 6132,
+                    "gender": "U",
+                    "club": 0,
+                    "colorable": false,
+                    "selectable": true,
+                    "preselectable": false,
+                    "sellable": false,
+                    "parts": [
+                        {
+                            "id": 6749,
                             "type": "fa",
                             "colorable": false,
                             "index": 0,
@@ -99274,6 +99862,38 @@
                         },
                         {
                             "partType": "lg"
+                        }
+                    ]
+                },
+                {
+                    "id": 6134,
+                    "gender": "U",
+                    "club": 0,
+                    "colorable": false,
+                    "selectable": true,
+                    "preselectable": false,
+                    "sellable": false,
+                    "parts": [
+                        {
+                            "id": 6751,
+                            "type": "cc",
+                            "colorable": false,
+                            "index": 0,
+                            "colorindex": 0
+                        },
+                        {
+                            "id": 6751,
+                            "type": "lc",
+                            "colorable": false,
+                            "index": 0,
+                            "colorindex": 0
+                        },
+                        {
+                            "id": 6751,
+                            "type": "rc",
+                            "colorable": false,
+                            "index": 0,
+                            "colorindex": 0
                         }
                     ]
                 },
