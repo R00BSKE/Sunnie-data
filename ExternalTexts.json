@@ -1721,7 +1721,7 @@
     "catalog.vip.extend.info": "Je hebt op dit moment nog <b>%days% dagen</b> VIP over. Je kunt nu je VIP verlengen en nog langer genieten van je luxe en hippe leventje op Sunnie!",
     "catalog.vip.extend.title": "Wil je meer VIP?",
     "catalog.vip.item.header.days": "%{NUM_DAYS|0 dagen|1 dag|%% dagen}",
-    "catalog.vip.item.header.months": "%{NUM_MONTHS|0 maanden| maand|%% maanden}",
+    "catalog.vip.item.header.months": "%{NUM_MONTHS|0 maanden|1 maand|%% maanden}",
     "catalog.voucher.empty.desc": "Je hebt geen Credit- of Meubicode ingevuld.",
     "catalog.voucher.empty.title": "Geen code",
     "catalog.voucher_prompt": "voer vouchercode in",
