@@ -33,6 +33,24 @@
             ]
         },
         {
+            "id": "jacket_U_simba",
+            "revision": 72969,
+            "parts": [
+                {
+                    "id": 5056656,
+                    "type": "cc"
+                },
+                {
+                    "id": 5056656,
+                    "type": "lc"
+                },
+                {
+                    "id": 5056656,
+                    "type": "rc"
+                }
+            ]
+        },
+        {
             "id": "jacket_U_dipsy",
             "revision": 67118,
             "parts": [
