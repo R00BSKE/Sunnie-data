@@ -19416,53 +19416,39 @@
                     "sellable": false,
                     "parts": [
                         {
-                            "id": 6784,
+                            "id": 2,
                             "type": "hd",
                             "colorable": true,
                             "index": 0,
                             "colorindex": 1
                         },
                         {
-                            "id": 6784,
+                            "id": 1,
                             "type": "bd",
                             "colorable": true,
                             "index": 0,
                             "colorindex": 1
                         },
-                        {
+                         {
                             "id": 6784,
-                            "type": "ey",
-                            "colorable": true,
-                            "index": 0,
-                            "colorindex": 1
+                            "type": "fc",
+                            "colorable": false,
+                            "index": 1,
+                            "colorindex": 0
                         },
                         {
-                            "id": 6784,
+                            "id": 1,
                             "type": "lh",
                             "colorable": true,
                             "index": 0,
                             "colorindex": 1
                         },
                         {
-                            "id": 6784,
+                            "id": 1,
                             "type": "rh",
                             "colorable": true,
                             "index": 0,
                             "colorindex": 1
-                        },
-                        {
-                            "id": 6785,
-                            "type": "hd",
-                            "colorable": false,
-                            "index": 1,
-                            "colorindex": 0
-                        },
-                        {
-                            "id": 6785,
-                            "type": "bd",
-                            "colorable": false,
-                            "index": 1,
-                            "colorindex": 0
                         },
                         {
                             "id": 6785,
@@ -19472,53 +19458,11 @@
                             "colorindex": 0
                         },
                         {
-                            "id": 6785,
-                            "type": "lh",
+                            "id": 6786,
+                            "type": "fc",
                             "colorable": false,
                             "index": 1,
                             "colorindex": 0
-                        },
-                        {
-                            "id": 6785,
-                            "type": "rh",
-                            "colorable": false,
-                            "index": 1,
-                            "colorindex": 0
-                        },
-                        {
-                            "id": 6786,
-                            "type": "hd",
-                            "colorable": true,
-                            "index": 2,
-                            "colorindex": 2
-                        },
-                        {
-                            "id": 6786,
-                            "type": "bd",
-                            "colorable": true,
-                            "index": 2,
-                            "colorindex": 2
-                        },
-                        {
-                            "id": 6786,
-                            "type": "ey",
-                            "colorable": true,
-                            "index": 2,
-                            "colorindex": 2
-                        },
-                        {
-                            "id": 6786,
-                            "type": "lh",
-                            "colorable": true,
-                            "index": 2,
-                            "colorindex": 2
-                        },
-                        {
-                            "id": 6786,
-                            "type": "rh",
-                            "colorable": true,
-                            "index": 2,
-                            "colorindex": 2
                         }
                     ]
                 },
