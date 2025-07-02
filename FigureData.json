@@ -3810,7 +3810,7 @@
                     "gender": "M",
                     "club": 0,
                     "colorable": false,
-                    "selectable": true,
+                    "selectable": false,
                     "preselectable": false,
                     "sellable": false,
                     "parts": [
@@ -12264,7 +12264,7 @@
                     "gender": "M",
                     "club": 0,
                     "colorable": false,
-                    "selectable": true,
+                    "selectable": false,
                     "preselectable": false,
                     "sellable": false,
                     "parts": [
@@ -12307,7 +12307,7 @@
                     "gender": "F",
                     "club": 0,
                     "colorable": false,
-                    "selectable": true,
+                    "selectable": false,
                     "preselectable": false,
                     "sellable": false,
                     "parts": [
@@ -12325,7 +12325,7 @@
                     "gender": "F",
                     "club": 0,
                     "colorable": true,
-                    "selectable": true,
+                    "selectable": false,
                     "preselectable": false,
                     "sellable": false,
                     "parts": [
@@ -12368,7 +12368,7 @@
                     "gender": "F",
                     "club": 0,
                     "colorable": false,
-                    "selectable": true,
+                    "selectable": false,
                     "preselectable": false,
                     "sellable": false,
                     "parts": [
@@ -12411,7 +12411,7 @@
                     "gender": "M",
                     "club": 0,
                     "colorable": true,
-                    "selectable": true,
+                    "selectable": false,
                     "preselectable": false,
                     "sellable": false,
                     "parts": [
@@ -12429,7 +12429,7 @@
                     "gender": "M",
                     "club": 0,
                     "colorable": false,
-                    "selectable": true,
+                    "selectable": false,
                     "preselectable": false,
                     "sellable": false,
                     "parts": [
@@ -12547,7 +12547,7 @@
                     "gender": "M",
                     "club": 0,
                     "colorable": true,
-                    "selectable": true,
+                    "selectable": false,
                     "preselectable": false,
                     "sellable": false,
                     "parts": [
@@ -12708,7 +12708,7 @@
                     "gender": "F",
                     "club": 0,
                     "colorable": true,
-                    "selectable": true,
+                    "selectable": false,
                     "preselectable": false,
                     "sellable": false,
                     "parts": [
@@ -12876,7 +12876,7 @@
                     "gender": "F",
                     "club": 0,
                     "colorable": false,
-                    "selectable": true,
+                    "selectable": false,
                     "preselectable": false,
                     "sellable": false,
                     "parts": [
@@ -12944,7 +12944,7 @@
                     "gender": "F",
                     "club": 0,
                     "colorable": true,
-                    "selectable": true,
+                    "selectable": false,
                     "preselectable": false,
                     "sellable": false,
                     "parts": [
@@ -12962,7 +12962,7 @@
                     "gender": "F",
                     "club": 0,
                     "colorable": false,
-                    "selectable": true,
+                    "selectable": false,
                     "preselectable": false,
                     "sellable": false,
                     "parts": [
@@ -13005,7 +13005,7 @@
                     "gender": "M",
                     "club": 0,
                     "colorable": false,
-                    "selectable": true,
+                    "selectable": false,
                     "preselectable": false,
                     "sellable": false,
                     "parts": [
@@ -13048,7 +13048,7 @@
                     "gender": "F",
                     "club": 0,
                     "colorable": true,
-                    "selectable": true,
+                    "selectable": false,
                     "preselectable": false,
                     "sellable": false,
                     "parts": [
@@ -13116,7 +13116,7 @@
                     "gender": "M",
                     "club": 0,
                     "colorable": false,
-                    "selectable": true,
+                    "selectable": false,
                     "preselectable": false,
                     "sellable": false,
                     "parts": [
@@ -13159,7 +13159,7 @@
                     "gender": "M",
                     "club": 0,
                     "colorable": true,
-                    "selectable": true,
+                    "selectable": false,
                     "preselectable": false,
                     "sellable": false,
                     "parts": [
@@ -13327,7 +13327,7 @@
                     "gender": "F",
                     "club": 2,
                     "colorable": true,
-                    "selectable": true,
+                    "selectable": false,
                     "preselectable": false,
                     "sellable": false,
                     "parts": [
@@ -13352,7 +13352,7 @@
                     "gender": "M",
                     "club": 2,
                     "colorable": true,
-                    "selectable": true,
+                    "selectable": false,
                     "preselectable": false,
                     "sellable": false,
                     "parts": [
@@ -13427,7 +13427,7 @@
                     "gender": "F",
                     "club": 2,
                     "colorable": true,
-                    "selectable": true,
+                    "selectable": false,
                     "preselectable": false,
                     "sellable": false,
                     "parts": [
@@ -13477,7 +13477,7 @@
                     "gender": "F",
                     "club": 2,
                     "colorable": true,
-                    "selectable": true,
+                    "selectable": false,
                     "preselectable": false,
                     "sellable": false,
                     "parts": [
@@ -13527,7 +13527,7 @@
                     "gender": "M",
                     "club": 2,
                     "colorable": true,
-                    "selectable": true,
+                    "selectable": false,
                     "preselectable": false,
                     "sellable": false,
                     "parts": [
@@ -13552,7 +13552,7 @@
                     "gender": "M",
                     "club": 2,
                     "colorable": true,
-                    "selectable": true,
+                    "selectable": false,
                     "preselectable": false,
                     "sellable": false,
                     "parts": [
@@ -13570,7 +13570,7 @@
                     "gender": "F",
                     "club": 2,
                     "colorable": true,
-                    "selectable": true,
+                    "selectable": false,
                     "preselectable": false,
                     "sellable": false,
                     "parts": [
@@ -13620,7 +13620,7 @@
                     "gender": "F",
                     "club": 2,
                     "colorable": true,
-                    "selectable": true,
+                    "selectable": false,
                     "preselectable": false,
                     "sellable": false,
                     "parts": [
@@ -13645,7 +13645,7 @@
                     "gender": "F",
                     "club": 2,
                     "colorable": false,
-                    "selectable": true,
+                    "selectable": false,
                     "preselectable": false,
                     "sellable": false,
                     "parts": [
@@ -13670,7 +13670,7 @@
                     "gender": "M",
                     "club": 2,
                     "colorable": true,
-                    "selectable": true,
+                    "selectable": false,
                     "preselectable": false,
                     "sellable": false,
                     "parts": [
@@ -13720,7 +13720,7 @@
                     "gender": "F",
                     "club": 2,
                     "colorable": true,
-                    "selectable": true,
+                    "selectable": false,
                     "preselectable": false,
                     "sellable": false,
                     "parts": [
@@ -13745,7 +13745,7 @@
                     "gender": "F",
                     "club": 2,
                     "colorable": true,
-                    "selectable": true,
+                    "selectable": false,
                     "preselectable": false,
                     "sellable": false,
                     "parts": [
@@ -13795,7 +13795,7 @@
                     "gender": "F",
                     "club": 2,
                     "colorable": true,
-                    "selectable": true,
+                    "selectable": false,
                     "preselectable": false,
                     "sellable": false,
                     "parts": [
@@ -13820,7 +13820,7 @@
                     "gender": "M",
                     "club": 2,
                     "colorable": true,
-                    "selectable": true,
+                    "selectable": false,
                     "preselectable": false,
                     "sellable": false,
                     "parts": [
@@ -13863,7 +13863,7 @@
                     "gender": "F",
                     "club": 2,
                     "colorable": true,
-                    "selectable": true,
+                    "selectable": false,
                     "preselectable": false,
                     "sellable": false,
                     "parts": [
@@ -13888,7 +13888,7 @@
                     "gender": "F",
                     "club": 2,
                     "colorable": true,
-                    "selectable": true,
+                    "selectable": false,
                     "preselectable": false,
                     "sellable": false,
                     "parts": [
@@ -13913,7 +13913,7 @@
                     "gender": "F",
                     "club": 2,
                     "colorable": true,
-                    "selectable": true,
+                    "selectable": false,
                     "preselectable": false,
                     "sellable": false,
                     "parts": [
@@ -13956,7 +13956,7 @@
                     "gender": "F",
                     "club": 2,
                     "colorable": true,
-                    "selectable": true,
+                    "selectable": false,
                     "preselectable": false,
                     "sellable": false,
                     "parts": [
@@ -14031,7 +14031,7 @@
                     "gender": "M",
                     "club": 2,
                     "colorable": true,
-                    "selectable": true,
+                    "selectable": false,
                     "preselectable": false,
                     "sellable": false,
                     "parts": [
@@ -14081,7 +14081,7 @@
                     "gender": "F",
                     "club": 2,
                     "colorable": true,
-                    "selectable": true,
+                    "selectable": false,
                     "preselectable": false,
                     "sellable": false,
                     "parts": [
@@ -14106,7 +14106,7 @@
                     "gender": "F",
                     "club": 2,
                     "colorable": true,
-                    "selectable": true,
+                    "selectable": false,
                     "preselectable": false,
                     "sellable": false,
                     "parts": [
@@ -14131,7 +14131,7 @@
                     "gender": "F",
                     "club": 2,
                     "colorable": true,
-                    "selectable": true,
+                    "selectable": false,
                     "preselectable": false,
                     "sellable": false,
                     "parts": [
@@ -14181,7 +14181,7 @@
                     "gender": "F",
                     "club": 2,
                     "colorable": true,
-                    "selectable": true,
+                    "selectable": false,
                     "preselectable": false,
                     "sellable": false,
                     "parts": [
@@ -14206,7 +14206,7 @@
                     "gender": "M",
                     "club": 2,
                     "colorable": true,
-                    "selectable": true,
+                    "selectable": false,
                     "preselectable": false,
                     "sellable": false,
                     "parts": [
@@ -14231,7 +14231,7 @@
                     "gender": "M",
                     "club": 2,
                     "colorable": true,
-                    "selectable": true,
+                    "selectable": false,
                     "preselectable": false,
                     "sellable": false,
                     "parts": [
@@ -14256,7 +14256,7 @@
                     "gender": "F",
                     "club": 2,
                     "colorable": true,
-                    "selectable": true,
+                    "selectable": false,
                     "preselectable": false,
                     "sellable": false,
                     "parts": [
@@ -14281,7 +14281,7 @@
                     "gender": "F",
                     "club": 2,
                     "colorable": true,
-                    "selectable": true,
+                    "selectable": false,
                     "preselectable": false,
                     "sellable": false,
                     "parts": [
@@ -14356,7 +14356,7 @@
                     "gender": "M",
                     "club": 2,
                     "colorable": true,
-                    "selectable": true,
+                    "selectable": false,
                     "preselectable": false,
                     "sellable": false,
                     "parts": [
@@ -14381,7 +14381,7 @@
                     "gender": "F",
                     "club": 2,
                     "colorable": true,
-                    "selectable": true,
+                    "selectable": false,
                     "preselectable": false,
                     "sellable": false,
                     "parts": [
@@ -14431,7 +14431,7 @@
                     "gender": "M",
                     "club": 2,
                     "colorable": true,
-                    "selectable": true,
+                    "selectable": false,
                     "preselectable": false,
                     "sellable": false,
                     "parts": [
@@ -14456,7 +14456,7 @@
                     "gender": "M",
                     "club": 2,
                     "colorable": true,
-                    "selectable": true,
+                    "selectable": false,
                     "preselectable": false,
                     "sellable": false,
                     "parts": [
@@ -14481,7 +14481,7 @@
                     "gender": "M",
                     "club": 2,
                     "colorable": true,
-                    "selectable": true,
+                    "selectable": false,
                     "preselectable": false,
                     "sellable": false,
                     "parts": [
@@ -14506,7 +14506,7 @@
                     "gender": "F",
                     "club": 2,
                     "colorable": true,
-                    "selectable": true,
+                    "selectable": false,
                     "preselectable": false,
                     "sellable": false,
                     "parts": [
@@ -14531,7 +14531,7 @@
                     "gender": "U",
                     "club": 2,
                     "colorable": true,
-                    "selectable": true,
+                    "selectable": false,
                     "preselectable": false,
                     "sellable": false,
                     "parts": [
@@ -14556,7 +14556,7 @@
                     "gender": "M",
                     "club": 2,
                     "colorable": true,
-                    "selectable": true,
+                    "selectable": false,
                     "preselectable": false,
                     "sellable": false,
                     "parts": [
@@ -14581,7 +14581,7 @@
                     "gender": "F",
                     "club": 2,
                     "colorable": true,
-                    "selectable": true,
+                    "selectable": false,
                     "preselectable": false,
                     "sellable": false,
                     "parts": [
@@ -14606,7 +14606,7 @@
                     "gender": "M",
                     "club": 2,
                     "colorable": true,
-                    "selectable": true,
+                    "selectable": false,
                     "preselectable": false,
                     "sellable": false,
                     "parts": [
