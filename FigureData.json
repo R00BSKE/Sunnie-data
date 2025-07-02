@@ -12590,7 +12590,7 @@
                     "gender": "M",
                     "club": 0,
                     "colorable": true,
-                    "selectable": true,
+                    "selectable": false,
                     "preselectable": false,
                     "sellable": false,
                     "parts": [
