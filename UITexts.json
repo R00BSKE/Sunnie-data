@@ -103,5 +103,9 @@
     "collectibles.info.title": "Info",
     "collectibles.score": "Collector XP:",
     "collectibles.high_score": "Hoogste XP aller tijden:",
-    "battlepass.current.season": "Seizoen 1"
+    "battlepass.current.season": "Seizoen 1",
+    "battlepass.title": "Battlepass",
+    "battlepass.countdown.hours": "Uur",
+    "battlepass.countdown.minutes":"Minuten",
+    "battlepass.countdown.seconds": "Seconden"
 }
