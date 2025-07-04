@@ -1,6 +1,7 @@
 {
   "productdata": {
     "product": [
+      { "code": "bubble-45", "name": "Snowstorm Chatbubble", "description": "" },
       { "code": "_hween12_scarecrow", "name": "", "description": "" },
       { "code": "wf_promo1", "name": "", "description": "" },
       { "code": "wf_promo2", "name": "", "description": "" },
