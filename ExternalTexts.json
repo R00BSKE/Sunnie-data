@@ -20764,6 +20764,8 @@
     "wiredfurni.params.chatcontains": "Bevat sleutelwoord",
     "wiredfurni.params.chattriggertype": "Kies type:",
     "wiredfurni.params.choose_type": "Selecteer type:",
+    "wiredfurni.params.click_user.block_menu_open": "Open het avatarmenu niet",
+    "wiredfurni.params.click_user.do_not_rotate": "Draai de speler niet",
     "wiredfurni.params.clock_control.0": "Start",
     "wiredfurni.params.clock_control.1": "Stop",
     "wiredfurni.params.clock_control.2": "Reset",
