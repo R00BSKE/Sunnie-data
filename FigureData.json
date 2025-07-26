@@ -99906,6 +99906,38 @@
                     ]
                 },
                 {
+                    "id": 6151,
+                    "gender": "U",
+                    "club": 0,
+                    "colorable": false,
+                    "selectable": true,
+                    "preselectable": false,
+                    "sellable": false,
+                    "parts": [
+                        {
+                            "id": 6768,
+                            "type": "cc",
+                            "colorable": false,
+                            "index": 0,
+                            "colorindex": 0
+                        },
+                        {
+                            "id": 6768,
+                            "type": "lc",
+                            "colorable": false,
+                            "index": 0,
+                            "colorindex": 0
+                        },
+                        {
+                            "id": 6768,
+                            "type": "rc",
+                            "colorable": false,
+                            "index": 0,
+                            "colorindex": 0
+                        }
+                    ]
+                },
+                {
                     "id": 9563,
                     "gender": "F",
                     "club": 2,
