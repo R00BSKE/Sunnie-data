@@ -107,5 +107,16 @@
     "battlepass.title": "Battlepass",
     "battlepass.countdown.hours": "Uur",
     "battlepass.countdown.minutes":"Minuten",
-    "battlepass.countdown.seconds": "Seconden"
+    "battlepass.countdown.seconds": "Seconden",
+    "battlepass.countdown.days": "Dagen",
+    "battlepass.level.text": "Level",
+    "battlepass.categories.community": "Community Challenges",
+    "battlepass.categories.quests": "Quests",
+    "battlepass.categories.collections": "Collections",
+    "battlepass.countdown.info": "We bevinden ons momenteel in Seizoen 1. Ervaring en beloningen worden gereset na:",
+    "battlepass.me.title": "Mijn Ervaring",
+    "battlepass.prize.next": "Je volgende prijs is:",
+    "battlepass.challenges.active": "Quests om te voltooien ",
+    "battlepass.rewards.title": "Prijzen",
+    "battlepass.challenges.title": "Uitdagingen"
 }
