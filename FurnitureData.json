@@ -444416,7 +444416,8 @@
                 "furniline": "wired",
                 "environment": null,
                 "rare": false
-            },{
+            },
+            {
                 "id": 100000,
                 "classname": "jamal_trofee",
                 "revision": 72921,
@@ -444441,7 +444442,8 @@
                 "furniline": "custom",
                 "environment": null,
                 "rare": false
-            },{
+            },
+            {
                 "id": 100001,
                 "classname": "Sunnie_RTC_chair",
                 "revision": 72921,
@@ -444466,7 +444468,8 @@
                 "furniline": "custom",
                 "environment": null,
                 "rare": false
-            },{
+            },
+            {
                 "id": 100002,
                 "classname": "Sunnie_RTC_sofa",
                 "revision": 72921,
@@ -444491,7 +444494,8 @@
                 "furniline": "custom",
                 "environment": null,
                 "rare": false
-            },{
+            },
+            {
                 "id": 100003,
                 "classname": "Sunnie_RTC_table",
                 "revision": 72921,
@@ -444516,7 +444520,8 @@
                 "furniline": "custom",
                 "environment": null,
                 "rare": false
-            },{
+            },
+            {
                 "id": 100004,
                 "classname": "kenji_statue",
                 "revision": 72921,
@@ -444528,6 +444533,32 @@
                 "description": "",
                 "adurl": null,
                 "offerid": 100004,
+                "buyout": true,
+                "rentofferid": -1,
+                "rentbuyout": false,
+                "bc": true,
+                "excludeddynamic": false,
+                "customparams": "null",
+                "specialtype": 1,
+                "canstandon": true,
+                "cansiton": false,
+                "canlayon": false,
+                "furniline": "custom",
+                "environment": null,
+                "rare": false
+            },
+            {
+                "id": 100005,
+                "classname": "crackable_egg",
+                "revision": 72921,
+                "category": "custom",
+                "defaultdir": 0,
+                "xdim": 1,
+                "ydim": 1,
+                "name": "Stenen Dino Ei",
+                "description": "",
+                "adurl": null,
+                "offerid": 100005,
                 "buyout": true,
                 "rentofferid": -1,
                 "rentbuyout": false,

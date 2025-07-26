@@ -1,88 +1,421 @@
 {
   "productdata": {
     "product": [
-      { "code": "bubble-45", "name": "Snowstorm Chatbubble", "description": "" },
-      { "code": "_hween12_scarecrow", "name": "", "description": "" },
-      { "code": "wf_promo1", "name": "", "description": "" },
-      { "code": "wf_promo2", "name": "", "description": "" },
-      { "code": "wf_promo3", "name": "", "description": "" },
-      { "code": "wf_promo4", "name": "", "description": "" },
-      { "code": "_artifact2_and_badge", "name": "", "description": "" },
-      { "code": "c_jngl_patch", "name": "", "description": "" },
-      { "code": "c_mossyrock", "name": "", "description": "" },
-      { "code": "c_talltree", "name": "", "description": "" },
-      { "code": "c_waterfall", "name": "", "description": "" },
-      { "code": "tibully_machine", "name": "", "description": "" },
-      { "code": "ster_c20_picnicfood", "name": "", "description": "" },
-      { "code": "t_A0_rarexmasscreen", "name": "", "description": "" },
-      { "code": "t_Christmas_Reindeer_Rare", "name": "", "description": "" },
-      { "code": "t_a0_pillow", "name": "", "description": "" },
-      { "code": "t_a0_snowrug", "name": "", "description": "" },
-      { "code": "t_a10_pillar", "name": "", "description": "" },
-      { "code": "t_a11_pillow", "name": "", "description": "" },
-      { "code": "t_a4_pillar", "name": "", "description": "" },
-      { "code": "t_a4_pillow", "name": "", "description": "" },
-      { "code": "t_a5_pillar", "name": "", "description": "" },
-      { "code": "t_a5_pillow", "name": "", "description": "" },
-      { "code": "t_a9_pillar", "name": "", "description": "" },
-      { "code": "t_a9_pillow", "name": "", "description": "" },
-      { "code": "t_army15_copter", "name": "", "description": "" },
-      { "code": "t_army15_dog", "name": "", "description": "" },
-      { "code": "t_army15_largescreen", "name": "", "description": "" },
-      { "code": "t_army15_scanner", "name": "", "description": "" },
-      { "code": "t_cland15_candythrone", "name": "", "description": "" },
-      { "code": "t_cland15_unicorn", "name": "", "description": "" },
-      { "code": "t_diamond_painting64", "name": "", "description": "" },
-      { "code": "t_diamond_painting65", "name": "", "description": "" },
-      { "code": "t_diamond_painting66", "name": "", "description": "" },
-      { "code": "t_diamond_painting68", "name": "", "description": "" },
-      { "code": "t_diamond_painting69", "name": "", "description": "" },
-      { "code": "t_diamond_painting70", "name": "", "description": "" },
-      { "code": "t_diamond_painting72", "name": "", "description": "" },
-      { "code": "t_diamond_painting73", "name": "", "description": "" },
-      { "code": "t_diamond_painting74", "name": "", "description": "" },
-      { "code": "t_diamond_painting75", "name": "", "description": "" },
-      { "code": "t_diamond_throne", "name": "", "description": "" },
-      { "code": "t_dino15_fossil2", "name": "", "description": "" },
-      { "code": "t_dino15_fossil3", "name": "", "description": "" },
-      { "code": "t_dino15_fossil4", "name": "", "description": "" },
-      { "code": "t_dino15_fossil5", "name": "", "description": "" },
-      { "code": "t_easter_r19_mysticalbird", "name": "", "description": "" },
-      { "code": "t_easter_r19_treeswing", "name": "", "description": "" },
-      { "code": "t_gold_c15_arc_statue", "name": "", "description": "" },
-      { "code": "t_ktchn15_bubblejuicerack", "name": "", "description": "" },
-      { "code": "t_ktchn15_cabinet", "name": "", "description": "" },
-      { "code": "t_ny16_stars", "name": "", "description": "" },
-      { "code": "t_qt_xm10_ice_fish", "name": "", "description": "" },
-      { "code": "t_qt_xm10_iceclubsofa", "name": "", "description": "" },
-      { "code": "t_qt_xm10_icedragon", "name": "", "description": "" },
-      { "code": "t_qt_xm10_iceelephant", "name": "", "description": "" },
-      { "code": "t_qt_xm10_icepillar", "name": "", "description": "" },
-      { "code": "t_qt_xm10_trex", "name": "", "description": "" },
-      { "code": "t_rare_r19_car1", "name": "", "description": "" },
-      { "code": "t_rare_royalchair", "name": "", "description": "" },
-      { "code": "t_rclr_sofa", "name": "", "description": "" },
-      { "code": "t_val_r19_bath", "name": "", "description": "" },
-      { "code": "t_val_r19_puppy", "name": "", "description": "" },
-      { "code": "t_val_r19_recordplayer", "name": "", "description": "" },
-      { "code": "t_val_r19_sofa", "name": "", "description": "" },
-      { "code": "t_xm09_cocoa", "name": "", "description": "" },
-      { "code": "t_xmas11_btlr", "name": "", "description": "" },
-      { "code": "t_xmas11_throne", "name": "", "description": "" },
-      { "code": "t_xmas12_nutcracker", "name": "", "description": "" },
-      { "code": "t_xmas14_sharkthrone", "name": "", "description": "" },
-      { "code": "t_xmas15_clocktower", "name": "", "description": "" },
-      { "code": "t_xmas15_rudolf", "name": "", "description": "" },
-      { "code": "t_xmas15_sleigh", "name": "", "description": "" },
-      { "code": "t_xmas15_stand", "name": "", "description": "" },
-      { "code": "_val11_discoball", "name": "", "description": "" },
-      { "code": "_val11_duckformer", "name": "", "description": "" },
-      { "code": "_val11_holoduck", "name": "", "description": "" },
-      { "code": "_val11_holoheart", "name": "", "description": "" },
-      { "code": "_val11_jellychair", "name": "", "description": "" },
-      { "code": "_val11_jellyheart", "name": "", "description": "" },
-      { "code": "_val11_nest", "name": "", "description": "" },
-      { "code": "re_dragonlamp*11", "name": "", "description": "" },
+      {
+        "code": "crackable_egg",
+        "name": "Stenen Dino Ei",
+        "description": ""
+      },
+      {
+        "code": "bubble-45",
+        "name": "Snowstorm Chatbubble",
+        "description": ""
+      },
+      {
+        "code": "_hween12_scarecrow",
+        "name": "",
+        "description": ""
+      },
+      {
+        "code": "wf_promo1",
+        "name": "",
+        "description": ""
+      },
+      {
+        "code": "wf_promo2",
+        "name": "",
+        "description": ""
+      },
+      {
+        "code": "wf_promo3",
+        "name": "",
+        "description": ""
+      },
+      {
+        "code": "wf_promo4",
+        "name": "",
+        "description": ""
+      },
+      {
+        "code": "_artifact2_and_badge",
+        "name": "",
+        "description": ""
+      },
+      {
+        "code": "c_jngl_patch",
+        "name": "",
+        "description": ""
+      },
+      {
+        "code": "c_mossyrock",
+        "name": "",
+        "description": ""
+      },
+      {
+        "code": "c_talltree",
+        "name": "",
+        "description": ""
+      },
+      {
+        "code": "c_waterfall",
+        "name": "",
+        "description": ""
+      },
+      {
+        "code": "tibully_machine",
+        "name": "",
+        "description": ""
+      },
+      {
+        "code": "ster_c20_picnicfood",
+        "name": "",
+        "description": ""
+      },
+      {
+        "code": "t_A0_rarexmasscreen",
+        "name": "",
+        "description": ""
+      },
+      {
+        "code": "t_Christmas_Reindeer_Rare",
+        "name": "",
+        "description": ""
+      },
+      {
+        "code": "t_a0_pillow",
+        "name": "",
+        "description": ""
+      },
+      {
+        "code": "t_a0_snowrug",
+        "name": "",
+        "description": ""
+      },
+      {
+        "code": "t_a10_pillar",
+        "name": "",
+        "description": ""
+      },
+      {
+        "code": "t_a11_pillow",
+        "name": "",
+        "description": ""
+      },
+      {
+        "code": "t_a4_pillar",
+        "name": "",
+        "description": ""
+      },
+      {
+        "code": "t_a4_pillow",
+        "name": "",
+        "description": ""
+      },
+      {
+        "code": "t_a5_pillar",
+        "name": "",
+        "description": ""
+      },
+      {
+        "code": "t_a5_pillow",
+        "name": "",
+        "description": ""
+      },
+      {
+        "code": "t_a9_pillar",
+        "name": "",
+        "description": ""
+      },
+      {
+        "code": "t_a9_pillow",
+        "name": "",
+        "description": ""
+      },
+      {
+        "code": "t_army15_copter",
+        "name": "",
+        "description": ""
+      },
+      {
+        "code": "t_army15_dog",
+        "name": "",
+        "description": ""
+      },
+      {
+        "code": "t_army15_largescreen",
+        "name": "",
+        "description": ""
+      },
+      {
+        "code": "t_army15_scanner",
+        "name": "",
+        "description": ""
+      },
+      {
+        "code": "t_cland15_candythrone",
+        "name": "",
+        "description": ""
+      },
+      {
+        "code": "t_cland15_unicorn",
+        "name": "",
+        "description": ""
+      },
+      {
+        "code": "t_diamond_painting64",
+        "name": "",
+        "description": ""
+      },
+      {
+        "code": "t_diamond_painting65",
+        "name": "",
+        "description": ""
+      },
+      {
+        "code": "t_diamond_painting66",
+        "name": "",
+        "description": ""
+      },
+      {
+        "code": "t_diamond_painting68",
+        "name": "",
+        "description": ""
+      },
+      {
+        "code": "t_diamond_painting69",
+        "name": "",
+        "description": ""
+      },
+      {
+        "code": "t_diamond_painting70",
+        "name": "",
+        "description": ""
+      },
+      {
+        "code": "t_diamond_painting72",
+        "name": "",
+        "description": ""
+      },
+      {
+        "code": "t_diamond_painting73",
+        "name": "",
+        "description": ""
+      },
+      {
+        "code": "t_diamond_painting74",
+        "name": "",
+        "description": ""
+      },
+      {
+        "code": "t_diamond_painting75",
+        "name": "",
+        "description": ""
+      },
+      {
+        "code": "t_diamond_throne",
+        "name": "",
+        "description": ""
+      },
+      {
+        "code": "t_dino15_fossil2",
+        "name": "",
+        "description": ""
+      },
+      {
+        "code": "t_dino15_fossil3",
+        "name": "",
+        "description": ""
+      },
+      {
+        "code": "t_dino15_fossil4",
+        "name": "",
+        "description": ""
+      },
+      {
+        "code": "t_dino15_fossil5",
+        "name": "",
+        "description": ""
+      },
+      {
+        "code": "t_easter_r19_mysticalbird",
+        "name": "",
+        "description": ""
+      },
+      {
+        "code": "t_easter_r19_treeswing",
+        "name": "",
+        "description": ""
+      },
+      {
+        "code": "t_gold_c15_arc_statue",
+        "name": "",
+        "description": ""
+      },
+      {
+        "code": "t_ktchn15_bubblejuicerack",
+        "name": "",
+        "description": ""
+      },
+      {
+        "code": "t_ktchn15_cabinet",
+        "name": "",
+        "description": ""
+      },
+      {
+        "code": "t_ny16_stars",
+        "name": "",
+        "description": ""
+      },
+      {
+        "code": "t_qt_xm10_ice_fish",
+        "name": "",
+        "description": ""
+      },
+      {
+        "code": "t_qt_xm10_iceclubsofa",
+        "name": "",
+        "description": ""
+      },
+      {
+        "code": "t_qt_xm10_icedragon",
+        "name": "",
+        "description": ""
+      },
+      {
+        "code": "t_qt_xm10_iceelephant",
+        "name": "",
+        "description": ""
+      },
+      {
+        "code": "t_qt_xm10_icepillar",
+        "name": "",
+        "description": ""
+      },
+      {
+        "code": "t_qt_xm10_trex",
+        "name": "",
+        "description": ""
+      },
+      {
+        "code": "t_rare_r19_car1",
+        "name": "",
+        "description": ""
+      },
+      {
+        "code": "t_rare_royalchair",
+        "name": "",
+        "description": ""
+      },
+      {
+        "code": "t_rclr_sofa",
+        "name": "",
+        "description": ""
+      },
+      {
+        "code": "t_val_r19_bath",
+        "name": "",
+        "description": ""
+      },
+      {
+        "code": "t_val_r19_puppy",
+        "name": "",
+        "description": ""
+      },
+      {
+        "code": "t_val_r19_recordplayer",
+        "name": "",
+        "description": ""
+      },
+      {
+        "code": "t_val_r19_sofa",
+        "name": "",
+        "description": ""
+      },
+      {
+        "code": "t_xm09_cocoa",
+        "name": "",
+        "description": ""
+      },
+      {
+        "code": "t_xmas11_btlr",
+        "name": "",
+        "description": ""
+      },
+      {
+        "code": "t_xmas11_throne",
+        "name": "",
+        "description": ""
+      },
+      {
+        "code": "t_xmas12_nutcracker",
+        "name": "",
+        "description": ""
+      },
+      {
+        "code": "t_xmas14_sharkthrone",
+        "name": "",
+        "description": ""
+      },
+      {
+        "code": "t_xmas15_clocktower",
+        "name": "",
+        "description": ""
+      },
+      {
+        "code": "t_xmas15_rudolf",
+        "name": "",
+        "description": ""
+      },
+      {
+        "code": "t_xmas15_sleigh",
+        "name": "",
+        "description": ""
+      },
+      {
+        "code": "t_xmas15_stand",
+        "name": "",
+        "description": ""
+      },
+      {
+        "code": "_val11_discoball",
+        "name": "",
+        "description": ""
+      },
+      {
+        "code": "_val11_duckformer",
+        "name": "",
+        "description": ""
+      },
+      {
+        "code": "_val11_holoduck",
+        "name": "",
+        "description": ""
+      },
+      {
+        "code": "_val11_holoheart",
+        "name": "",
+        "description": ""
+      },
+      {
+        "code": "_val11_jellychair",
+        "name": "",
+        "description": ""
+      },
+      {
+        "code": "_val11_jellyheart",
+        "name": "",
+        "description": ""
+      },
+      {
+        "code": "_val11_nest",
+        "name": "",
+        "description": ""
+      },
+      {
+        "code": "re_dragonlamp*11",
+        "name": "",
+        "description": ""
+      },
       {
         "code": " deal_nl_10bonzecoin",
         "name": "10 bronzen munten",
@@ -103,15 +436,31 @@
         "name": "Kattengras",
         "description": "Voor fitte kittens"
       },
-      { "code": "1-giveaway1", "name": "1-giveaway1", "description": "" },
-      { "code": "100_credits", "name": "100 Credits", "description": "" },
-      { "code": "105_credits", "name": "105 Credits", "description": "" },
+      {
+        "code": "1-giveaway1",
+        "name": "1-giveaway1",
+        "description": ""
+      },
+      {
+        "code": "100_credits",
+        "name": "100 Credits",
+        "description": ""
+      },
+      {
+        "code": "105_credits",
+        "name": "105 Credits",
+        "description": ""
+      },
       {
         "code": "10credits_prize_14",
         "name": "10 Credits!",
         "description": ""
       },
-      { "code": "110_credits", "name": "110 Credits", "description": "" },
+      {
+        "code": "110_credits",
+        "name": "110 Credits",
+        "description": ""
+      },
       {
         "code": "110c_50d",
         "name": "50 procent korting op 110 Credits",
@@ -122,43 +471,131 @@
         "name": "HC 14-days + 10 credits",
         "description": ""
       },
-      { "code": "14hc_8crd", "name": "", "description": "" },
-      { "code": "1credit_prize_14", "name": "1 Credit!", "description": "" },
-      { "code": "2-giveaway2", "name": "2-giveaway2", "description": "" },
-      { "code": "20_credits", "name": "20 Credits", "description": "" },
+      {
+        "code": "14hc_8crd",
+        "name": "",
+        "description": ""
+      },
+      {
+        "code": "1credit_prize_14",
+        "name": "1 Credit!",
+        "description": ""
+      },
+      {
+        "code": "2-giveaway2",
+        "name": "2-giveaway2",
+        "description": ""
+      },
+      {
+        "code": "20_credits",
+        "name": "20 Credits",
+        "description": ""
+      },
       {
         "code": "220c_100d",
         "name": "50 procent korting op 220 Credits",
         "description": "220 credits en diamanten voor de prijs van 110 credits! Aanbieding is 48 uur beschikbaar en beperkt tot één per persoon."
       },
-      { "code": "22_credits", "name": "22 Credits", "description": "" },
-      { "code": "25credit_prize_14", "name": "25 Credits!", "description": "" },
-      { "code": "2credit_prize_14", "name": "2 Credits!", "description": "" },
-      { "code": "3-giveaway3", "name": "3-giveaway3", "description": "" },
-      { "code": "30_credits", "name": "30 Credits", "description": "" },
+      {
+        "code": "22_credits",
+        "name": "22 Credits",
+        "description": ""
+      },
+      {
+        "code": "25credit_prize_14",
+        "name": "25 Credits!",
+        "description": ""
+      },
+      {
+        "code": "2credit_prize_14",
+        "name": "2 Credits!",
+        "description": ""
+      },
+      {
+        "code": "3-giveaway3",
+        "name": "3-giveaway3",
+        "description": ""
+      },
+      {
+        "code": "30_credits",
+        "name": "30 Credits",
+        "description": ""
+      },
       {
         "code": "30c",
         "name": "50 per cent Off 30 Credits",
         "description": "Get 30 credits and diamonds for the price of 15 credits! Offer available for 48 hours, limited to one per person"
       },
-      { "code": "35_credits", "name": "35 Credits", "description": "" },
-      { "code": "36_credits", "name": "36 Credits", "description": "" },
-      { "code": "3credit_prize_14", "name": "3 Credits!", "description": "" },
-      { "code": "4-giveaway4", "name": "4-giveaway4", "description": "" },
-      { "code": "40_credits", "name": "40 Credits", "description": "" },
-      { "code": "5-giveaway5", "name": "5-giveaway5", "description": "" },
-      { "code": "50_credits", "name": "50 Credits", "description": "" },
-      { "code": "5credit_prize_16", "name": "5 Credits!", "description": "" },
-      { "code": "5credit_prize_24", "name": "5 Credits", "description": "" },
-      { "code": "5credits_prize_14", "name": "5 Credits!", "description": "" },
-      { "code": "60_credits", "name": "60 Credits", "description": "" },
+      {
+        "code": "35_credits",
+        "name": "35 Credits",
+        "description": ""
+      },
+      {
+        "code": "36_credits",
+        "name": "36 Credits",
+        "description": ""
+      },
+      {
+        "code": "3credit_prize_14",
+        "name": "3 Credits!",
+        "description": ""
+      },
+      {
+        "code": "4-giveaway4",
+        "name": "4-giveaway4",
+        "description": ""
+      },
+      {
+        "code": "40_credits",
+        "name": "40 Credits",
+        "description": ""
+      },
+      {
+        "code": "5-giveaway5",
+        "name": "5-giveaway5",
+        "description": ""
+      },
+      {
+        "code": "50_credits",
+        "name": "50 Credits",
+        "description": ""
+      },
+      {
+        "code": "5credit_prize_16",
+        "name": "5 Credits!",
+        "description": ""
+      },
+      {
+        "code": "5credit_prize_24",
+        "name": "5 Credits",
+        "description": ""
+      },
+      {
+        "code": "5credits_prize_14",
+        "name": "5 Credits!",
+        "description": ""
+      },
+      {
+        "code": "60_credits",
+        "name": "60 Credits",
+        "description": ""
+      },
       {
         "code": "60c",
         "name": "50 per cent Off 60 Credits",
         "description": "Get 60 credits and diamonds for the price of 30 credits! Offer available for 48 hours, limited to one per person"
       },
-      { "code": "70_credits", "name": "70 Credits", "description": "" },
-      { "code": "80_credits", "name": "80 Credits", "description": "" },
+      {
+        "code": "70_credits",
+        "name": "70 Credits",
+        "description": ""
+      },
+      {
+        "code": "80_credits",
+        "name": "80 Credits",
+        "description": ""
+      },
       {
         "code": "A0 PILLOW_bd",
         "name": "$product_A0 pillow_name$",
@@ -179,31 +616,51 @@
         "name": "Grafsteen",
         "description": "Hier ligt..."
       },
-      { "code": "A0 petfood1_dt", "name": "Hondenbotjes", "description": "" },
+      {
+        "code": "A0 petfood1_dt",
+        "name": "Hondenbotjes",
+        "description": ""
+      },
       {
         "code": "A0 petfood1",
         "name": "Hondenbotjes",
         "description": "Een gezond hondenmaal  (550 voedingswaarde)"
       },
-      { "code": "A0 petfood2_dt", "name": "Sardientjes", "description": "" },
+      {
+        "code": "A0 petfood2_dt",
+        "name": "Sardientjes",
+        "description": ""
+      },
       {
         "code": "A0 petfood2",
         "name": "Sardientjes",
         "description": "Verse vangst van gisteren  (400 voedingswaarde)"
       },
-      { "code": "A0 petfood3_dt", "name": "Kool", "description": "" },
+      {
+        "code": "A0 petfood3_dt",
+        "name": "Kool",
+        "description": ""
+      },
       {
         "code": "A0 petfood3",
         "name": "Kool",
         "description": "Gezond dierenvoer  (325 voedingswaarde)"
       },
-      { "code": "A0 petgoodie1a_dt", "name": "Hondenkoek", "description": "" },
+      {
+        "code": "A0 petgoodie1a_dt",
+        "name": "Hondenkoek",
+        "description": ""
+      },
       {
         "code": "A0 petgoodie1a",
         "name": "Hondenkoek",
         "description": "Een lekker hapje voor de puppie (energiepunten: 100)"
       },
-      { "code": "A0 petgoodie1b_dt", "name": "Hondenkoek", "description": "" },
+      {
+        "code": "A0 petgoodie1b_dt",
+        "name": "Hondenkoek",
+        "description": ""
+      },
       {
         "code": "A0 petgoodie1b",
         "name": "Hondenkoek",
@@ -709,13 +1166,41 @@
         "name": "Agro Country Hits",
         "description": "Door Mannenkoor Habbospoor"
       },
-      { "code": "A0 sound_set_73", "name": "Sound set 73", "description": "" },
-      { "code": "A0 sound_set_74", "name": "Sound set 74", "description": "" },
-      { "code": "A0 sound_set_75", "name": "Sound set 75", "description": "" },
-      { "code": "A0 sound_set_76", "name": "Sound set 76", "description": "" },
-      { "code": "A0 sound_set_77", "name": "Sound set 77", "description": "" },
-      { "code": "A0 sound_set_78", "name": "Sound set 78", "description": "" },
-      { "code": "A0 sound_set_79", "name": "Sound set 79", "description": "" },
+      {
+        "code": "A0 sound_set_73",
+        "name": "Sound set 73",
+        "description": ""
+      },
+      {
+        "code": "A0 sound_set_74",
+        "name": "Sound set 74",
+        "description": ""
+      },
+      {
+        "code": "A0 sound_set_75",
+        "name": "Sound set 75",
+        "description": ""
+      },
+      {
+        "code": "A0 sound_set_76",
+        "name": "Sound set 76",
+        "description": ""
+      },
+      {
+        "code": "A0 sound_set_77",
+        "name": "Sound set 77",
+        "description": ""
+      },
+      {
+        "code": "A0 sound_set_78",
+        "name": "Sound set 78",
+        "description": ""
+      },
+      {
+        "code": "A0 sound_set_79",
+        "name": "Sound set 79",
+        "description": ""
+      },
       {
         "code": "A0 sound_set_7",
         "name": "Meubi Sounds 1",
@@ -1551,8 +2036,16 @@
         "name": "Grote eettafel",
         "description": "Hip plastic meubilair"
       },
-      { "code": "A2 KYNTTILAT1", "name": "White Candles", "description": "" },
-      { "code": "A2 KYNTTILAT2", "name": "Red Candles", "description": "" },
+      {
+        "code": "A2 KYNTTILAT1",
+        "name": "White Candles",
+        "description": ""
+      },
+      {
+        "code": "A2 KYNTTILAT2",
+        "name": "Red Candles",
+        "description": ""
+      },
       {
         "code": "A2 MAJAHARJU",
         "name": "Bijzettafel",
@@ -2793,7 +3286,11 @@
         "name": "Besneeuwde hagepoort",
         "description": "Hier naar binnen"
       },
-      { "code": "Credits", "name": "Credits", "description": "" },
+      {
+        "code": "Credits",
+        "name": "Credits",
+        "description": ""
+      },
       {
         "code": "DEAL_HC_1",
         "name": "1 maand Habbo Club",
@@ -2809,7 +3306,11 @@
         "name": "6 maanden Habbo Club",
         "description": "Koop 186 dagen voor 80 Credits (40 Credits korting)"
       },
-      { "code": "DEV ads_dave_cns", "name": "ads_dave_cns", "description": "" },
+      {
+        "code": "DEV ads_dave_cns",
+        "name": "ads_dave_cns",
+        "description": ""
+      },
       {
         "code": "DEV ads_mall_elevator",
         "name": "Habbo lift",
@@ -3145,7 +3646,11 @@
         "name": "Kleine tatami",
         "description": "2x2 vloertegels groot"
       },
-      { "code": "DEV kinkysofa", "name": "kinkysofa", "description": "" },
+      {
+        "code": "DEV kinkysofa",
+        "name": "kinkysofa",
+        "description": ""
+      },
       {
         "code": "DEV noob_window",
         "name": "Raam 'Starters'",
@@ -3591,8 +4096,16 @@
         "name": "Rode Zonnestoel",
         "description": "Zie jij de zon?"
       },
-      { "code": "DEV sw_chest", "name": "sw_chest", "description": "" },
-      { "code": "DEV sw_table", "name": "sw_table", "description": "" },
+      {
+        "code": "DEV sw_chest",
+        "name": "sw_chest",
+        "description": ""
+      },
+      {
+        "code": "DEV sw_table",
+        "name": "sw_table",
+        "description": ""
+      },
       {
         "code": "DEV tiki_bardesk",
         "name": "Tiki bar",
@@ -3973,7 +4486,11 @@
         "name": "Grote toorts",
         "description": "Licht in de jungle"
       },
-      { "code": "LT_skull", "name": "Schedel", "description": "Ex-scammer" },
+      {
+        "code": "LT_skull",
+        "name": "Schedel",
+        "description": "Ex-scammer"
+      },
       {
         "code": "LT_throne",
         "name": "Tempelzetel",
@@ -4639,7 +5156,11 @@
         "name": "Swords",
         "description": "Z for Zorro"
       },
-      { "code": "Snowflakes", "name": "Snowflakes", "description": "" },
+      {
+        "code": "Snowflakes",
+        "name": "Snowflakes",
+        "description": ""
+      },
       {
         "code": "Summer BBQ Grill Blue",
         "name": "Blauwe BBQ",
@@ -4670,7 +5191,11 @@
         "name": "IJslicht",
         "description": "Magische verschijning"
       },
-      { "code": "Tina Badge", "name": "Tina-Dag Badge", "description": "" },
+      {
+        "code": "Tina Badge",
+        "name": "Tina-Dag Badge",
+        "description": ""
+      },
       {
         "code": "VALENTINE_07_01",
         "name": "Groot hart",
@@ -5166,7 +5691,11 @@
         "name": "Typemachine",
         "description": "Schrijf hierop je bestseller"
       },
-      { "code": "a0 hologram_badge", "name": "Holo-Habbo", "description": "" },
+      {
+        "code": "a0 hologram_badge",
+        "name": "Holo-Habbo",
+        "description": ""
+      },
       {
         "code": "a0 hologram",
         "name": "Holo-Habbo",
@@ -5227,7 +5756,11 @@
         "name": "Maanperkje",
         "description": "Anno 1969"
       },
-      { "code": "a0 pet0", "name": "Hond en voer", "description": "" },
+      {
+        "code": "a0 pet0",
+        "name": "Hond en voer",
+        "description": ""
+      },
       {
         "code": "a0 pet10",
         "name": "Kuikentje en startersvoer",
@@ -5273,7 +5806,11 @@
         "name": "Verveelde Bunny en voedselpakket",
         "description": "Verveelde Bunny en voedselpakket"
       },
-      { "code": "a0 pet1", "name": "Kat en voer", "description": "" },
+      {
+        "code": "a0 pet1",
+        "name": "Kat en voer",
+        "description": ""
+      },
       {
         "code": "a0 pet20",
         "name": "Hyper Bunny en voedselpakket",
@@ -5304,7 +5841,11 @@
         "name": "Baby puppy en beginners voedsel pakket",
         "description": "Baby puppy en beginners voedselpakket"
       },
-      { "code": "a0 pet2", "name": "Kroko en voer", "description": "" },
+      {
+        "code": "a0 pet2",
+        "name": "Kroko en voer",
+        "description": ""
+      },
       {
         "code": "a0 pet30",
         "name": "Baby piglet and starter food",
@@ -5320,24 +5861,56 @@
         "name": "Epic Huisdier",
         "description": "Epic Huisdier"
       },
-      { "code": "a0 pet35", "name": "Cow Pet", "description": "Cow Pet" },
+      {
+        "code": "a0 pet35",
+        "name": "Cow Pet",
+        "description": "Cow Pet"
+      },
       {
         "code": "a0 pet36",
         "name": "Dragon Dog Pet",
         "description": "Dragon Dog Pet"
       },
-      { "code": "a0 pet3", "name": "Terriër en voer", "description": "" },
-      { "code": "a0 pet4", "name": "Beer en voer", "description": "" },
-      { "code": "a0 pet5", "name": "Big en voer", "description": "" },
-      { "code": "a0 pet6", "name": "Leeuw en voer", "description": "" },
-      { "code": "a0 pet7", "name": "Neushoorn en voer", "description": "" },
-      { "code": "a0 pet8", "name": "Spin en voedselpakket", "description": "" },
+      {
+        "code": "a0 pet3",
+        "name": "Terriër en voer",
+        "description": ""
+      },
+      {
+        "code": "a0 pet4",
+        "name": "Beer en voer",
+        "description": ""
+      },
+      {
+        "code": "a0 pet5",
+        "name": "Big en voer",
+        "description": ""
+      },
+      {
+        "code": "a0 pet6",
+        "name": "Leeuw en voer",
+        "description": ""
+      },
+      {
+        "code": "a0 pet7",
+        "name": "Neushoorn en voer",
+        "description": ""
+      },
+      {
+        "code": "a0 pet8",
+        "name": "Spin en voedselpakket",
+        "description": ""
+      },
       {
         "code": "a0 pet9",
         "name": "Schilpad en voedselpakket",
         "description": "Zo wit als sneeuw in de lente"
       },
-      { "code": "a0 petfood4_dt", "name": "Kotelletjes", "description": "" },
+      {
+        "code": "a0 petfood4_dt",
+        "name": "Kotelletjes",
+        "description": ""
+      },
       {
         "code": "a0 petfood4",
         "name": "Kotelletjes",
@@ -5523,7 +6096,11 @@
         "name": "$product_a0 rareparasolbrown_name$",
         "description": ""
       },
-      { "code": "a0 rbeehred_bd", "name": "Red Amber Lamp", "description": "" },
+      {
+        "code": "a0 rbeehred_bd",
+        "name": "Red Amber Lamp",
+        "description": ""
+      },
       {
         "code": "a0 rom_lamp",
         "name": "Kristallen staande lamp",
@@ -5769,7 +6346,11 @@
         "name": "Schijnwerper",
         "description": "Het is allemaal maar schijn"
       },
-      { "code": "a0 spyro_bd", "name": "Dino ei", "description": "" },
+      {
+        "code": "a0 spyro_bd",
+        "name": "Dino ei",
+        "description": ""
+      },
       {
         "code": "a0 spyro",
         "name": "Dino ei",
@@ -6160,7 +6741,11 @@
         "name": "Paarse Area Kruk",
         "description": "Practical and convenient"
       },
-      { "code": "a10 marquee_bd", "name": "Paarse Markies", "description": "" },
+      {
+        "code": "a10 marquee_bd",
+        "name": "Paarse Markies",
+        "description": ""
+      },
       {
         "code": "a10 marquee",
         "name": "Paarse Markies",
@@ -6286,7 +6871,11 @@
         "name": "White Icecream Machine",
         "description": "ice cold snacks"
       },
-      { "code": "a11 pillar_bd", "name": "Stenen zuil", "description": "" },
+      {
+        "code": "a11 pillar_bd",
+        "name": "Stenen zuil",
+        "description": ""
+      },
       {
         "code": "a11 pillar",
         "name": "Stenen zuil",
@@ -6472,7 +7061,11 @@
         "name": "De restjes",
         "description": "Hou je van kluiven?"
       },
-      { "code": "a2 heart", "name": "Groot hart", "description": "Vol liefde" },
+      {
+        "code": "a2 heart",
+        "name": "Groot hart",
+        "description": "Vol liefde"
+      },
       {
         "code": "a2 heartsofa",
         "name": "Loveseat",
@@ -6483,7 +7076,11 @@
         "name": "Holo-meisje",
         "description": "Een doorzichtig type"
       },
-      { "code": "a2 isosydan", "name": "Groot hart", "description": "" },
+      {
+        "code": "a2 isosydan",
+        "name": "Groot hart",
+        "description": ""
+      },
       {
         "code": "a2 juliste 83",
         "name": "Hoot Poster",
@@ -6494,7 +7091,11 @@
         "name": "Schedel met kaars",
         "description": "Boeh!"
       },
-      { "code": "a2 kamera", "name": "Camera", "description": "Smile!" },
+      {
+        "code": "a2 kamera",
+        "name": "Camera",
+        "description": "Smile!"
+      },
       {
         "code": "a2 kinkku",
         "name": "Lekker stukje vlees",
@@ -6510,7 +7111,11 @@
         "name": "Houten Kandelaar",
         "description": "De ouderwetse charme van kaarslicht"
       },
-      { "code": "a2 l", "name": "Vloer", "description": "Vloer" },
+      {
+        "code": "a2 l",
+        "name": "Vloer",
+        "description": "Vloer"
+      },
       {
         "code": "a2 legobench",
         "name": "Gymzaalbank",
@@ -6721,8 +7326,16 @@
         "name": "Loveseat",
         "description": "Romantisch samen onderuit"
       },
-      { "code": "a2 t", "name": "Muur", "description": "Muur" },
-      { "code": "a2 tipu", "name": "Pop-up ei", "description": "Kiek-ei-boe!" },
+      {
+        "code": "a2 t",
+        "name": "Muur",
+        "description": "Muur"
+      },
+      {
+        "code": "a2 tipu",
+        "name": "Pop-up ei",
+        "description": "Kiek-ei-boe!"
+      },
       {
         "code": "a2 trafficlightblue",
         "name": "Blauw verkeerslicht",
@@ -7053,7 +7666,11 @@
         "name": "Grijze Goth stoel",
         "description": "Duister smeedwerk"
       },
-      { "code": "a4 marquee_badge", "name": "Roze Markies", "description": "" },
+      {
+        "code": "a4 marquee_badge",
+        "name": "Roze Markies",
+        "description": ""
+      },
       {
         "code": "a4 marquee",
         "name": "Roze Markies",
@@ -7074,7 +7691,11 @@
         "name": "Aqua hoekstuk",
         "description": "Zacht maar onverbiddelijk"
       },
-      { "code": "a4 pillar_bd", "name": "Leap Day Pillar", "description": "" },
+      {
+        "code": "a4 pillar_bd",
+        "name": "Leap Day Pillar",
+        "description": ""
+      },
       {
         "code": "a4 pillar",
         "name": "Houten klassieke zuil",
@@ -7260,7 +7881,11 @@
         "name": "Groene Goth stoel",
         "description": "Duister smeedwerk"
       },
-      { "code": "a5 marquee_bd", "name": "Rode Markies", "description": "" },
+      {
+        "code": "a5 marquee_bd",
+        "name": "Rode Markies",
+        "description": ""
+      },
       {
         "code": "a5 marquee",
         "name": "Rode Markies",
@@ -7651,7 +8276,11 @@
         "name": "Kristallen tafel",
         "description": "Van het doorzichtige type"
       },
-      { "code": "a7 marquee_bd", "name": "Yellow Marquee", "description": "" },
+      {
+        "code": "a7 marquee_bd",
+        "name": "Yellow Marquee",
+        "description": ""
+      },
       {
         "code": "a7 marquee",
         "name": "Gele Markies",
@@ -7697,7 +8326,11 @@
         "name": "Gouden Vuurdraak",
         "description": "Een mythisch meubi"
       },
-      { "code": "a7 rare_fan_badge", "name": "Oranje Fan", "description": "" },
+      {
+        "code": "a7 rare_fan_badge",
+        "name": "Oranje Fan",
+        "description": ""
+      },
       {
         "code": "a7 rare_fan",
         "name": "Oranje Fan",
@@ -8013,7 +8646,11 @@
         "name": "Kristallen tafel",
         "description": "Van het doorzichtige type"
       },
-      { "code": "a9 marquee_bd", "name": "Blue Marquee", "description": "" },
+      {
+        "code": "a9 marquee_bd",
+        "name": "Blue Marquee",
+        "description": ""
+      },
       {
         "code": "a9 marquee",
         "name": "Lichtblauwe Markies",
@@ -8139,7 +8776,11 @@
         "name": "Paars kamerscherm",
         "description": "Voor een oosterse touch"
       },
-      { "code": "aapotestch", "name": "", "description": "" },
+      {
+        "code": "aapotestch",
+        "name": "",
+        "description": ""
+      },
       {
         "code": "acc_eye_U_vrheadset",
         "name": "MVHQ VR Headset",
@@ -8170,13 +8811,41 @@
         "name": "1800 Omgekeerde Telefooncel",
         "description": ""
       },
-      { "code": "ads_711_1", "name": "ads_711", "description": "" },
-      { "code": "ads_711_2", "name": "ads_711", "description": "" },
-      { "code": "ads_711_3", "name": "ads_711", "description": "" },
-      { "code": "ads_711_4", "name": "ads_711", "description": "" },
-      { "code": "ads_711_5", "name": "ads_711", "description": "" },
-      { "code": "ads_711_6", "name": "ads_711", "description": "" },
-      { "code": "ads_711_7", "name": "ads_711", "description": "" },
+      {
+        "code": "ads_711_1",
+        "name": "ads_711",
+        "description": ""
+      },
+      {
+        "code": "ads_711_2",
+        "name": "ads_711",
+        "description": ""
+      },
+      {
+        "code": "ads_711_3",
+        "name": "ads_711",
+        "description": ""
+      },
+      {
+        "code": "ads_711_4",
+        "name": "ads_711",
+        "description": ""
+      },
+      {
+        "code": "ads_711_5",
+        "name": "ads_711",
+        "description": ""
+      },
+      {
+        "code": "ads_711_6",
+        "name": "ads_711",
+        "description": ""
+      },
+      {
+        "code": "ads_711_7",
+        "name": "ads_711",
+        "description": ""
+      },
       {
         "code": "ads_711shelf",
         "name": "ads_711shelf name",
@@ -10182,13 +10851,21 @@
         "name": "Gordeldier",
         "description": "america_r17_armadillo desc"
       },
-      { "code": "america_r17_beaver_bd", "name": "Bever", "description": "" },
+      {
+        "code": "america_r17_beaver_bd",
+        "name": "Bever",
+        "description": ""
+      },
       {
         "code": "america_r17_beaver",
         "name": "Bever",
         "description": "america_r17_beaver desc"
       },
-      { "code": "america_r17_eagle_bd", "name": "Adelaar", "description": "" },
+      {
+        "code": "america_r17_eagle_bd",
+        "name": "Adelaar",
+        "description": ""
+      },
       {
         "code": "america_r17_eagle",
         "name": "Adelaar",
@@ -10349,7 +11026,11 @@
         "name": "Jungle Waterval",
         "description": "Een vredig plekje in de jungle"
       },
-      { "code": "android_hat_and_badge", "name": "", "description": "" },
+      {
+        "code": "android_hat_and_badge",
+        "name": "",
+        "description": ""
+      },
       {
         "code": "animal_r21_gorilla_bd",
         "name": "Zilverrug Gorilla",
@@ -10715,14 +11396,26 @@
         "name": "Rariteitenkabinet",
         "description": "antique_r21_curiocabinet desc"
       },
-      { "code": "apr14_wrestling_internal", "name": "", "description": "" },
-      { "code": "apr15_candyland1_internal", "name": "", "description": "" },
+      {
+        "code": "apr14_wrestling_internal",
+        "name": "",
+        "description": ""
+      },
+      {
+        "code": "apr15_candyland1_internal",
+        "name": "",
+        "description": ""
+      },
       {
         "code": "apr15_candyland2_internal",
         "name": "Alien Bundle Internal",
         "description": ""
       },
-      { "code": "apr15_candyland3_internal", "name": "", "description": "" },
+      {
+        "code": "apr15_candyland3_internal",
+        "name": "",
+        "description": ""
+      },
       {
         "code": "apr15_candyland5_internal_10c",
         "name": "Bloemen Boerderij Bundel",
@@ -11643,7 +12336,11 @@
         "name": "Publiekstoel",
         "description": "WE WANT MORE! WE WANT MORE!"
       },
-      { "code": "aug14_wildwest_internal", "name": "", "description": "" },
+      {
+        "code": "aug14_wildwest_internal",
+        "name": "",
+        "description": ""
+      },
       {
         "code": "aug17_dyepack_tto1",
         "name": "Secondary Dye Packs TTO 1",
@@ -11694,7 +12391,11 @@
         "name": "20% korting op Sunlight City items",
         "description": ""
       },
-      { "code": "aug_prize1", "name": "Crafting Prize", "description": "" },
+      {
+        "code": "aug_prize1",
+        "name": "Crafting Prize",
+        "description": ""
+      },
       {
         "code": "august14_wagon_internal",
         "name": "Frontier Train Internal",
@@ -11835,7 +12536,11 @@
         "name": "Bronzen Medaille",
         "description": "Jij bent een kampioen!"
       },
-      { "code": "avatar_effect10_dt", "name": "Vliegen", "description": "" },
+      {
+        "code": "avatar_effect10_dt",
+        "name": "Vliegen",
+        "description": ""
+      },
       {
         "code": "avatar_effect10",
         "name": "Vliegen",
@@ -11866,7 +12571,11 @@
         "name": "Ultimate Spider-Man Masker",
         "description": "Ultimate Spider-Man Masker"
       },
-      { "code": "avatar_effect113_dt", "name": "Regenwolk", "description": "" },
+      {
+        "code": "avatar_effect113_dt",
+        "name": "Regenwolk",
+        "description": ""
+      },
       {
         "code": "avatar_effect113",
         "name": "Regenwolk",
@@ -11897,7 +12606,11 @@
         "name": "Vliegenkop",
         "description": "Eeek! Ga hier eens mee daten en kijk of uiterlijk echt niet uitmaakt."
       },
-      { "code": "avatar_effect117_dt", "name": "Beulskap", "description": "" },
+      {
+        "code": "avatar_effect117_dt",
+        "name": "Beulskap",
+        "description": ""
+      },
       {
         "code": "avatar_effect117",
         "name": "Beulskap",
@@ -11923,7 +12636,11 @@
         "name": "Kostuum Alien",
         "description": "Rechtstreeks uit Roswell"
       },
-      { "code": "avatar_effect11_dt", "name": "X-Ray", "description": "" },
+      {
+        "code": "avatar_effect11_dt",
+        "name": "X-Ray",
+        "description": ""
+      },
       {
         "code": "avatar_effect11",
         "name": "X-Ray",
@@ -12004,7 +12721,11 @@
         "name": "Mes in Rug",
         "description": "Ouch! Die zag ik niet aankomen"
       },
-      { "code": "avatar_effect12_dt", "name": "Bevroren", "description": "" },
+      {
+        "code": "avatar_effect12_dt",
+        "name": "Bevroren",
+        "description": ""
+      },
       {
         "code": "avatar_effect12",
         "name": "Bevroren",
@@ -12105,7 +12826,11 @@
         "name": "Laat je horen!",
         "description": "Gouden Microfoon"
       },
-      { "code": "avatar_effect13_dt", "name": "Geest", "description": "" },
+      {
+        "code": "avatar_effect13_dt",
+        "name": "Geest",
+        "description": ""
+      },
       {
         "code": "avatar_effect13",
         "name": "Geest",
@@ -12331,19 +13056,31 @@
         "name": "Mutantenmasker",
         "description": "Over smaak valt niet te twisten. Schoonheid ligt overal."
       },
-      { "code": "avatar_effect168", "name": "L0V3", "description": "" },
+      {
+        "code": "avatar_effect168",
+        "name": "L0V3",
+        "description": ""
+      },
       {
         "code": "avatar_effect169",
         "name": "Slime_name",
         "description": "Slime_desc"
       },
-      { "code": "avatar_effect16_dt", "name": "Microfoon", "description": "" },
+      {
+        "code": "avatar_effect16_dt",
+        "name": "Microfoon",
+        "description": ""
+      },
       {
         "code": "avatar_effect16",
         "name": "Microfoon",
         "description": "Take it away, Habbo"
       },
-      { "code": "avatar_effect170_dt", "name": "Duck_name", "description": "" },
+      {
+        "code": "avatar_effect170_dt",
+        "name": "Duck_name",
+        "description": ""
+      },
       {
         "code": "avatar_effect170",
         "name": "Duck_name",
@@ -12414,7 +13151,11 @@
         "name": "Luchador Masker",
         "description": "Dit effect is blijvend voor 6 dagen"
       },
-      { "code": "avatar_effect17_dt", "name": "Roze UFO", "description": "" },
+      {
+        "code": "avatar_effect17_dt",
+        "name": "Roze UFO",
+        "description": ""
+      },
       {
         "code": "avatar_effect17",
         "name": "Roze UFO",
@@ -12490,7 +13231,11 @@
         "name": "Mobiles Disco FX_name",
         "description": "Mobiles Disco FX_desc"
       },
-      { "code": "avatar_effect18_dt", "name": "Gele UFO", "description": "" },
+      {
+        "code": "avatar_effect18_dt",
+        "name": "Gele UFO",
+        "description": ""
+      },
       {
         "code": "avatar_effect18",
         "name": "Gele UFO",
@@ -12551,13 +13296,21 @@
         "name": "Turtle ride_name",
         "description": "Turtle ride_desc"
       },
-      { "code": "avatar_effect19_dt", "name": "Blue Ride", "description": "" },
+      {
+        "code": "avatar_effect19_dt",
+        "name": "Blue Ride",
+        "description": ""
+      },
       {
         "code": "avatar_effect19",
         "name": "Blue Ride",
         "description": "Met gewapend glas."
       },
-      { "code": "avatar_effect1_dt", "name": "Volgspot", "description": "" },
+      {
+        "code": "avatar_effect1_dt",
+        "name": "Volgspot",
+        "description": ""
+      },
       {
         "code": "avatar_effect1",
         "name": "Volgspot",
@@ -12613,7 +13366,11 @@
         "name": "LightstickGreen_name",
         "description": "LightstickGreen_desc"
       },
-      { "code": "avatar_effect20_dt", "name": "Habbulance", "description": "" },
+      {
+        "code": "avatar_effect20_dt",
+        "name": "Habbulance",
+        "description": ""
+      },
       {
         "code": "avatar_effect20",
         "name": "Habbulance",
@@ -12669,7 +13426,11 @@
         "name": "Hide_name",
         "description": "Hide_desc"
       },
-      { "code": "avatar_effect21_dt", "name": "Rebel Ride", "description": "" },
+      {
+        "code": "avatar_effect21_dt",
+        "name": "Rebel Ride",
+        "description": ""
+      },
       {
         "code": "avatar_effect21",
         "name": "Rebel Ride",
@@ -12715,7 +13476,11 @@
         "name": "NFTRoboHolo_name",
         "description": "NFTRoboHolo_desc"
       },
-      { "code": "avatar_effect22_dt", "name": "Flame Ride", "description": "" },
+      {
+        "code": "avatar_effect22_dt",
+        "name": "Flame Ride",
+        "description": ""
+      },
       {
         "code": "avatar_effect22",
         "name": "Flame Ride",
@@ -12816,7 +13581,11 @@
         "name": "Ice skating - Girls_name",
         "description": "Ice skating - Girls_desc"
       },
-      { "code": "avatar_effect3_dt", "name": "UFO", "description": "" },
+      {
+        "code": "avatar_effect3_dt",
+        "name": "UFO",
+        "description": ""
+      },
       {
         "code": "avatar_effect3",
         "name": "UFO",
@@ -12862,7 +13631,11 @@
         "name": "Megamind Hoofd",
         "description": "Tijdelijk verkrijgbaar!"
       },
-      { "code": "avatar_effect48_dt", "name": "Puppybus", "description": "" },
+      {
+        "code": "avatar_effect48_dt",
+        "name": "Puppybus",
+        "description": ""
+      },
       {
         "code": "avatar_effect48",
         "name": "Puppybus",
@@ -12873,7 +13646,11 @@
         "name": "ES red Untouchable_name",
         "description": "ES red Untouchable_desc"
       },
-      { "code": "avatar_effect4_dt", "name": "Sprankel", "description": "" },
+      {
+        "code": "avatar_effect4_dt",
+        "name": "Sprankel",
+        "description": ""
+      },
       {
         "code": "avatar_effect4",
         "name": "Sprankel",
@@ -12929,7 +13706,11 @@
         "name": "sunnydelight_name",
         "description": "sunnydelight_desc"
       },
-      { "code": "avatar_effect5_dt", "name": "Fakkel", "description": "" },
+      {
+        "code": "avatar_effect5_dt",
+        "name": "Fakkel",
+        "description": ""
+      },
       {
         "code": "avatar_effect5",
         "name": "Fakkel",
@@ -12990,7 +13771,11 @@
         "name": "volkswagen_name",
         "description": "volkswagen_desc"
       },
-      { "code": "avatar_effect6_dt", "name": "Jet-Pack", "description": "" },
+      {
+        "code": "avatar_effect6_dt",
+        "name": "Jet-Pack",
+        "description": ""
+      },
       {
         "code": "avatar_effect6",
         "name": "Jet-Pack",
@@ -13206,7 +13991,11 @@
         "name": "Niko Effect",
         "description": "Een pittig staartje..."
       },
-      { "code": "avatar_effect9_dt", "name": "Verliefd", "description": "" },
+      {
+        "code": "avatar_effect9_dt",
+        "name": "Verliefd",
+        "description": ""
+      },
       {
         "code": "avatar_effect9",
         "name": "Verliefd",
@@ -13882,7 +14671,11 @@
         "name": "Geel/Blauwe Bazaar Vaas",
         "description": "bazaar_c17_vaseyellowbluetrim desc"
       },
-      { "code": "bazaar_ltd17_ele_bd", "name": "Nelly", "description": "" },
+      {
+        "code": "bazaar_ltd17_ele_bd",
+        "name": "Nelly",
+        "description": ""
+      },
       {
         "code": "bazaar_ltd17_ele",
         "name": "Nelly",
@@ -14113,19 +14906,71 @@
         "name": "Banzai Teddyklauw",
         "description": "Hier ga ik nachtmerries van krijgen..."
       },
-      { "code": "bbj_p10", "name": "Bubblejuice Pack . 10", "description": "" },
-      { "code": "bbj_p11", "name": "Bubblejuice Pack 11", "description": "" },
-      { "code": "bbj_p12", "name": "Bubblejuice Pack . 12", "description": "" },
-      { "code": "bbj_p1", "name": "Bubblejuice Pack . 1", "description": "" },
-      { "code": "bbj_p2", "name": "Bubblejuice Pack . 2", "description": "" },
-      { "code": "bbj_p3", "name": "Bubblejuice Pack . 3", "description": "" },
-      { "code": "bbj_p4", "name": "Bubblejuice Pack . 4", "description": "" },
-      { "code": "bbj_p5", "name": "Bubblejuice Pack . 5", "description": "" },
-      { "code": "bbj_p6", "name": "Bubblejuice Pack . 6", "description": "" },
-      { "code": "bbj_p7", "name": "Bubblejuice Pack . 7", "description": "" },
-      { "code": "bbj_p8", "name": "Bubblejuice Pack . 8", "description": "" },
-      { "code": "bbj_p9", "name": "Bubblejuice Pack . 9", "description": "" },
-      { "code": "bbj_p", "name": "Bubblejuice Pakket", "description": "" },
+      {
+        "code": "bbj_p10",
+        "name": "Bubblejuice Pack . 10",
+        "description": ""
+      },
+      {
+        "code": "bbj_p11",
+        "name": "Bubblejuice Pack 11",
+        "description": ""
+      },
+      {
+        "code": "bbj_p12",
+        "name": "Bubblejuice Pack . 12",
+        "description": ""
+      },
+      {
+        "code": "bbj_p1",
+        "name": "Bubblejuice Pack . 1",
+        "description": ""
+      },
+      {
+        "code": "bbj_p2",
+        "name": "Bubblejuice Pack . 2",
+        "description": ""
+      },
+      {
+        "code": "bbj_p3",
+        "name": "Bubblejuice Pack . 3",
+        "description": ""
+      },
+      {
+        "code": "bbj_p4",
+        "name": "Bubblejuice Pack . 4",
+        "description": ""
+      },
+      {
+        "code": "bbj_p5",
+        "name": "Bubblejuice Pack . 5",
+        "description": ""
+      },
+      {
+        "code": "bbj_p6",
+        "name": "Bubblejuice Pack . 6",
+        "description": ""
+      },
+      {
+        "code": "bbj_p7",
+        "name": "Bubblejuice Pack . 7",
+        "description": ""
+      },
+      {
+        "code": "bbj_p8",
+        "name": "Bubblejuice Pack . 8",
+        "description": ""
+      },
+      {
+        "code": "bbj_p9",
+        "name": "Bubblejuice Pack . 9",
+        "description": ""
+      },
+      {
+        "code": "bbj_p",
+        "name": "Bubblejuice Pakket",
+        "description": ""
+      },
       {
         "code": "bbl_fnc3",
         "name": "Grote Arenamuur",
@@ -18681,7 +19526,11 @@
         "name": "186 dagen BC",
         "description": "Bevat 186 dagen Builders' Club lidmaatschap"
       },
-      { "code": "bc_gift_186days", "name": "186 dagen BC", "description": "" },
+      {
+        "code": "bc_gift_186days",
+        "name": "186 dagen BC",
+        "description": ""
+      },
       {
         "code": "bc_gift_31days",
         "name": "31 dagen BC",
@@ -18692,13 +19541,21 @@
         "name": "62 dagen BC",
         "description": "Bevat 62 dagen Builders' Club lidmaatschap"
       },
-      { "code": "bc_gift_62days", "name": "62 dagen BC", "description": "" },
+      {
+        "code": "bc_gift_62days",
+        "name": "62 dagen BC",
+        "description": ""
+      },
       {
         "code": "bc_gift_93days_bundle",
         "name": "93 dagen BC",
         "description": "Bevat 93 dagen Builders' Club lidmaatschap"
       },
-      { "code": "bc_gift_93days", "name": "93 dagen BC", "description": "" },
+      {
+        "code": "bc_gift_93days",
+        "name": "93 dagen BC",
+        "description": ""
+      },
       {
         "code": "bc_glasspanel_10",
         "name": "Glas Paneel 10",
@@ -25454,8 +26311,16 @@
         "name": "Kraanvogel",
         "description": ""
       },
-      { "code": "birds_r18_jpcrane", "name": "Kraanvogel", "description": "" },
-      { "code": "birds_r18_peacock_bd", "name": "Pauw", "description": "" },
+      {
+        "code": "birds_r18_jpcrane",
+        "name": "Kraanvogel",
+        "description": ""
+      },
+      {
+        "code": "birds_r18_peacock_bd",
+        "name": "Pauw",
+        "description": ""
+      },
       {
         "code": "birds_r18_peacock",
         "name": "Pauw",
@@ -25471,7 +26336,11 @@
         "name": "Papegaaiduiker",
         "description": "birds_r18_puffin desc"
       },
-      { "code": "birds_r18_quetzal_bd", "name": "Quetzal", "description": "" },
+      {
+        "code": "birds_r18_quetzal_bd",
+        "name": "Quetzal",
+        "description": ""
+      },
       {
         "code": "birds_r18_quetzal",
         "name": "Quetzal",
@@ -26027,7 +26896,11 @@
         "name": "Bollywood venster",
         "description": "Dramatisch, toch?"
       },
-      { "code": "bone throne", "name": "Bottentroon", "description": "" },
+      {
+        "code": "bone throne",
+        "name": "Bottentroon",
+        "description": ""
+      },
       {
         "code": "bonusbag16_1",
         "name": "Bonus Zak",
@@ -27238,9 +28111,21 @@
         "name": "Zwarte Beenlamp",
         "description": "bonusrare23_4_5 desc"
       },
-      { "code": "bonusrare24_1_0", "name": "Citruskuiken", "description": "" },
-      { "code": "bonusrare24_1_1", "name": "Mintkuiken", "description": "" },
-      { "code": "bonusrare24_1_2", "name": "Tarokuiken", "description": "" },
+      {
+        "code": "bonusrare24_1_0",
+        "name": "Citruskuiken",
+        "description": ""
+      },
+      {
+        "code": "bonusrare24_1_1",
+        "name": "Mintkuiken",
+        "description": ""
+      },
+      {
+        "code": "bonusrare24_1_2",
+        "name": "Tarokuiken",
+        "description": ""
+      },
       {
         "code": "bonusrare24_1_3",
         "name": "Chocolade Kuiken",
@@ -27251,7 +28136,11 @@
         "name": "Bananen Kuiken",
         "description": ""
       },
-      { "code": "bonusrare24_1_5", "name": "Bessenkuiken", "description": "" },
+      {
+        "code": "bonusrare24_1_5",
+        "name": "Bessenkuiken",
+        "description": ""
+      },
       {
         "code": "bonusrare24_1_a_1",
         "name": "Citruskuiken",
@@ -27662,7 +28551,11 @@
         "name": "Kassa",
         "description": "Show me the money!"
       },
-      { "code": "boutique_chair", "name": "", "description": "" },
+      {
+        "code": "boutique_chair",
+        "name": "",
+        "description": ""
+      },
       {
         "code": "boutique_changing1",
         "name": "Rood Pashokje",
@@ -27683,9 +28576,21 @@
         "name": "Stapeltje kleding",
         "description": "Wel weer netjes opvouwen!"
       },
-      { "code": "boutique_clothingstall1", "name": "", "description": "" },
-      { "code": "boutique_clothingstall2", "name": "", "description": "" },
-      { "code": "boutique_clothingstall3", "name": "", "description": "" },
+      {
+        "code": "boutique_clothingstall1",
+        "name": "",
+        "description": ""
+      },
+      {
+        "code": "boutique_clothingstall2",
+        "name": "",
+        "description": ""
+      },
+      {
+        "code": "boutique_clothingstall3",
+        "name": "",
+        "description": ""
+      },
       {
         "code": "boutique_clrack1",
         "name": "Boutique Kledingrek 1",
@@ -27721,7 +28626,11 @@
         "name": "Vloerdeel Vierkant 'Donker'",
         "description": "Glanzen diamantenmotief"
       },
-      { "code": "boutique_floorlamp", "name": "", "description": "" },
+      {
+        "code": "boutique_floorlamp",
+        "name": "",
+        "description": ""
+      },
       {
         "code": "boutique_hcsign",
         "name": "HC gouden plak",
@@ -27787,7 +28696,11 @@
         "name": "VIP Sign",
         "description": "boutique_vipsign desc"
       },
-      { "code": "bowl", "name": "Bordje", "description": "bowl desc" },
+      {
+        "code": "bowl",
+        "name": "Bordje",
+        "description": "bowl desc"
+      },
       {
         "code": "br_phoenix",
         "name": "Vlammende Phoenix",
@@ -27808,9 +28721,21 @@
         "name": "brnd_cscape_wall name",
         "description": "brnd_cscape_wall desc"
       },
-      { "code": "bts22_p1", "name": "Art Pack", "description": "" },
-      { "code": "bts22_p2", "name": "Band Pack", "description": "" },
-      { "code": "bts22_p3", "name": "Sport Pack", "description": "" },
+      {
+        "code": "bts22_p1",
+        "name": "Art Pack",
+        "description": ""
+      },
+      {
+        "code": "bts22_p2",
+        "name": "Band Pack",
+        "description": ""
+      },
+      {
+        "code": "bts22_p3",
+        "name": "Sport Pack",
+        "description": ""
+      },
       {
         "code": "bubble_lamp1",
         "name": "Pura Bubble Lamp",
@@ -28111,10 +29036,26 @@
         "name": "Verkeerspilon",
         "description": "Regel jij het verkeer?"
       },
-      { "code": "bunny17_badge", "name": "BUN01", "description": "" },
-      { "code": "bunny18_badge", "name": "BUN04", "description": "" },
-      { "code": "bunny19_badge", "name": "BUN03", "description": "" },
-      { "code": "bunny20_badge", "name": "BUN02", "description": "" },
+      {
+        "code": "bunny17_badge",
+        "name": "BUN01",
+        "description": ""
+      },
+      {
+        "code": "bunny18_badge",
+        "name": "BUN04",
+        "description": ""
+      },
+      {
+        "code": "bunny19_badge",
+        "name": "BUN03",
+        "description": ""
+      },
+      {
+        "code": "bunny20_badge",
+        "name": "BUN02",
+        "description": ""
+      },
       {
         "code": "button_c22_rosegold",
         "name": "Rosé Gouden Knop",
@@ -28305,7 +29246,11 @@
         "name": "Roze Surfboard",
         "description": "Totally awesome!"
       },
-      { "code": "bw_shower", "name": "Douche", "description": "*gorgel*" },
+      {
+        "code": "bw_shower",
+        "name": "Douche",
+        "description": "*gorgel*"
+      },
       {
         "code": "bw_sofa_g",
         "name": "Groene Drijfbank",
@@ -28386,7 +29331,11 @@
         "name": "Hoge koraalafscheiding",
         "description": "Corallium Habbomurum"
       },
-      { "code": "camera", "name": "camera name", "description": "camera desc" },
+      {
+        "code": "camera",
+        "name": "camera name",
+        "description": "camera desc"
+      },
       {
         "code": "cameraproto",
         "name": "cameraproto name",
@@ -28457,7 +29406,11 @@
         "name": "Candy Startpakket",
         "description": "Roze luik, Roze Hoekstuk and twee Roze Bars"
       },
-      { "code": "cannon", "name": "Kanon", "description": "Boem!" },
+      {
+        "code": "cannon",
+        "name": "Kanon",
+        "description": "Boem!"
+      },
       {
         "code": "captain_bundle_10_credits",
         "name": "Kapiteinsbundel en 10 Credits",
@@ -28748,7 +29701,11 @@
         "name": "Meester Show Puppy",
         "description": ""
       },
-      { "code": "cdscscds", "name": "", "description": "" },
+      {
+        "code": "cdscscds",
+        "name": "",
+        "description": ""
+      },
       {
         "code": "celestial_c19_aurora",
         "name": "Sterrenkijker Afscheiding",
@@ -28959,9 +29916,21 @@
         "name": "Witte Toren",
         "description": "chess_w_rook desc"
       },
-      { "code": "chicken10_badge", "name": "CHK01", "description": "" },
-      { "code": "chicken21_badge", "name": "CHK02", "description": "" },
-      { "code": "chicken22_badge", "name": "CHK05", "description": "" },
+      {
+        "code": "chicken10_badge",
+        "name": "CHK01",
+        "description": ""
+      },
+      {
+        "code": "chicken21_badge",
+        "name": "CHK02",
+        "description": ""
+      },
+      {
+        "code": "chicken22_badge",
+        "name": "CHK05",
+        "description": ""
+      },
       {
         "code": "china_c21_gong",
         "name": "Traditionele Gong",
@@ -29397,9 +30366,21 @@
         "name": "Filmster Trailer",
         "description": "cine_r18_trailer desc"
       },
-      { "code": "cine_roof", "name": "Gala entree", "description": "Welkom!" },
-      { "code": "cine_roombundle", "name": "", "description": "" },
-      { "code": "cine_roombundle_xml", "name": "", "description": "" },
+      {
+        "code": "cine_roof",
+        "name": "Gala entree",
+        "description": "Welkom!"
+      },
+      {
+        "code": "cine_roombundle",
+        "name": "",
+        "description": ""
+      },
+      {
+        "code": "cine_roombundle_xml",
+        "name": "",
+        "description": ""
+      },
       {
         "code": "cine_screen",
         "name": "Bioscoopscherm",
@@ -29780,7 +30761,11 @@
         "name": "Bratz Cloe´s haarband",
         "description": ""
       },
-      { "code": "cl_bratzheels_bd", "name": "Bratz hakken", "description": "" },
+      {
+        "code": "cl_bratzheels_bd",
+        "name": "Bratz hakken",
+        "description": ""
+      },
       {
         "code": "cl_bratzjadebeanie_bd",
         "name": "Bratz Jade´s Muts",
@@ -29831,7 +30816,11 @@
         "name": "Jaren 80 Nostalgische Outfit",
         "description": ""
       },
-      { "code": "cl_r25_goose_bd", "name": "Ganzenvriend", "description": "" },
+      {
+        "code": "cl_r25_goose_bd",
+        "name": "Ganzenvriend",
+        "description": ""
+      },
       {
         "code": "cl_r25_poshwaistcoat_bd",
         "name": "Chique Gilet",
@@ -34347,7 +35336,11 @@
         "name": "Cartoon Heldin Gezicht",
         "description": "clothing_nftcartoonheroine desc"
       },
-      { "code": "clothing_nftcat", "name": "Kat Cafe Kat", "description": "" },
+      {
+        "code": "clothing_nftcat",
+        "name": "Kat Cafe Kat",
+        "description": ""
+      },
       {
         "code": "clothing_nftcatheadband2",
         "name": "Zwarte Neko Haarband",
@@ -39443,7 +40436,11 @@
         "name": "Traditioneel Thais Pak",
         "description": "clothing_thaisuit desc"
       },
-      { "code": "clothing_theoneset_bd", "name": "Neo Set", "description": "" },
+      {
+        "code": "clothing_theoneset_bd",
+        "name": "Neo Set",
+        "description": ""
+      },
       {
         "code": "clothing_theoneset",
         "name": "Neo Set",
@@ -39999,7 +40996,11 @@
         "name": "cmp_nobox name",
         "description": "cmp_nobox desc"
       },
-      { "code": "cmp_sub", "name": "Submarine", "description": "" },
+      {
+        "code": "cmp_sub",
+        "name": "Submarine",
+        "description": ""
+      },
       {
         "code": "cny16_monkeyballoon_badge",
         "name": "Apen Ballon",
@@ -40770,7 +41771,11 @@
         "name": "Planken",
         "description": "Nooit vieze voeten"
       },
-      { "code": "country_rain", "name": "Regenbui", "description": "...bobba" },
+      {
+        "code": "country_rain",
+        "name": "Regenbui",
+        "description": "...bobba"
+      },
       {
         "code": "country_rbw",
         "name": "Regenboog",
@@ -41976,7 +42981,11 @@
         "name": "3JS Donderdag Deal",
         "description": "33% korting!"
       },
-      { "code": "deal_3jssub", "name": "3js sub", "description": "" },
+      {
+        "code": "deal_3jssub",
+        "name": "3js sub",
+        "description": ""
+      },
       {
         "code": "deal_3mannequin",
         "name": "Drie Mannequin Deal",
@@ -42067,8 +43076,16 @@
         "name": "Bronzen munt",
         "description": "Waarde: 5 Habbo Credits"
       },
-      { "code": "deal_5goldcoins", "name": "Gouden Munt", "description": "" },
-      { "code": "deal_5meiSub", "name": "5 Mei Sub", "description": "" },
+      {
+        "code": "deal_5goldcoins",
+        "name": "Gouden Munt",
+        "description": ""
+      },
+      {
+        "code": "deal_5meiSub",
+        "name": "5 Mei Sub",
+        "description": ""
+      },
       {
         "code": "deal_5meidonder",
         "name": "5 Mei Donderdag Deal",
@@ -42364,7 +43381,11 @@
         "name": "Kampioenendag Deal!",
         "description": "33% korting"
       },
-      { "code": "deal_ajaxsub", "name": "ajax", "description": "" },
+      {
+        "code": "deal_ajaxsub",
+        "name": "ajax",
+        "description": ""
+      },
       {
         "code": "deal_albinoturtle",
         "name": "Albino  Schildpad Badge",
@@ -42455,8 +43476,16 @@
         "name": "Slaapkamerset",
         "description": "Weltrusten... zzzzzz"
       },
-      { "code": "deal_bestvalue1", "name": "bestvalue1", "description": "" },
-      { "code": "deal_bestvalue2", "name": "bestvalue2", "description": "" },
+      {
+        "code": "deal_bestvalue1",
+        "name": "bestvalue1",
+        "description": ""
+      },
+      {
+        "code": "deal_bestvalue2",
+        "name": "bestvalue2",
+        "description": ""
+      },
       {
         "code": "deal_bigbrother",
         "name": "Big Brotherdeal",
@@ -42537,7 +43566,11 @@
         "name": "Carnaval Sub1",
         "description": ""
       },
-      { "code": "deal_chickbadge", "name": "Kuiken Badge", "description": "" },
+      {
+        "code": "deal_chickbadge",
+        "name": "Kuiken Badge",
+        "description": ""
+      },
       {
         "code": "deal_china_lantern",
         "name": "Geluks Lantaarn + Badge",
@@ -42628,7 +43661,11 @@
         "name": "Dubbele Regenboog Deal",
         "description": "33% korting!"
       },
-      { "code": "deal_douche2", "name": "Twee douches", "description": "" },
+      {
+        "code": "deal_douche2",
+        "name": "Twee douches",
+        "description": ""
+      },
       {
         "code": "deal_dragonbadge1",
         "name": "Draken Badge",
@@ -42764,7 +43801,11 @@
         "name": "LED-tv voor sportkijkers",
         "description": "Voor supporters van Portugal"
       },
-      { "code": "deal_freezesub", "name": "Sub Freeze", "description": "" },
+      {
+        "code": "deal_freezesub",
+        "name": "Sub Freeze",
+        "description": ""
+      },
       {
         "code": "deal_frogbadge",
         "name": "Gewone Kikker Badge",
@@ -43335,7 +44376,11 @@
         "name": "Woonboulevard Donderdagdeal",
         "description": "33% korting!"
       },
-      { "code": "deal_nl_LIONBADGE", "name": "LION BADGE", "description": "" },
+      {
+        "code": "deal_nl_LIONBADGE",
+        "name": "LION BADGE",
+        "description": ""
+      },
       {
         "code": "deal_nl_OSCARthursday",
         "name": "Donderdag Deal: de Red Carpet!",
@@ -43476,9 +44521,21 @@
         "name": "Costa Donderdag Deal",
         "description": "50% korting!"
       },
-      { "code": "deal_nl_costasub1", "name": "Costa Sub 1", "description": "" },
-      { "code": "deal_nl_costasub2", "name": "Costa Sub 2", "description": "" },
-      { "code": "deal_nl_costasub3", "name": "Costa Sub 3", "description": "" },
+      {
+        "code": "deal_nl_costasub1",
+        "name": "Costa Sub 1",
+        "description": ""
+      },
+      {
+        "code": "deal_nl_costasub2",
+        "name": "Costa Sub 2",
+        "description": ""
+      },
+      {
+        "code": "deal_nl_costasub3",
+        "name": "Costa Sub 3",
+        "description": ""
+      },
       {
         "code": "deal_nl_country_grass10",
         "name": "Grasmat",
@@ -43789,7 +44846,11 @@
         "name": "IJstijd-pakket",
         "description": "50% korting"
       },
-      { "code": "deal_nl_icepatch6", "name": "IJsperkje", "description": "" },
+      {
+        "code": "deal_nl_icepatch6",
+        "name": "IJsperkje",
+        "description": ""
+      },
       {
         "code": "deal_nl_icewall25 ",
         "name": "IJswand",
@@ -44245,8 +45306,16 @@
         "name": "Donderdag Psychi Deal",
         "description": "33% korting op psychische bijstand!"
       },
-      { "code": "deal_nl_psysub1", "name": "Psy Sub 1", "description": "" },
-      { "code": "deal_nl_psysub2", "name": "Psy Sub 2", "description": "" },
+      {
+        "code": "deal_nl_psysub1",
+        "name": "Psy Sub 1",
+        "description": ""
+      },
+      {
+        "code": "deal_nl_psysub2",
+        "name": "Psy Sub 2",
+        "description": ""
+      },
       {
         "code": "deal_nl_relawall10",
         "name": "Tien Knuffelmuren",
@@ -44432,8 +45501,16 @@
         "name": "Sub 5 Credits - 1",
         "description": ""
       },
-      { "code": "deal_nl_subEU1", "name": "Sub EU deal", "description": "" },
-      { "code": "deal_nl_subEU2", "name": "Sub EU deal 2", "description": "" },
+      {
+        "code": "deal_nl_subEU1",
+        "name": "Sub EU deal",
+        "description": ""
+      },
+      {
+        "code": "deal_nl_subEU2",
+        "name": "Sub EU deal 2",
+        "description": ""
+      },
       {
         "code": "deal_nl_subKONINGINNEDAG1",
         "name": "Subdeal Koninginnedag 1",
@@ -44454,8 +45531,16 @@
         "name": "Analisten 1",
         "description": ""
       },
-      { "code": "deal_nl_subbbq1", "name": "Sub BBQ 1", "description": "" },
-      { "code": "deal_nl_subbbq2", "name": "Sub BBQ 2", "description": "" },
+      {
+        "code": "deal_nl_subbbq1",
+        "name": "Sub BBQ 1",
+        "description": ""
+      },
+      {
+        "code": "deal_nl_subbbq2",
+        "name": "Sub BBQ 2",
+        "description": ""
+      },
       {
         "code": "deal_nl_subcourt1",
         "name": "Sub Rechtbank 1",
@@ -44586,8 +45671,16 @@
         "name": "Subdeal Pets 2",
         "description": ""
       },
-      { "code": "deal_nl_subsail1", "name": "SubSail1", "description": "" },
-      { "code": "deal_nl_subsail2", "name": "SubSail2", "description": "" },
+      {
+        "code": "deal_nl_subsail1",
+        "name": "SubSail1",
+        "description": ""
+      },
+      {
+        "code": "deal_nl_subsail2",
+        "name": "SubSail2",
+        "description": ""
+      },
       {
         "code": "deal_nl_subsoccer",
         "name": "Subdeal Soccer",
@@ -44608,10 +45701,26 @@
         "name": "Sub Vedettes 1",
         "description": ""
       },
-      { "code": "deal_nl_subwoon1", "name": "Sub Woon 1", "description": "" },
-      { "code": "deal_nl_subwoon2", "name": "Sub Woon 2", "description": "" },
-      { "code": "deal_nl_subwoon3", "name": "Sub Woon 3", "description": "" },
-      { "code": "deal_nl_subwoon4", "name": "Sub Woon 4", "description": "" },
+      {
+        "code": "deal_nl_subwoon1",
+        "name": "Sub Woon 1",
+        "description": ""
+      },
+      {
+        "code": "deal_nl_subwoon2",
+        "name": "Sub Woon 2",
+        "description": ""
+      },
+      {
+        "code": "deal_nl_subwoon3",
+        "name": "Sub Woon 3",
+        "description": ""
+      },
+      {
+        "code": "deal_nl_subwoon4",
+        "name": "Sub Woon 4",
+        "description": ""
+      },
       {
         "code": "deal_nl_svnr1",
         "name": "Klomp",
@@ -44632,7 +45741,11 @@
         "name": "Australische wegwijzer",
         "description": "Redelijk Zeldzaam"
       },
-      { "code": "deal_nl_tbone6", "name": "", "description": "" },
+      {
+        "code": "deal_nl_tbone6",
+        "name": "",
+        "description": ""
+      },
       {
         "code": "deal_nl_testdeal041208",
         "name": "testdeal",
@@ -45078,7 +46191,11 @@
         "name": "Literair Leeshoekje",
         "description": "Om rustig de nieuwsbrief te lezen"
       },
-      { "code": "deal_redlion", "name": "Rode Leeuw Badge", "description": "" },
+      {
+        "code": "deal_redlion",
+        "name": "Rode Leeuw Badge",
+        "description": ""
+      },
       {
         "code": "deal_rela_candles1_ninja_effect",
         "name": "Witte Geurkaarsen",
@@ -45149,13 +46266,21 @@
         "name": "Rock en Roll Deal",
         "description": "5 Credits korting!"
       },
-      { "code": "deal_rocknroll", "name": "Sub RockNRoll", "description": "" },
+      {
+        "code": "deal_rocknroll",
+        "name": "Sub RockNRoll",
+        "description": ""
+      },
       {
         "code": "deal_rocknrollthur",
         "name": "Rock 'n Roll Deal",
         "description": "5 Credits korting op een leven als rockster!"
       },
-      { "code": "deal_rocksub", "name": "Sub Rock", "description": "" },
+      {
+        "code": "deal_rocksub",
+        "name": "Sub Rock",
+        "description": ""
+      },
       {
         "code": "deal_roller12",
         "name": "Twaalf Rolschaatsperkjes",
@@ -45311,13 +46436,21 @@
         "name": "6 Schaatsperkjes",
         "description": "50% korting!"
       },
-      { "code": "deal_skate", "name": "Skate deal test", "description": "" },
+      {
+        "code": "deal_skate",
+        "name": "Skate deal test",
+        "description": ""
+      },
       {
         "code": "deal_skating",
         "name": "Skaterdag Deal",
         "description": "33% korting op de nieuwe Skate Meubi"
       },
-      { "code": "deal_skatingsub", "name": "Skatesub", "description": "" },
+      {
+        "code": "deal_skatingsub",
+        "name": "Skatesub",
+        "description": ""
+      },
       {
         "code": "deal_skihutdonder",
         "name": "Ski Hut Donderdag Deal",
@@ -45363,8 +46496,16 @@
         "name": "Sneeuwperkje",
         "description": "Je persoonlijke sneeuwlandschap"
       },
-      { "code": "deal_soccersub1", "name": "Soccer Sub 1", "description": "" },
-      { "code": "deal_soccersub2", "name": "Soccer Sub 2", "description": "" },
+      {
+        "code": "deal_soccersub1",
+        "name": "Soccer Sub 1",
+        "description": ""
+      },
+      {
+        "code": "deal_soccersub2",
+        "name": "Soccer Sub 2",
+        "description": ""
+      },
       {
         "code": "deal_spangas_nl",
         "name": "een SpangaS op Survival Slaapzak! Gefeliciteerd!",
@@ -45430,8 +46571,16 @@
         "name": "Studentenset",
         "description": "Je hoeft van niemand dit op te ruimen"
       },
-      { "code": "deal_subSINT1", "name": "Sub Sint 1", "description": "" },
-      { "code": "deal_subSINT2", "name": "Sub Sint 2", "description": "" },
+      {
+        "code": "deal_subSINT1",
+        "name": "Sub Sint 1",
+        "description": ""
+      },
+      {
+        "code": "deal_subSINT2",
+        "name": "Sub Sint 2",
+        "description": ""
+      },
       {
         "code": "deal_subbarbeque",
         "name": "sub_dealzomeraktie2011",
@@ -45457,7 +46606,11 @@
         "name": "Big Brotherdeal sub 1",
         "description": "33% korting"
       },
-      { "code": "deal_subeaster", "name": "Sub Pasen", "description": "" },
+      {
+        "code": "deal_subeaster",
+        "name": "Sub Pasen",
+        "description": ""
+      },
       {
         "code": "deal_subgezellig1",
         "name": "Sub Gezellig 1",
@@ -45468,24 +46621,56 @@
         "name": "Sub Gezellig 2",
         "description": ""
       },
-      { "code": "deal_subohohtirol", "name": "Sub Tirol", "description": "" },
-      { "code": "deal_suboprah", "name": "Sub Oprah", "description": "" },
-      { "code": "deal_suborgano1", "name": "Sub Organo 1", "description": "" },
-      { "code": "deal_suborgano2", "name": "Sub Organo 2", "description": "" },
+      {
+        "code": "deal_subohohtirol",
+        "name": "Sub Tirol",
+        "description": ""
+      },
+      {
+        "code": "deal_suboprah",
+        "name": "Sub Oprah",
+        "description": ""
+      },
+      {
+        "code": "deal_suborgano1",
+        "name": "Sub Organo 1",
+        "description": ""
+      },
+      {
+        "code": "deal_suborgano2",
+        "name": "Sub Organo 2",
+        "description": ""
+      },
       {
         "code": "deal_subpianodon",
         "name": "Sub Piano Deal",
         "description": ""
       },
-      { "code": "deal_subrainbow", "name": "Sub Rainbow", "description": "" },
-      { "code": "deal_subskihut1", "name": "Sub Ski 1", "description": "" },
-      { "code": "deal_subskihut2", "name": "Sub Ski 2", "description": "" },
+      {
+        "code": "deal_subrainbow",
+        "name": "Sub Rainbow",
+        "description": ""
+      },
+      {
+        "code": "deal_subskihut1",
+        "name": "Sub Ski 1",
+        "description": ""
+      },
+      {
+        "code": "deal_subskihut2",
+        "name": "Sub Ski 2",
+        "description": ""
+      },
       {
         "code": "deal_subspiderhome",
         "name": "Sub Spiderhome",
         "description": ""
       },
-      { "code": "deal_subtandarts", "name": "Sub Tandarts", "description": "" },
+      {
+        "code": "deal_subtandarts",
+        "name": "Sub Tandarts",
+        "description": ""
+      },
       {
         "code": "deal_supporter",
         "name": "Supporterskoopje",
@@ -45496,7 +46681,11 @@
         "name": "Subdeal2 surprise wk482010",
         "description": ""
       },
-      { "code": "deal_sursub1", "name": "subdeal surprise", "description": "" },
+      {
+        "code": "deal_sursub1",
+        "name": "subdeal surprise",
+        "description": ""
+      },
       {
         "code": "deal_sushi",
         "name": "Sushi-pakket",
@@ -45512,7 +46701,11 @@
         "name": "Zes Kotelletjes",
         "description": "Krachtvoer voor je Kroko"
       },
-      { "code": "deal_thumb", "name": "Thumb's Up Deal", "description": "" },
+      {
+        "code": "deal_thumb",
+        "name": "Thumb's Up Deal",
+        "description": ""
+      },
       {
         "code": "deal_thurboer",
         "name": "Boer zoekt Habbo Donderdag Deal",
@@ -45553,7 +46746,11 @@
         "name": "Twintig Tijgerprintjes",
         "description": "45 Credits korting!"
       },
-      { "code": "deal_tikibar", "name": "Tiki bar-koopje", "description": "" },
+      {
+        "code": "deal_tikibar",
+        "name": "Tiki bar-koopje",
+        "description": ""
+      },
       {
         "code": "deal_tikijungle",
         "name": "Jungleperkje",
@@ -45574,7 +46771,11 @@
         "name": "Tiki Totem",
         "description": "Aanbeden door de Tikitoa"
       },
-      { "code": "deal_tmfbe", "name": "TMF.be Badge", "description": "" },
+      {
+        "code": "deal_tmfbe",
+        "name": "TMF.be Badge",
+        "description": ""
+      },
       {
         "code": "deal_trax1_hitkrant",
         "name": "Hitkrant Traxpakket",
@@ -45715,11 +46916,31 @@
         "name": "Strand Disco Pakket",
         "description": "Feesten met een hete korting van 33%"
       },
-      { "code": "dec15_pet1_internal", "name": "", "description": "" },
-      { "code": "dec15_pet2_internal", "name": "", "description": "" },
-      { "code": "dec15_pet3_internal", "name": "", "description": "" },
-      { "code": "dec15_pet4_internal", "name": "", "description": "" },
-      { "code": "dec15_pet5_internal", "name": "", "description": "" },
+      {
+        "code": "dec15_pet1_internal",
+        "name": "",
+        "description": ""
+      },
+      {
+        "code": "dec15_pet2_internal",
+        "name": "",
+        "description": ""
+      },
+      {
+        "code": "dec15_pet3_internal",
+        "name": "",
+        "description": ""
+      },
+      {
+        "code": "dec15_pet4_internal",
+        "name": "",
+        "description": ""
+      },
+      {
+        "code": "dec15_pet5_internal",
+        "name": "",
+        "description": ""
+      },
       {
         "code": "dec19_craft_tto1",
         "name": "Crafting Offer",
@@ -46595,10 +47816,26 @@
         "name": "Diamonds",
         "description": "Seasonal currency 5"
       },
-      { "code": "dic14_xmas3_internal", "name": "", "description": "" },
-      { "code": "dic14_xmas4_internal", "name": "", "description": "" },
-      { "code": "dic14_xmas5_internal", "name": "", "description": "" },
-      { "code": "dic14_xmas6_internal", "name": "", "description": "" },
+      {
+        "code": "dic14_xmas3_internal",
+        "name": "",
+        "description": ""
+      },
+      {
+        "code": "dic14_xmas4_internal",
+        "name": "",
+        "description": ""
+      },
+      {
+        "code": "dic14_xmas5_internal",
+        "name": "",
+        "description": ""
+      },
+      {
+        "code": "dic14_xmas6_internal",
+        "name": "",
+        "description": ""
+      },
       {
         "code": "dimmer_buttn",
         "name": "Lichtknop",
@@ -47404,20 +48641,76 @@
         "name": "Eendenkast",
         "description": "ducket_c25_wardrobe desc"
       },
-      { "code": "duckets_100", "name": "100 Duckets", "description": "" },
-      { "code": "duckets_10", "name": "10 Duckets", "description": "" },
-      { "code": "duckets_1", "name": "1 Ducket", "description": "" },
-      { "code": "duckets_200", "name": "200 Duckets", "description": "" },
-      { "code": "duckets_25", "name": "25 Duckets", "description": "" },
-      { "code": "duckets_400", "name": "400 Duckets", "description": "" },
-      { "code": "duckets_40", "name": "40 Duckets", "description": "" },
-      { "code": "duckets_5", "name": "5 Duckets", "description": "" },
-      { "code": "ea22_p1", "name": "Insect Box Pack 1", "description": "" },
-      { "code": "ea22_p2", "name": "Insect Box Pack 2", "description": "" },
-      { "code": "ea22_p3", "name": "Insect Box Pack 3", "description": "" },
-      { "code": "ea22_p4", "name": "Insect Box Pack 4", "description": "" },
-      { "code": "ea22_p5", "name": "Insect Box Pack 5", "description": "" },
-      { "code": "ea22_p6", "name": "Insect Box Pack 6", "description": "" },
+      {
+        "code": "duckets_100",
+        "name": "100 Duckets",
+        "description": ""
+      },
+      {
+        "code": "duckets_10",
+        "name": "10 Duckets",
+        "description": ""
+      },
+      {
+        "code": "duckets_1",
+        "name": "1 Ducket",
+        "description": ""
+      },
+      {
+        "code": "duckets_200",
+        "name": "200 Duckets",
+        "description": ""
+      },
+      {
+        "code": "duckets_25",
+        "name": "25 Duckets",
+        "description": ""
+      },
+      {
+        "code": "duckets_400",
+        "name": "400 Duckets",
+        "description": ""
+      },
+      {
+        "code": "duckets_40",
+        "name": "40 Duckets",
+        "description": ""
+      },
+      {
+        "code": "duckets_5",
+        "name": "5 Duckets",
+        "description": ""
+      },
+      {
+        "code": "ea22_p1",
+        "name": "Insect Box Pack 1",
+        "description": ""
+      },
+      {
+        "code": "ea22_p2",
+        "name": "Insect Box Pack 2",
+        "description": ""
+      },
+      {
+        "code": "ea22_p3",
+        "name": "Insect Box Pack 3",
+        "description": ""
+      },
+      {
+        "code": "ea22_p4",
+        "name": "Insect Box Pack 4",
+        "description": ""
+      },
+      {
+        "code": "ea22_p5",
+        "name": "Insect Box Pack 5",
+        "description": ""
+      },
+      {
+        "code": "ea22_p6",
+        "name": "Insect Box Pack 6",
+        "description": ""
+      },
       {
         "code": "ea22_p7",
         "name": "Apparel Bag + Insect Box Pack 4",
@@ -49988,7 +51281,11 @@
         "name": "Sprookjesbos Schommel",
         "description": "easter_r19_treeswing desc"
       },
-      { "code": "easter_r20_goat_bd", "name": "Berggeit", "description": "" },
+      {
+        "code": "easter_r20_goat_bd",
+        "name": "Berggeit",
+        "description": ""
+      },
       {
         "code": "easter_r20_mountaingoat",
         "name": "Berggeit",
@@ -50484,7 +51781,11 @@
         "name": "elerock1 name",
         "description": "elerock1 desc"
       },
-      { "code": "elmeri", "name": "elmeri name", "description": "elmeri desc" },
+      {
+        "code": "elmeri",
+        "name": "elmeri name",
+        "description": "elmeri desc"
+      },
       {
         "code": "eng_10_cryst_small",
         "name": "10 Small Crystals",
@@ -50560,7 +51861,11 @@
         "name": "Epic Steampunk",
         "description": ""
       },
-      { "code": "epicvenice13_pack", "name": "Epic Venice", "description": "" },
+      {
+        "code": "epicvenice13_pack",
+        "name": "Epic Venice",
+        "description": ""
+      },
       {
         "code": "es_bench",
         "name": "Besneeuwd bankje",
@@ -50856,7 +52161,11 @@
         "name": "Luxe Laptopbureau",
         "description": "Potje patience?"
       },
-      { "code": "exec_badge", "name": "Executive Badge", "description": "" },
+      {
+        "code": "exec_badge",
+        "name": "Executive Badge",
+        "description": ""
+      },
       {
         "code": "execdonsub1_nl_deal",
         "name": "Donderdag Executive Subdeal 1",
@@ -51747,7 +53056,11 @@
         "name": "Zilveren Voetbal Trofee",
         "description": "Er is altijd een volgende keer."
       },
-      { "code": "feb14_carnival_internal", "name": "", "description": "" },
+      {
+        "code": "feb14_carnival_internal",
+        "name": "",
+        "description": ""
+      },
       {
         "code": "feb14_roomstable1_internal",
         "name": "Year of the Horse",
@@ -51768,14 +53081,26 @@
         "name": "Winter Games Room Bundle",
         "description": ""
       },
-      { "code": "feb15_carnival_internal", "name": "", "description": "" },
-      { "code": "feb15_cny_internal", "name": "", "description": "" },
+      {
+        "code": "feb15_carnival_internal",
+        "name": "",
+        "description": ""
+      },
+      {
+        "code": "feb15_cny_internal",
+        "name": "",
+        "description": ""
+      },
       {
         "code": "feb15_jpgarden_internal",
         "name": "Japanese Love Garden",
         "description": ""
       },
-      { "code": "feb15_venezia_internal", "name": "", "description": "" },
+      {
+        "code": "feb15_venezia_internal",
+        "name": "",
+        "description": ""
+      },
       {
         "code": "feb17_tko1",
         "name": "Valentines 2017 TKO",
@@ -51881,7 +53206,11 @@
         "name": "20% korting op Vikings",
         "description": ""
       },
-      { "code": "fefwefew", "name": "fewfewef", "description": "" },
+      {
+        "code": "fefwefew",
+        "name": "fewfewef",
+        "description": ""
+      },
       {
         "code": "fest_c19_amp",
         "name": "Ambachtelijke Houten Speakers",
@@ -52177,7 +53506,11 @@
         "name": "Glimmende Uil",
         "description": "fest_r19_gemowl desc"
       },
-      { "code": "fest_r19_lady_bd", "name": "Lady Gaia", "description": "" },
+      {
+        "code": "fest_r19_lady_bd",
+        "name": "Lady Gaia",
+        "description": ""
+      },
       {
         "code": "fest_r19_ladygaia",
         "name": "Lady Gaia",
@@ -52268,7 +53601,11 @@
         "name": "De vlag van Argentinië",
         "description": "Zwaai er trots mee in de lucht!"
       },
-      { "code": "flag_austria", "name": "Austrian Flag", "description": "" },
+      {
+        "code": "flag_austria",
+        "name": "Austrian Flag",
+        "description": ""
+      },
       {
         "code": "flag_belgium",
         "name": "De vlag van België",
@@ -52909,7 +54246,11 @@
         "name": "Alledaagse Benodigdheden- Pack 9",
         "description": ""
       },
-      { "code": "fx_bubble", "name": "Bellenblaas", "description": "Blub..." },
+      {
+        "code": "fx_bubble",
+        "name": "Bellenblaas",
+        "description": "Blub..."
+      },
       {
         "code": "fxbox_fx116",
         "name": "Vliegenkop",
@@ -52960,7 +54301,11 @@
         "name": "Bloemenmasker",
         "description": "Wie gaat er schuil achter dat Masker?"
       },
-      { "code": "fxbox_fx16", "name": "Microfoon", "description": "Microfoon" },
+      {
+        "code": "fxbox_fx16",
+        "name": "Microfoon",
+        "description": "Microfoon"
+      },
       {
         "code": "fxbox_fx183",
         "name": "fxbox_fx183 name",
@@ -53026,7 +54371,11 @@
         "name": "Octopus Knuffel",
         "description": "gacha_c25_octopus desc"
       },
-      { "code": "gacha_c25_owl_bd", "name": "Uil Knuffel", "description": "" },
+      {
+        "code": "gacha_c25_owl_bd",
+        "name": "Uil Knuffel",
+        "description": ""
+      },
       {
         "code": "gacha_c25_owl",
         "name": "Uil Knuffel",
@@ -54087,7 +55436,11 @@
         "name": "Heilige Graal",
         "description": "met water voor de Draken"
       },
-      { "code": "greek_block", "name": "Grieks Kussen", "description": "" },
+      {
+        "code": "greek_block",
+        "name": "Grieks Kussen",
+        "description": ""
+      },
       {
         "code": "greek_c15_bench",
         "name": "Grieks bankje",
@@ -54378,7 +55731,11 @@
         "name": "Skull Gitaar",
         "description": "Niet voor doetjes"
       },
-      { "code": "guitar_v", "name": "Gitaar", "description": "Net gestemd" },
+      {
+        "code": "guitar_v",
+        "name": "Gitaar",
+        "description": "Net gestemd"
+      },
       {
         "code": "h15_tko1a",
         "name": "H15 TKO 1a",
@@ -54954,8 +56311,16 @@
         "name": "Gouden Elfen Hoed",
         "description": ""
       },
-      { "code": "hat_U_gold26", "name": "Gouden Ster Pet", "description": "" },
-      { "code": "hat_U_gold27", "name": "Gouden Ski Helm", "description": "" },
+      {
+        "code": "hat_U_gold26",
+        "name": "Gouden Ster Pet",
+        "description": ""
+      },
+      {
+        "code": "hat_U_gold27",
+        "name": "Gouden Ski Helm",
+        "description": ""
+      },
       {
         "code": "hat_U_gold28",
         "name": "Gouden Jaren ´20 Hoedje",
@@ -54971,7 +56336,11 @@
         "name": "Gouden Gebreide Muts",
         "description": ""
       },
-      { "code": "hat_U_gold31", "name": "Gouden Sombrero", "description": "" },
+      {
+        "code": "hat_U_gold31",
+        "name": "Gouden Sombrero",
+        "description": ""
+      },
       {
         "code": "hat_U_gold32",
         "name": "Gouden Cowboy Hoed",
@@ -55782,13 +57151,21 @@
         "name": "Yokai Masker",
         "description": "hc20_4 desc"
       },
-      { "code": "hc20_5", "name": "Tiki Masker", "description": "hc20_5 desc" },
+      {
+        "code": "hc20_5",
+        "name": "Tiki Masker",
+        "description": "hc20_5 desc"
+      },
       {
         "code": "hc20_6",
         "name": "Tempel Godin Masker",
         "description": "hc20_6 desc"
       },
-      { "code": "hc20_7", "name": "Nar Masker", "description": "hc20_7 desc" },
+      {
+        "code": "hc20_7",
+        "name": "Nar Masker",
+        "description": "hc20_7 desc"
+      },
       {
         "code": "hc20_8",
         "name": "Dag van de Dood Masker",
@@ -55809,7 +57186,11 @@
         "name": "Slimme Koelkast",
         "description": "hc21_11 desc"
       },
-      { "code": "hc21_12", "name": "Bubbelbad", "description": "hc21_12 desc" },
+      {
+        "code": "hc21_12",
+        "name": "Bubbelbad",
+        "description": "hc21_12 desc"
+      },
       {
         "code": "hc21_1",
         "name": "Smart Phone Docking Station",
@@ -55845,7 +57226,11 @@
         "name": "Slimme Magnetron",
         "description": "hc21_7 desc"
       },
-      { "code": "hc21_8", "name": "Slimme Bed", "description": "hc21_8 desc" },
+      {
+        "code": "hc21_8",
+        "name": "Slimme Bed",
+        "description": "hc21_8 desc"
+      },
       {
         "code": "hc21_9",
         "name": "Massagestoel",
@@ -55856,14 +57241,26 @@
         "name": "Frank's HC Pantser",
         "description": "hc22_10 desc"
       },
-      { "code": "hc22_11", "name": "HC Valk", "description": "hc22_11 desc" },
+      {
+        "code": "hc22_11",
+        "name": "HC Valk",
+        "description": "hc22_11 desc"
+      },
       {
         "code": "hc22_12",
         "name": "HC Gevechtsuitrusting",
         "description": "hc22_12 desc"
       },
-      { "code": "hc22_1", "name": "HC Troon", "description": "hc22_1 desc" },
-      { "code": "hc22_2", "name": "HC Schild", "description": "hc22_2 desc" },
+      {
+        "code": "hc22_1",
+        "name": "HC Troon",
+        "description": "hc22_1 desc"
+      },
+      {
+        "code": "hc22_2",
+        "name": "HC Schild",
+        "description": "hc22_2 desc"
+      },
       {
         "code": "hc22_3",
         "name": "Historische HC Plattegrond",
@@ -55884,7 +57281,11 @@
         "name": "HC Schatskist",
         "description": "hc22_6 desc"
       },
-      { "code": "hc22_7", "name": "HC Vlag", "description": "hc22_7 desc" },
+      {
+        "code": "hc22_7",
+        "name": "HC Vlag",
+        "description": "hc22_7 desc"
+      },
       {
         "code": "hc22_8",
         "name": "Frank's HC Bank",
@@ -55930,15 +57331,31 @@
         "name": "HC Plantenpot",
         "description": "hc23_4 desc"
       },
-      { "code": "hc23_5", "name": "HC Fauteuil", "description": "hc23_5 desc" },
+      {
+        "code": "hc23_5",
+        "name": "HC Fauteuil",
+        "description": "hc23_5 desc"
+      },
       {
         "code": "hc23_6",
         "name": "HC Driezitsbank",
         "description": "hc23_6 desc"
       },
-      { "code": "hc23_7", "name": "HC Balie", "description": "hc23_7 desc" },
-      { "code": "hc23_8", "name": "HC Poort", "description": "hc23_8 desc" },
-      { "code": "hc23_9", "name": "HC Pilaar", "description": "hc23_9 desc" },
+      {
+        "code": "hc23_7",
+        "name": "HC Balie",
+        "description": "hc23_7 desc"
+      },
+      {
+        "code": "hc23_8",
+        "name": "HC Poort",
+        "description": "hc23_8 desc"
+      },
+      {
+        "code": "hc23_9",
+        "name": "HC Pilaar",
+        "description": "hc23_9 desc"
+      },
       {
         "code": "hc24_10",
         "name": "HC Multiprint Stoel",
@@ -56324,7 +57741,11 @@
         "name": "186 dagen HC",
         "description": "Bevat 186 dagen Habbo Club lidmaatschap"
       },
-      { "code": "hc_gift_186days", "name": "186 dagen HC", "description": "" },
+      {
+        "code": "hc_gift_186days",
+        "name": "186 dagen HC",
+        "description": ""
+      },
       {
         "code": "hc_gift_31days",
         "name": "31 dagen HC",
@@ -56335,13 +57756,21 @@
         "name": "62 dagen HC",
         "description": "Bevat 62 dagen Habbo Club lidmaatschap"
       },
-      { "code": "hc_gift_62days", "name": "62 dagen HC", "description": "" },
+      {
+        "code": "hc_gift_62days",
+        "name": "62 dagen HC",
+        "description": ""
+      },
       {
         "code": "hc_gift_93days_bundle",
         "name": "93 dagen HC",
         "description": "Bevat 93 dagen Habbo Club lidmaatschap"
       },
-      { "code": "hc_gift_93days", "name": "93 dagen HC", "description": "" },
+      {
+        "code": "hc_gift_93days",
+        "name": "93 dagen HC",
+        "description": ""
+      },
       {
         "code": "hc_knight_1",
         "name": "HC Ridder",
@@ -56422,15 +57851,31 @@
         "name": "Luxe Clubtafel",
         "description": "Voor de HC met smaak"
       },
-      { "code": "hhe_c24_8bittrip", "name": "8 Bit Jello", "description": "" },
-      { "code": "hhe_c24_cactus", "name": "Bobba Cactus", "description": "" },
-      { "code": "hhe_c24_cheep", "name": "Cheep Cheep", "description": "" },
+      {
+        "code": "hhe_c24_8bittrip",
+        "name": "8 Bit Jello",
+        "description": ""
+      },
+      {
+        "code": "hhe_c24_cactus",
+        "name": "Bobba Cactus",
+        "description": ""
+      },
+      {
+        "code": "hhe_c24_cheep",
+        "name": "Cheep Cheep",
+        "description": ""
+      },
       {
         "code": "hhe_c24_crafttable",
         "name": "Donnie´s Craft Tafel",
         "description": ""
       },
-      { "code": "hhe_c24_floppydisk", "name": "Diskette", "description": "" },
+      {
+        "code": "hhe_c24_floppydisk",
+        "name": "Diskette",
+        "description": ""
+      },
       {
         "code": "hhe_c24_fluffby1",
         "name": "Paarse Fluffby",
@@ -56451,13 +57896,21 @@
         "name": "Grijze Fluffby",
         "description": ""
       },
-      { "code": "hhe_c24_fluffby5", "name": "Rode Fluffby", "description": "" },
+      {
+        "code": "hhe_c24_fluffby5",
+        "name": "Rode Fluffby",
+        "description": ""
+      },
       {
         "code": "hhe_c24_fluffby6",
         "name": "Regenboog Fluffby",
         "description": ""
       },
-      { "code": "hhe_c24_gears", "name": "Tandwielen", "description": "" },
+      {
+        "code": "hhe_c24_gears",
+        "name": "Tandwielen",
+        "description": ""
+      },
       {
         "code": "hhe_c24_goldfishfountain",
         "name": "Hotel Goudvis Fontein",
@@ -56468,7 +57921,11 @@
         "name": "Gouden Tijdcapsule",
         "description": ""
       },
-      { "code": "hhe_c24_guages", "name": "Meters", "description": "" },
+      {
+        "code": "hhe_c24_guages",
+        "name": "Meters",
+        "description": ""
+      },
       {
         "code": "hhe_c24_hotelbr",
         "name": "Miniatuur Habbo Brazilië",
@@ -56549,8 +58006,16 @@
         "name": "Paarse Lavalamp",
         "description": ""
       },
-      { "code": "hhe_c24_levers", "name": "Hendels", "description": "" },
-      { "code": "hhe_c24_megaflower", "name": "Mega Bloem", "description": "" },
+      {
+        "code": "hhe_c24_levers",
+        "name": "Hendels",
+        "description": ""
+      },
+      {
+        "code": "hhe_c24_megaflower",
+        "name": "Mega Bloem",
+        "description": ""
+      },
       {
         "code": "hhe_c24_megahorse",
         "name": "Mega Zeepaardje",
@@ -56576,9 +58041,21 @@
         "name": "Mega IJslolly",
         "description": ""
       },
-      { "code": "hhe_c24_megaring", "name": "Mega Ring", "description": "" },
-      { "code": "hhe_c24_megasoap", "name": "Mega Zeep", "description": "" },
-      { "code": "hhe_c24_megasushi", "name": "Mega Sushi", "description": "" },
+      {
+        "code": "hhe_c24_megaring",
+        "name": "Mega Ring",
+        "description": ""
+      },
+      {
+        "code": "hhe_c24_megasoap",
+        "name": "Mega Zeep",
+        "description": ""
+      },
+      {
+        "code": "hhe_c24_megasushi",
+        "name": "Mega Sushi",
+        "description": ""
+      },
       {
         "code": "hhe_c24_pupchi1",
         "name": "Grijze Pup-Chi",
@@ -56594,7 +58071,11 @@
         "name": "Zilveren Tijdcapsule",
         "description": ""
       },
-      { "code": "hhe_c24_springs", "name": "Springveren", "description": "" },
+      {
+        "code": "hhe_c24_springs",
+        "name": "Springveren",
+        "description": ""
+      },
       {
         "code": "hhe_c24_timemachinetele",
         "name": "Tijd Machine Teleport",
@@ -56965,7 +58446,11 @@
         "name": "hole3 for internal use only",
         "description": "hole3 for internal use only"
       },
-      { "code": "hole4", "name": "hole4 name", "description": "hole4 desc" },
+      {
+        "code": "hole4",
+        "name": "hole4 name",
+        "description": "hole4 desc"
+      },
       {
         "code": "hole",
         "name": "Het Zwarte Gat",
@@ -56991,7 +58476,11 @@
         "name": "Kruidbotjes",
         "description": "Een gezond hondenmaal"
       },
-      { "code": "horse_ track1", "name": "Start Perkje", "description": "" },
+      {
+        "code": "horse_ track1",
+        "name": "Start Perkje",
+        "description": ""
+      },
       {
         "code": "horse_dye_00",
         "name": "Standaard",
@@ -57112,7 +58601,11 @@
         "name": "Hippe eindstreep",
         "description": "Laat de eindstreep zien..."
       },
-      { "code": "horse_fin_poster", "name": "Eindstreep", "description": "" },
+      {
+        "code": "horse_fin_poster",
+        "name": "Eindstreep",
+        "description": ""
+      },
       {
         "code": "horse_hairdye_00",
         "name": "Standaard Paard Setting.",
@@ -57253,7 +58746,11 @@
         "name": "Pegasus Vleugels",
         "description": "Zorgt dat je Paard beter springt! Kan maar een keer gebruikt worden."
       },
-      { "code": "horse_hay", "name": "Hooibaal", "description": "Stapelbaar." },
+      {
+        "code": "horse_hay",
+        "name": "Hooibaal",
+        "description": "Stapelbaar."
+      },
       {
         "code": "horse_hayfloor",
         "name": "Hooiperkje",
@@ -57504,7 +59001,11 @@
         "name": "Balkon",
         "description": "Jullie lijken zo klein van boven..."
       },
-      { "code": "hs_box", "name": "Ecotron Box", "description": "hs_box desc" },
+      {
+        "code": "hs_box",
+        "name": "Ecotron Box",
+        "description": "hs_box desc"
+      },
       {
         "code": "hs_bpass",
         "name": "hs_bpass name",
@@ -57610,7 +59111,11 @@
         "name": "Podium Achtergrond",
         "description": "Geeft je optreden kleur"
       },
-      { "code": "hs_wlight", "name": "Wandlamp", "description": "Wandlamp" },
+      {
+        "code": "hs_wlight",
+        "name": "Wandlamp",
+        "description": "Wandlamp"
+      },
       {
         "code": "hw15_cry_tto1",
         "name": "Medium Crystals (x4) + Small Crystals (x2)",
@@ -57876,7 +59381,11 @@
         "name": "Tarotkaart - De Ster",
         "description": "Staat voor hoop, vernieuwing, bescherming"
       },
-      { "code": "hween10_chicken", "name": "Dode kip", "description": "Tok?" },
+      {
+        "code": "hween10_chicken",
+        "name": "Dode kip",
+        "description": "Tok?"
+      },
       {
         "code": "hween10_deal_10fog",
         "name": "Mistige boel",
@@ -58047,7 +59556,11 @@
         "name": "Kooi",
         "description": "Ik hoop dat de tralies sterk genoeg zijn!"
       },
-      { "code": "hween12_caravan ", "name": "Woonwagen", "description": "" },
+      {
+        "code": "hween12_caravan ",
+        "name": "Woonwagen",
+        "description": ""
+      },
       {
         "code": "hween12_cart",
         "name": "Spookhuiskarretje",
@@ -58168,7 +59681,11 @@
         "name": "Kermis Afscheiding",
         "description": "Wil je erin of eruit?"
       },
-      { "code": "hween12_wolf", "name": "Wolf", "description": "*Rrrawrrr*" },
+      {
+        "code": "hween12_wolf",
+        "name": "Wolf",
+        "description": "*Rrrawrrr*"
+      },
       {
         "code": "hween13_bed",
         "name": "Een bed gemaakt van perkament",
@@ -59714,7 +61231,11 @@
         "name": "Heksenkaarsen",
         "description": ""
       },
-      { "code": "hween_c19_cball_bd", "name": "Glazenbol", "description": "" },
+      {
+        "code": "hween_c19_cball_bd",
+        "name": "Glazenbol",
+        "description": ""
+      },
       {
         "code": "hween_c19_claddedwall",
         "name": "Heksenmuur",
@@ -61340,7 +62861,11 @@
         "name": "Treurwilg",
         "description": "hween_r19_weepingwillow desc"
       },
-      { "code": "hween_r19_weepw_bd", "name": "Treurwilg", "description": "" },
+      {
+        "code": "hween_r19_weepw_bd",
+        "name": "Treurwilg",
+        "description": ""
+      },
       {
         "code": "hween_r19_witchf_bd",
         "name": "Heksenvriend",
@@ -62416,7 +63941,11 @@
         "name": "Steampunk Revamped   Bundle",
         "description": ""
       },
-      { "code": "in_app_bundle_407", "name": "CNY bundle", "description": "" },
+      {
+        "code": "in_app_bundle_407",
+        "name": "CNY bundle",
+        "description": ""
+      },
       {
         "code": "in_app_bundle_408",
         "name": "Freezing Cold Bundle 1",
@@ -62457,7 +63986,11 @@
         "name": "Plasto Bundle",
         "description": ""
       },
-      { "code": "in_app_bundle_426", "name": "Silo Bundle", "description": "" },
+      {
+        "code": "in_app_bundle_426",
+        "name": "Silo Bundle",
+        "description": ""
+      },
       {
         "code": "in_app_bundle_431",
         "name": "Circus Performance Bundle",
@@ -62808,8 +64341,16 @@
         "name": "MVHQ Hoodie",
         "description": ""
       },
-      { "code": "jan14_roombundle2_internal", "name": "", "description": "" },
-      { "code": "jan14_roombundle3_internal", "name": "", "description": "" },
+      {
+        "code": "jan14_roombundle2_internal",
+        "name": "",
+        "description": ""
+      },
+      {
+        "code": "jan14_roombundle3_internal",
+        "name": "",
+        "description": ""
+      },
       {
         "code": "jan14_roombundle4_internal",
         "name": "Epic Pirate Room",
@@ -62820,10 +64361,26 @@
         "name": "Epic Habbo Palooza 2013",
         "description": "Een kant en klare kamerbundel met alle Meubi die je nodig hebt om al rockend Habbo Palooza te beleven."
       },
-      { "code": "jan14_roombundle_internal", "name": "", "description": "" },
-      { "code": "jan15_appartment_internal", "name": "", "description": "" },
-      { "code": "jan15_attic_internal", "name": "", "description": "" },
-      { "code": "jan15_castle_internal", "name": "", "description": "" },
+      {
+        "code": "jan14_roombundle_internal",
+        "name": "",
+        "description": ""
+      },
+      {
+        "code": "jan15_appartment_internal",
+        "name": "",
+        "description": ""
+      },
+      {
+        "code": "jan15_attic_internal",
+        "name": "",
+        "description": ""
+      },
+      {
+        "code": "jan15_castle_internal",
+        "name": "",
+        "description": ""
+      },
       {
         "code": "jan20_drinks_tto",
         "name": "Drinks Offer",
@@ -62849,7 +64406,11 @@
         "name": "20% korting Bohemian Festival Aanbieding",
         "description": ""
       },
-      { "code": "jan24_cny_internal", "name": "CNY bundle", "description": "" },
+      {
+        "code": "jan24_cny_internal",
+        "name": "CNY bundle",
+        "description": ""
+      },
       {
         "code": "jan24_freezcold1_internal",
         "name": "Freezing Cold Bundle 1 internal",
@@ -62975,20 +64536,76 @@
         "name": "joulutahti_notrd name",
         "description": "joulutahti_notrd desc"
       },
-      { "code": "journey2_tto_np_gr1", "name": "TTO", "description": "" },
-      { "code": "journey2_tto_np_gr2", "name": "TTO", "description": "" },
-      { "code": "journey2_tto_np_gr3", "name": "TTO", "description": "" },
-      { "code": "journey2_tto_np_gr4", "name": "TTO", "description": "" },
-      { "code": "journey2_tto_np_gr5", "name": "TTO", "description": "" },
-      { "code": "journey2_tto_np_gr6", "name": "TTO", "description": "" },
-      { "code": "journey2_tto_np_gr7", "name": "TTO", "description": "" },
-      { "code": "journey2_tto_p_gr1", "name": "TTO", "description": "" },
-      { "code": "journey2_tto_p_gr2", "name": "TTO", "description": "" },
-      { "code": "journey2_tto_p_gr3", "name": "TTO", "description": "" },
-      { "code": "journey2_tto_p_gr4", "name": "TTO", "description": "" },
-      { "code": "journey2_tto_p_gr5", "name": "TTO", "description": "" },
-      { "code": "journey2_tto_p_gr6", "name": "TTO", "description": "" },
-      { "code": "journey2_tto_p_gr7", "name": "TTO", "description": "" },
+      {
+        "code": "journey2_tto_np_gr1",
+        "name": "TTO",
+        "description": ""
+      },
+      {
+        "code": "journey2_tto_np_gr2",
+        "name": "TTO",
+        "description": ""
+      },
+      {
+        "code": "journey2_tto_np_gr3",
+        "name": "TTO",
+        "description": ""
+      },
+      {
+        "code": "journey2_tto_np_gr4",
+        "name": "TTO",
+        "description": ""
+      },
+      {
+        "code": "journey2_tto_np_gr5",
+        "name": "TTO",
+        "description": ""
+      },
+      {
+        "code": "journey2_tto_np_gr6",
+        "name": "TTO",
+        "description": ""
+      },
+      {
+        "code": "journey2_tto_np_gr7",
+        "name": "TTO",
+        "description": ""
+      },
+      {
+        "code": "journey2_tto_p_gr1",
+        "name": "TTO",
+        "description": ""
+      },
+      {
+        "code": "journey2_tto_p_gr2",
+        "name": "TTO",
+        "description": ""
+      },
+      {
+        "code": "journey2_tto_p_gr3",
+        "name": "TTO",
+        "description": ""
+      },
+      {
+        "code": "journey2_tto_p_gr4",
+        "name": "TTO",
+        "description": ""
+      },
+      {
+        "code": "journey2_tto_p_gr5",
+        "name": "TTO",
+        "description": ""
+      },
+      {
+        "code": "journey2_tto_p_gr6",
+        "name": "TTO",
+        "description": ""
+      },
+      {
+        "code": "journey2_tto_p_gr7",
+        "name": "TTO",
+        "description": ""
+      },
       {
         "code": "journey3_tto_np",
         "name": "Journey 3.4",
@@ -63219,7 +64836,11 @@
         "name": "Hanami Festival Draak",
         "description": "jp_r23_sakuradragon desc"
       },
-      { "code": "jp_rare_badge", "name": "Shishi Odoshi", "description": "" },
+      {
+        "code": "jp_rare_badge",
+        "name": "Shishi Odoshi",
+        "description": ""
+      },
       {
         "code": "jp_rare",
         "name": "Shishi Odoshi",
@@ -63405,7 +65026,11 @@
         "name": "Vanilla Waterfall",
         "description": "We'll slide down the surface of things"
       },
-      { "code": "js_jetski2", "name": "Jet Ski", "description": "Woehoe!" },
+      {
+        "code": "js_jetski2",
+        "name": "Jet Ski",
+        "description": "Woehoe!"
+      },
       {
         "code": "js_jetski",
         "name": "Spettervrije Jetski",
@@ -63466,12 +65091,36 @@
         "name": "Jukebox Pacha TV",
         "description": "Jukebox Pacha TV"
       },
-      { "code": "jul14_lostcity_internal", "name": "", "description": "" },
-      { "code": "jul15_15habbo1_internal", "name": "", "description": "" },
-      { "code": "jul15_15habbo2_internal", "name": "", "description": "" },
-      { "code": "jul15_15habbo3_internal", "name": "", "description": "" },
-      { "code": "jul15_15habbo4_internal", "name": "", "description": "" },
-      { "code": "jul15_15habbo5_internal", "name": "", "description": "" },
+      {
+        "code": "jul14_lostcity_internal",
+        "name": "",
+        "description": ""
+      },
+      {
+        "code": "jul15_15habbo1_internal",
+        "name": "",
+        "description": ""
+      },
+      {
+        "code": "jul15_15habbo2_internal",
+        "name": "",
+        "description": ""
+      },
+      {
+        "code": "jul15_15habbo3_internal",
+        "name": "",
+        "description": ""
+      },
+      {
+        "code": "jul15_15habbo4_internal",
+        "name": "",
+        "description": ""
+      },
+      {
+        "code": "jul15_15habbo5_internal",
+        "name": "",
+        "description": ""
+      },
       {
         "code": "jul18_beach_p1",
         "name": "Strand Pack 1",
@@ -63552,23 +65201,71 @@
         "name": "Rock Dag Aanbieding",
         "description": ""
       },
-      { "code": "jun14_hipad_internal", "name": "", "description": "" },
-      { "code": "jun14_locker_internal", "name": "", "description": "" },
-      { "code": "jun14_mansion_internal", "name": "", "description": "" },
+      {
+        "code": "jun14_hipad_internal",
+        "name": "",
+        "description": ""
+      },
+      {
+        "code": "jun14_locker_internal",
+        "name": "",
+        "description": ""
+      },
+      {
+        "code": "jun14_mansion_internal",
+        "name": "",
+        "description": ""
+      },
       {
         "code": "jun14_pool_internal",
         "name": "Het Kleine Zwembad",
         "description": "Meer dan 70 stuks aan Meubi plus de exclusieve nieuwe Zwembad Kiosk. Het kleine zwembad is enorm groot!"
       },
-      { "code": "jun15_ancients_internal", "name": "", "description": "" },
-      { "code": "jun15_hospital_internal", "name": "", "description": "" },
-      { "code": "jun15_juninas_internal", "name": "", "description": "" },
-      { "code": "jun15_jurassic1_internal", "name": "", "description": "" },
-      { "code": "jun15_jurassic2_internal", "name": "", "description": "" },
-      { "code": "jun15_jurassic3_internal", "name": "", "description": "" },
-      { "code": "jun15_library_internal", "name": "", "description": "" },
-      { "code": "jun15_portugal_internal", "name": "", "description": "" },
-      { "code": "jun15_wedding_internal", "name": "", "description": "" },
+      {
+        "code": "jun15_ancients_internal",
+        "name": "",
+        "description": ""
+      },
+      {
+        "code": "jun15_hospital_internal",
+        "name": "",
+        "description": ""
+      },
+      {
+        "code": "jun15_juninas_internal",
+        "name": "",
+        "description": ""
+      },
+      {
+        "code": "jun15_jurassic1_internal",
+        "name": "",
+        "description": ""
+      },
+      {
+        "code": "jun15_jurassic2_internal",
+        "name": "",
+        "description": ""
+      },
+      {
+        "code": "jun15_jurassic3_internal",
+        "name": "",
+        "description": ""
+      },
+      {
+        "code": "jun15_library_internal",
+        "name": "",
+        "description": ""
+      },
+      {
+        "code": "jun15_portugal_internal",
+        "name": "",
+        "description": ""
+      },
+      {
+        "code": "jun15_wedding_internal",
+        "name": "",
+        "description": ""
+      },
       {
         "code": "jun17_tko1",
         "name": "Summer 2017 TKO",
@@ -63659,14 +65356,46 @@
         "name": "Nostalgia Competition Top 10 prize",
         "description": ""
       },
-      { "code": "jun24_game0", "name": "Competition Prize", "description": "" },
-      { "code": "jun24_game1", "name": "Game 1", "description": "" },
-      { "code": "jun24_game2", "name": "Game 2", "description": "" },
-      { "code": "jun24_game3", "name": "Game 3", "description": "" },
-      { "code": "jun24_game4", "name": "Game 4", "description": "" },
-      { "code": "jun24_game5", "name": "Game 5", "description": "" },
-      { "code": "jun24_game6", "name": "Game 6", "description": "" },
-      { "code": "jun24_game7", "name": "Game 7", "description": "" },
+      {
+        "code": "jun24_game0",
+        "name": "Competition Prize",
+        "description": ""
+      },
+      {
+        "code": "jun24_game1",
+        "name": "Game 1",
+        "description": ""
+      },
+      {
+        "code": "jun24_game2",
+        "name": "Game 2",
+        "description": ""
+      },
+      {
+        "code": "jun24_game3",
+        "name": "Game 3",
+        "description": ""
+      },
+      {
+        "code": "jun24_game4",
+        "name": "Game 4",
+        "description": ""
+      },
+      {
+        "code": "jun24_game5",
+        "name": "Game 5",
+        "description": ""
+      },
+      {
+        "code": "jun24_game6",
+        "name": "Game 6",
+        "description": ""
+      },
+      {
+        "code": "jun24_game7",
+        "name": "Game 7",
+        "description": ""
+      },
       {
         "code": "jun24_plasto_internal",
         "name": "Plasto Bundle",
@@ -65417,7 +67146,11 @@
         "name": "Raamkozijn",
         "description": "Laat het licht maar binnenvallen"
       },
-      { "code": "lostc_mdragon_bd", "name": "De Leviathan", "description": "" },
+      {
+        "code": "lostc_mdragon_bd",
+        "name": "De Leviathan",
+        "description": ""
+      },
       {
         "code": "lostc_merdragon",
         "name": "De Leviathan",
@@ -65518,7 +67251,11 @@
         "name": "Lavastroom",
         "description": "Pas op voor je tenen!"
       },
-      { "code": "lt_lavac", "name": "Lavabocht", "description": "" },
+      {
+        "code": "lt_lavac",
+        "name": "Lavabocht",
+        "description": ""
+      },
       {
         "code": "lt_nt_jngl_wall",
         "name": "Het oerwoud (niet ruilbaar)",
@@ -65529,7 +67266,11 @@
         "name": "Junglepad",
         "description": "Boobytrap-vrij"
       },
-      { "code": "lt_spider", "name": "Tarantula", "description": "IEKS!" },
+      {
+        "code": "lt_spider",
+        "name": "Tarantula",
+        "description": "IEKS!"
+      },
       {
         "code": "lt_stage1",
         "name": "Klein tempelplatform",
@@ -65745,13 +67486,41 @@
         "name": "Snel Koffiezetapparaat",
         "description": "Exclusieve winkelcentra koffie en gratis af te halen! (2017 versie)"
       },
-      { "code": "mar14_boutique_internal", "name": "", "description": "" },
-      { "code": "mar14_dali_internal", "name": "", "description": "" },
-      { "code": "mar14_hfw_internal", "name": "", "description": "" },
-      { "code": "mar15_cyberpunk1_internal", "name": "", "description": "" },
-      { "code": "mar15_cyberpunk2_internal", "name": "", "description": "" },
-      { "code": "mar15_cyberpunk3_internal", "name": "", "description": "" },
-      { "code": "mar15_cyberpunk4_internal", "name": "", "description": "" },
+      {
+        "code": "mar14_boutique_internal",
+        "name": "",
+        "description": ""
+      },
+      {
+        "code": "mar14_dali_internal",
+        "name": "",
+        "description": ""
+      },
+      {
+        "code": "mar14_hfw_internal",
+        "name": "",
+        "description": ""
+      },
+      {
+        "code": "mar15_cyberpunk1_internal",
+        "name": "",
+        "description": ""
+      },
+      {
+        "code": "mar15_cyberpunk2_internal",
+        "name": "",
+        "description": ""
+      },
+      {
+        "code": "mar15_cyberpunk3_internal",
+        "name": "",
+        "description": ""
+      },
+      {
+        "code": "mar15_cyberpunk4_internal",
+        "name": "",
+        "description": ""
+      },
       {
         "code": "mar18_ingr1",
         "name": "Timer Ingredients Pack TTO 1",
@@ -66057,11 +67826,31 @@
         "name": "Metalen structuur",
         "description": "Kan zwaar gewicht hebben"
       },
-      { "code": "may14_village_internal", "name": "", "description": "" },
-      { "code": "may15_army1_internal", "name": "", "description": "" },
-      { "code": "may15_army2_internal", "name": "", "description": "" },
-      { "code": "may15_army3_internal", "name": "", "description": "" },
-      { "code": "may15_army4_internal", "name": "", "description": "" },
+      {
+        "code": "may14_village_internal",
+        "name": "",
+        "description": ""
+      },
+      {
+        "code": "may15_army1_internal",
+        "name": "",
+        "description": ""
+      },
+      {
+        "code": "may15_army2_internal",
+        "name": "",
+        "description": ""
+      },
+      {
+        "code": "may15_army3_internal",
+        "name": "",
+        "description": ""
+      },
+      {
+        "code": "may15_army4_internal",
+        "name": "",
+        "description": ""
+      },
       {
         "code": "may18_tto",
         "name": "EXCLUSIVE Painting Deal!",
@@ -67102,7 +68891,11 @@
         "name": "mm_lemon_drink name",
         "description": "mm_lemon_drink desc"
       },
-      { "code": "mm_tub", "name": "mm_tub name", "description": "mm_tub desc" },
+      {
+        "code": "mm_tub",
+        "name": "mm_tub name",
+        "description": "mm_tub desc"
+      },
       {
         "code": "mnstr_4seeds",
         "name": "Monsterzaad pakket",
@@ -67453,7 +69246,11 @@
         "name": "mystery_box name",
         "description": "mystery_box desc"
       },
-      { "code": "mystery_r20_bd", "name": "Witte Parasol", "description": "" },
+      {
+        "code": "mystery_r20_bd",
+        "name": "Witte Parasol",
+        "description": ""
+      },
       {
         "code": "mystics_barch",
         "name": "Poort Slechte Kant",
@@ -67974,26 +69771,106 @@
         "name": "newbie_stairs_pink name",
         "description": "newbie_stairs_pink desc"
       },
-      { "code": "newyork23_promo10", "name": "NYC Pack 10", "description": "" },
-      { "code": "newyork23_promo11", "name": "NYC Pack 11", "description": "" },
-      { "code": "newyork23_promo12", "name": "NYC Pack 12", "description": "" },
-      { "code": "newyork23_promo13", "name": "NYC Pack 13", "description": "" },
-      { "code": "newyork23_promo14", "name": "NYC Pack 14", "description": "" },
-      { "code": "newyork23_promo15", "name": "NYC Pack 15", "description": "" },
-      { "code": "newyork23_promo16", "name": "NYC Pack 16", "description": "" },
-      { "code": "newyork23_promo17", "name": "NYC Pack 17", "description": "" },
-      { "code": "newyork23_promo18", "name": "NYC Pack 18", "description": "" },
-      { "code": "newyork23_promo19", "name": "NYC Pack 19", "description": "" },
-      { "code": "newyork23_promo1", "name": "NYC Pack 1", "description": "" },
-      { "code": "newyork23_promo20", "name": "NYC Pack 20", "description": "" },
-      { "code": "newyork23_promo2", "name": "NYC Pack 2", "description": "" },
-      { "code": "newyork23_promo3", "name": "NYC Pack 3", "description": "" },
-      { "code": "newyork23_promo4", "name": "NYC Pack 4", "description": "" },
-      { "code": "newyork23_promo5", "name": "NYC Pack 5", "description": "" },
-      { "code": "newyork23_promo6", "name": "NYC Pack 6", "description": "" },
-      { "code": "newyork23_promo7", "name": "NYC Pack 7", "description": "" },
-      { "code": "newyork23_promo8", "name": "NYC Pack 8", "description": "" },
-      { "code": "newyork23_promo9", "name": "NYC Pack 9", "description": "" },
+      {
+        "code": "newyork23_promo10",
+        "name": "NYC Pack 10",
+        "description": ""
+      },
+      {
+        "code": "newyork23_promo11",
+        "name": "NYC Pack 11",
+        "description": ""
+      },
+      {
+        "code": "newyork23_promo12",
+        "name": "NYC Pack 12",
+        "description": ""
+      },
+      {
+        "code": "newyork23_promo13",
+        "name": "NYC Pack 13",
+        "description": ""
+      },
+      {
+        "code": "newyork23_promo14",
+        "name": "NYC Pack 14",
+        "description": ""
+      },
+      {
+        "code": "newyork23_promo15",
+        "name": "NYC Pack 15",
+        "description": ""
+      },
+      {
+        "code": "newyork23_promo16",
+        "name": "NYC Pack 16",
+        "description": ""
+      },
+      {
+        "code": "newyork23_promo17",
+        "name": "NYC Pack 17",
+        "description": ""
+      },
+      {
+        "code": "newyork23_promo18",
+        "name": "NYC Pack 18",
+        "description": ""
+      },
+      {
+        "code": "newyork23_promo19",
+        "name": "NYC Pack 19",
+        "description": ""
+      },
+      {
+        "code": "newyork23_promo1",
+        "name": "NYC Pack 1",
+        "description": ""
+      },
+      {
+        "code": "newyork23_promo20",
+        "name": "NYC Pack 20",
+        "description": ""
+      },
+      {
+        "code": "newyork23_promo2",
+        "name": "NYC Pack 2",
+        "description": ""
+      },
+      {
+        "code": "newyork23_promo3",
+        "name": "NYC Pack 3",
+        "description": ""
+      },
+      {
+        "code": "newyork23_promo4",
+        "name": "NYC Pack 4",
+        "description": ""
+      },
+      {
+        "code": "newyork23_promo5",
+        "name": "NYC Pack 5",
+        "description": ""
+      },
+      {
+        "code": "newyork23_promo6",
+        "name": "NYC Pack 6",
+        "description": ""
+      },
+      {
+        "code": "newyork23_promo7",
+        "name": "NYC Pack 7",
+        "description": ""
+      },
+      {
+        "code": "newyork23_promo8",
+        "name": "NYC Pack 8",
+        "description": ""
+      },
+      {
+        "code": "newyork23_promo9",
+        "name": "NYC Pack 9",
+        "description": ""
+      },
       {
         "code": "nft_A0_rarebeehiveblue",
         "name": "Blue Amber Lamp",
@@ -69139,7 +71016,11 @@
         "name": "Zeldzame Banzai Teddy",
         "description": "nft_bb_tddhead_rc1 desc"
       },
-      { "code": "nft_beanstalk", "name": "Bonenstaak", "description": "" },
+      {
+        "code": "nft_beanstalk",
+        "name": "Bonenstaak",
+        "description": ""
+      },
       {
         "code": "nft_birds_r18_puffin",
         "name": "Papegaaiduiker",
@@ -69720,7 +71601,11 @@
         "name": "Archaeopteryx Fossiel (Vereist Fossil Hammer)",
         "description": "nft_dino15_fossil5 desc"
       },
-      { "code": "nft_door_test", "name": "nft_door_test", "description": "" },
+      {
+        "code": "nft_door_test",
+        "name": "nft_door_test",
+        "description": ""
+      },
       {
         "code": "nft_easter14_eggstar",
         "name": "Dode ei ster",
@@ -72976,7 +74861,11 @@
         "name": "Nelly Knuffel",
         "description": "nft_sc24_nelly desc"
       },
-      { "code": "nft_sf_pod", "name": "Ruimtecabine", "description": "" },
+      {
+        "code": "nft_sf_pod",
+        "name": "Ruimtecabine",
+        "description": ""
+      },
       {
         "code": "nft_st_wildwest_buffalo",
         "name": "Buffel Standbeeld",
@@ -73822,15 +75711,51 @@
         "name": "Prikbord",
         "description": "Een overzichtelijke chaos"
       },
-      { "code": "nouvelle_trax", "name": "nouvelle_trax", "description": "" },
-      { "code": "nov14_cine1_internal", "name": "", "description": "" },
-      { "code": "nov14_cine2_internal", "name": "", "description": "" },
-      { "code": "nov14_xmas1_internal", "name": "", "description": "" },
-      { "code": "nov14_xmas2_internal", "name": "", "description": "" },
-      { "code": "nov15_ggnomes_internal", "name": "", "description": "" },
-      { "code": "nov15_kitchen1_internal", "name": "", "description": "" },
-      { "code": "nov15_kitchen2_internal", "name": "", "description": "" },
-      { "code": "nov15_kitchen3_internal", "name": "", "description": "" },
+      {
+        "code": "nouvelle_trax",
+        "name": "nouvelle_trax",
+        "description": ""
+      },
+      {
+        "code": "nov14_cine1_internal",
+        "name": "",
+        "description": ""
+      },
+      {
+        "code": "nov14_cine2_internal",
+        "name": "",
+        "description": ""
+      },
+      {
+        "code": "nov14_xmas1_internal",
+        "name": "",
+        "description": ""
+      },
+      {
+        "code": "nov14_xmas2_internal",
+        "name": "",
+        "description": ""
+      },
+      {
+        "code": "nov15_ggnomes_internal",
+        "name": "",
+        "description": ""
+      },
+      {
+        "code": "nov15_kitchen1_internal",
+        "name": "",
+        "description": ""
+      },
+      {
+        "code": "nov15_kitchen2_internal",
+        "name": "",
+        "description": ""
+      },
+      {
+        "code": "nov15_kitchen3_internal",
+        "name": "",
+        "description": ""
+      },
       {
         "code": "nov19_teleport_tto",
         "name": "Teleports Offer",
@@ -73906,7 +75831,11 @@
         "name": "ZELDZAAMHEID Grote Gladiatorhelm",
         "description": ""
       },
-      { "code": "nux_gift_credits", "name": "20 credits", "description": "" },
+      {
+        "code": "nux_gift_credits",
+        "name": "20 credits",
+        "description": ""
+      },
       {
         "code": "nux_gift_hc_1_day",
         "name": "1 dag Habbo Club",
@@ -73987,7 +75916,11 @@
         "name": "Goede Voornemens voor 2013",
         "description": "Wat zijn jouw goede voornemens?"
       },
-      { "code": "ny2013_wall", "name": "Mayamuur", "description": "Mayamuur" },
+      {
+        "code": "ny2013_wall",
+        "name": "Mayamuur",
+        "description": "Mayamuur"
+      },
       {
         "code": "ny2014_prizepack",
         "name": "New Year 2014 winner",
@@ -74168,7 +76101,11 @@
         "name": "Nieuwe Bobba Bagels",
         "description": "nyc_c23_coffeebagelshop desc"
       },
-      { "code": "nyc_c23_deli_bd", "name": "Frank's Deli", "description": "" },
+      {
+        "code": "nyc_c23_deli_bd",
+        "name": "Frank's Deli",
+        "description": ""
+      },
       {
         "code": "nyc_c23_delishop",
         "name": "Frank's Deli Winkel",
@@ -74439,16 +76376,56 @@
         "name": "Watersprong",
         "description": "Stuur je Paard over het obstakel om het te laten springen."
       },
-      { "code": "oct14_hween1_internal", "name": "", "description": "" },
-      { "code": "oct14_hween2_internal", "name": "", "description": "" },
-      { "code": "oct14_hween3_internal", "name": "", "description": "" },
-      { "code": "oct14_hween4_internal", "name": "", "description": "" },
-      { "code": "oct14_hween5_internal", "name": "", "description": "" },
-      { "code": "oct14_pet_internal", "name": "", "description": "" },
-      { "code": "oct15_gallery3_internal", "name": "", "description": "" },
-      { "code": "oct15_gallery4_internal", "name": "", "description": "" },
-      { "code": "oct15_gallery5_internal", "name": "", "description": "" },
-      { "code": "oct15_hween_internal", "name": "", "description": "" },
+      {
+        "code": "oct14_hween1_internal",
+        "name": "",
+        "description": ""
+      },
+      {
+        "code": "oct14_hween2_internal",
+        "name": "",
+        "description": ""
+      },
+      {
+        "code": "oct14_hween3_internal",
+        "name": "",
+        "description": ""
+      },
+      {
+        "code": "oct14_hween4_internal",
+        "name": "",
+        "description": ""
+      },
+      {
+        "code": "oct14_hween5_internal",
+        "name": "",
+        "description": ""
+      },
+      {
+        "code": "oct14_pet_internal",
+        "name": "",
+        "description": ""
+      },
+      {
+        "code": "oct15_gallery3_internal",
+        "name": "",
+        "description": ""
+      },
+      {
+        "code": "oct15_gallery4_internal",
+        "name": "",
+        "description": ""
+      },
+      {
+        "code": "oct15_gallery5_internal",
+        "name": "",
+        "description": ""
+      },
+      {
+        "code": "oct15_hween_internal",
+        "name": "",
+        "description": ""
+      },
       {
         "code": "oct18_costumes_tto",
         "name": "Habboween Party Costumes",
@@ -74829,10 +76806,26 @@
         "name": "Paarse Valentijnroos",
         "description": "Voor die speciale Habbo"
       },
-      { "code": "paintpromo1", "name": "Neon Mixer Pack 1", "description": "" },
-      { "code": "paintpromo2", "name": "Neon Mixer Pack 2", "description": "" },
-      { "code": "paintpromo3", "name": "Neon Mixer Pack 3", "description": "" },
-      { "code": "paintpromo4", "name": "Neon Mixer Pack 4", "description": "" },
+      {
+        "code": "paintpromo1",
+        "name": "Neon Mixer Pack 1",
+        "description": ""
+      },
+      {
+        "code": "paintpromo2",
+        "name": "Neon Mixer Pack 2",
+        "description": ""
+      },
+      {
+        "code": "paintpromo3",
+        "name": "Neon Mixer Pack 3",
+        "description": ""
+      },
+      {
+        "code": "paintpromo4",
+        "name": "Neon Mixer Pack 4",
+        "description": ""
+      },
       {
         "code": "palooza_tko1",
         "name": "Palooza TKO",
@@ -75163,8 +77156,16 @@
         "name": "Neon flamingo",
         "description": "Party animal!"
       },
-      { "code": "party_neon4", "name": "Neon skull", "description": "Bruut!" },
-      { "code": "party_neon5", "name": "Neon hart", "description": "Lief!" },
+      {
+        "code": "party_neon4",
+        "name": "Neon skull",
+        "description": "Bruut!"
+      },
+      {
+        "code": "party_neon5",
+        "name": "Neon hart",
+        "description": "Lief!"
+      },
       {
         "code": "party_nt_barcorn",
         "name": "Hoekstuk Neon (niet ruilbaar)",
@@ -76085,13 +78086,21 @@
         "name": "Bladeren",
         "description": "Een gezonde snack (1375 voedingswaarde)"
       },
-      { "code": "petquest_bd", "name": "Pet Quest Prize", "description": "" },
+      {
+        "code": "petquest_bd",
+        "name": "Pet Quest Prize",
+        "description": ""
+      },
       {
         "code": "pframe",
         "name": "Foto lijstje",
         "description": "Voor de vakantie kiekjes"
       },
-      { "code": "photo", "name": "photo_name", "description": "photo_desc" },
+      {
+        "code": "photo",
+        "name": "photo_name",
+        "description": "photo_desc"
+      },
       {
         "code": "picnic_3brds",
         "name": "Picknick Vogelboom",
@@ -77857,9 +79866,21 @@
         "name": "Poster 'Overgrootoma'",
         "description": "Haal je voorouders in huis"
       },
-      { "code": "poster 2001", "name": "Muurkleed", "description": "Knus!" },
-      { "code": "poster 2003", "name": "DJ Purple", "description": "Groovy!" },
-      { "code": "poster 2005", "name": "Infobus", "description": "Vroem!" },
+      {
+        "code": "poster 2001",
+        "name": "Muurkleed",
+        "description": "Knus!"
+      },
+      {
+        "code": "poster 2003",
+        "name": "DJ Purple",
+        "description": "Groovy!"
+      },
+      {
+        "code": "poster 2005",
+        "name": "Infobus",
+        "description": "Vroem!"
+      },
       {
         "code": "poster 2006",
         "name": "DJ Throne",
@@ -78230,16 +80251,36 @@
         "name": "Eid Mubarak",
         "description": "Vrede, liefde, tolerantie"
       },
-      { "code": "poster_1", "name": "Mona Lisa", "description": "" },
-      { "code": "poster_33", "name": "Panda", "description": "" },
-      { "code": "poster_522", "name": "Japanese flag", "description": "" },
+      {
+        "code": "poster_1",
+        "name": "Mona Lisa",
+        "description": ""
+      },
+      {
+        "code": "poster_33",
+        "name": "Panda",
+        "description": ""
+      },
+      {
+        "code": "poster_522",
+        "name": "Japanese flag",
+        "description": ""
+      },
       {
         "code": "poster_523",
         "name": "The Indian flag",
         "description": "Wave it proudly!"
       },
-      { "code": "poster_55", "name": "Boom", "description": "" },
-      { "code": "poster_5", "name": "Eend", "description": "" },
+      {
+        "code": "poster_55",
+        "name": "Boom",
+        "description": ""
+      },
+      {
+        "code": "poster_5",
+        "name": "Eend",
+        "description": ""
+      },
       {
         "code": "poster_duck",
         "name": "Poster 'Eend'",
@@ -78295,7 +80336,11 @@
         "name": "Opblaasbare Regenboog",
         "description": ""
       },
-      { "code": "prison_crnr", "name": "Stalen hoek", "description": "Foei!" },
+      {
+        "code": "prison_crnr",
+        "name": "Stalen hoek",
+        "description": "Foei!"
+      },
       {
         "code": "prison_dvdr1",
         "name": "Stalen hek",
@@ -78796,7 +80841,11 @@
         "name": "Punk Rock",
         "description": "Hardcore rocker."
       },
-      { "code": "puppy_toy", "name": "Funky kip", "description": "Klok, klok" },
+      {
+        "code": "puppy_toy",
+        "name": "Funky kip",
+        "description": "Klok, klok"
+      },
       {
         "code": "pura_block_lamp1",
         "name": "Pura Blok Lamp",
@@ -79497,7 +81546,11 @@
         "name": "Donkere Pura Boekenplank",
         "description": "Een boekenkast voor elke kamer"
       },
-      { "code": "pwad", "name": "Propjes", "description": "Gooi ze!" },
+      {
+        "code": "pwad",
+        "name": "Propjes",
+        "description": "Gooi ze!"
+      },
       {
         "code": "qt_calendar0",
         "name": "qt_calendar0 name",
@@ -79663,7 +81716,11 @@
         "name": "IJssofa",
         "description": "Chille zitbank!"
       },
-      { "code": "qt_xm10_icedragon_bd", "name": "IJsdraak", "description": "" },
+      {
+        "code": "qt_xm10_icedragon_bd",
+        "name": "IJsdraak",
+        "description": ""
+      },
       {
         "code": "qt_xm10_icedragon",
         "name": "IJsdraak",
@@ -79759,7 +81816,11 @@
         "name": "Tentacle Hair",
         "description": ""
       },
-      { "code": "race_trophy", "name": "Race Trofee", "description": "" },
+      {
+        "code": "race_trophy",
+        "name": "Race Trofee",
+        "description": ""
+      },
       {
         "code": "rainbow_c19_bed",
         "name": "Regenboog Bed",
@@ -80110,7 +82171,11 @@
         "name": "Schets-tafel",
         "description": "rainyday_c20_woodentable desc"
       },
-      { "code": "rainyday_r19_buffy_bd", "name": "Buffy", "description": "" },
+      {
+        "code": "rainyday_r19_buffy_bd",
+        "name": "Buffy",
+        "description": ""
+      },
       {
         "code": "rainyday_r19_fluffbun",
         "name": "Buffy",
@@ -80911,7 +82976,11 @@
         "name": "rare_pbag_4 name",
         "description": "rare_pbag_4 desc"
       },
-      { "code": "rare_pbag_5", "name": "Bokszak", "description": "Bokszak" },
+      {
+        "code": "rare_pbag_5",
+        "name": "Bokszak",
+        "description": "Bokszak"
+      },
       {
         "code": "rare_pbag_6",
         "name": "Kickboxzak VI",
@@ -82322,12 +84391,36 @@
         "name": "1 week Spionagebot",
         "description": "geeft de laatste 50 bezoekers aan je kamer weer toen je weg was"
       },
-      { "code": "rift1", "name": "rift1 name", "description": "rift1 desc" },
-      { "code": "rift2", "name": "rift2 name", "description": "rift2 desc" },
-      { "code": "rift3", "name": "rift3 name", "description": "rift3 desc" },
-      { "code": "rift4", "name": "rift4 name", "description": "rift4 desc" },
-      { "code": "rift5", "name": "rift5 name", "description": "rift5 desc" },
-      { "code": "rift6", "name": "rift6 name", "description": "rift6 desc" },
+      {
+        "code": "rift1",
+        "name": "rift1 name",
+        "description": "rift1 desc"
+      },
+      {
+        "code": "rift2",
+        "name": "rift2 name",
+        "description": "rift2 desc"
+      },
+      {
+        "code": "rift3",
+        "name": "rift3 name",
+        "description": "rift3 desc"
+      },
+      {
+        "code": "rift4",
+        "name": "rift4 name",
+        "description": "rift4 desc"
+      },
+      {
+        "code": "rift5",
+        "name": "rift5 name",
+        "description": "rift5 desc"
+      },
+      {
+        "code": "rift6",
+        "name": "rift6 name",
+        "description": "rift6 desc"
+      },
       {
         "code": "rm1_friday24",
         "name": "Black Friday Aanbieding 2 - Zak met munten + 1 maand BC",
@@ -85463,13 +87556,21 @@
         "name": "Monsterplantzaadjes Pakket (Klein)",
         "description": ""
       },
-      { "code": "rmoffer_mp2", "name": "Seed Pack", "description": "" },
+      {
+        "code": "rmoffer_mp2",
+        "name": "Seed Pack",
+        "description": ""
+      },
       {
         "code": "rmoffer_mp3",
         "name": "Black Friday Aanbieding 1 - Drank Pakket",
         "description": ""
       },
-      { "code": "rmoffer_mp4", "name": "Large Seed Pack", "description": "" },
+      {
+        "code": "rmoffer_mp4",
+        "name": "Large Seed Pack",
+        "description": ""
+      },
       {
         "code": "romanticbedset",
         "name": "Slaapkamerset Deluxe",
@@ -85495,7 +87596,11 @@
         "name": "Zwart Romantique Scherm",
         "description": "Limited Edition Zeldzaam. Houdt de boel netjes uit elkaar."
       },
-      { "code": "room_ad", "name": "room_ad", "description": "room_ad" },
+      {
+        "code": "room_ad",
+        "name": "room_ad",
+        "description": "room_ad"
+      },
       {
         "code": "room_ad_plus_badge",
         "name": "Kameradvertentie",
@@ -92026,7 +94131,11 @@
         "name": "Mini Jurassic Habbo Bundel",
         "description": "Palmbomen, varens en kristalheldere zwembaden. Jurassic Habbo is een heerlijke plek... maar kijk uit waar je loopt - vooral rond de (enigszins chagrijnig) Dilophosaurus - voordat je aan de verkeerde kant van het elektrische hek terecht komt. Inclusief badge!"
       },
-      { "code": "rotating_roomdeal68_6c", "name": "", "description": "" },
+      {
+        "code": "rotating_roomdeal68_6c",
+        "name": "",
+        "description": ""
+      },
       {
         "code": "rotating_roomdeal68_d",
         "name": "Mini Jurassic Habbo Bundel",
@@ -92262,8 +94371,16 @@
         "name": "Steampunk Slaapkamerbundel",
         "description": "Loop door jouw splinternieuw BLING kantoor. Zwaai naar de glazenwasser, wandel onder de Bling Kroonluchter door en ga de trap op naar jouw glimmende, gepolijst-bronze Steampunk Slaapkamer. Wij hebben in deze bundel meerdere nieuwe meubi aan de Steampunk, Bling en Executive lijnen toegevoegd. Inclusief een EXCLUSIEVE Steampunk Bed en badge. Deze zijn namelijk alleen verkrijgbaar met het Steampunk Slaapkamerbundel!"
       },
-      { "code": "rotating_roomdeal81_10c", "name": "", "description": "" },
-      { "code": "rotating_roomdeal81_3c", "name": "", "description": "" },
+      {
+        "code": "rotating_roomdeal81_10c",
+        "name": "",
+        "description": ""
+      },
+      {
+        "code": "rotating_roomdeal81_3c",
+        "name": "",
+        "description": ""
+      },
       {
         "code": "rotating_roomdeal81_d",
         "name": "Student in Tokyo Bundel",
@@ -92314,7 +94431,11 @@
         "name": "Back to School Bundel",
         "description": "We weten dat een pijnlijke tijd van het jaar is wanneer je je weer moet klaarmaken om terug te gaan naar de dagelijkse sleur van school, maar nu kun je je dag opfleuren met deze Back to School bundel. Inclusief een locker telepoort + exclusieve badge."
       },
-      { "code": "rotating_roomdeal84_10C", "name": "", "description": "" },
+      {
+        "code": "rotating_roomdeal84_10C",
+        "name": "",
+        "description": ""
+      },
       {
         "code": "rotating_roomdeal84_10c",
         "name": "Herfst Paddenstoelentuin",
@@ -93790,9 +95911,21 @@
         "name": "Seizoen 1",
         "description": "Bv. Pompoenen"
       },
-      { "code": "seasonal_2", "name": "Seasonal 2", "description": "" },
-      { "code": "seasonal_4", "name": "Seasonal 4", "description": "" },
-      { "code": "seasonal_5", "name": "Seasonal 5", "description": "" },
+      {
+        "code": "seasonal_2",
+        "name": "Seasonal 2",
+        "description": ""
+      },
+      {
+        "code": "seasonal_4",
+        "name": "Seasonal 4",
+        "description": ""
+      },
+      {
+        "code": "seasonal_5",
+        "name": "Seasonal 5",
+        "description": ""
+      },
       {
         "code": "seasonal_pack1",
         "name": "Seizoen Pack I (500 SC)",
@@ -93803,17 +95936,61 @@
         "name": "Seizoen  Pack II (1",
         "description": "000 SC),"
       },
-      { "code": "sep14_dorm_internal", "name": "", "description": "" },
-      { "code": "sep14_professor_internal", "name": "", "description": "" },
-      { "code": "sep15_crown2_internal", "name": "", "description": "" },
-      { "code": "sep15_crown_internal", "name": "", "description": "" },
-      { "code": "sep15_fallbundle_internal", "name": "", "description": "" },
-      { "code": "sep15_gallery1_internal", "name": "", "description": "" },
-      { "code": "sep15_gallery2_internal", "name": "", "description": "" },
-      { "code": "sep15_paris1_internal", "name": "", "description": "" },
-      { "code": "sep15_school_internal", "name": "", "description": "" },
-      { "code": "sep15_vault2_internal", "name": "", "description": "" },
-      { "code": "sep15_vault_internal", "name": "", "description": "" },
+      {
+        "code": "sep14_dorm_internal",
+        "name": "",
+        "description": ""
+      },
+      {
+        "code": "sep14_professor_internal",
+        "name": "",
+        "description": ""
+      },
+      {
+        "code": "sep15_crown2_internal",
+        "name": "",
+        "description": ""
+      },
+      {
+        "code": "sep15_crown_internal",
+        "name": "",
+        "description": ""
+      },
+      {
+        "code": "sep15_fallbundle_internal",
+        "name": "",
+        "description": ""
+      },
+      {
+        "code": "sep15_gallery1_internal",
+        "name": "",
+        "description": ""
+      },
+      {
+        "code": "sep15_gallery2_internal",
+        "name": "",
+        "description": ""
+      },
+      {
+        "code": "sep15_paris1_internal",
+        "name": "",
+        "description": ""
+      },
+      {
+        "code": "sep15_school_internal",
+        "name": "",
+        "description": ""
+      },
+      {
+        "code": "sep15_vault2_internal",
+        "name": "",
+        "description": ""
+      },
+      {
+        "code": "sep15_vault_internal",
+        "name": "",
+        "description": ""
+      },
       {
         "code": "sep22_easel5_bd",
         "name": "Zeldzame Bliksem Schildersezel",
@@ -93924,7 +96101,11 @@
         "name": "Sci-fi hoekstuk",
         "description": "Beschermende buitenlaag"
       },
-      { "code": "sf_wall", "name": "sf_wall", "description": "sf_wall" },
+      {
+        "code": "sf_wall",
+        "name": "sf_wall",
+        "description": "sf_wall"
+      },
       {
         "code": "sf_window",
         "name": "Sci-fi raam",
@@ -94395,8 +96576,16 @@
         "name": "Silo Staande Lamp",
         "description": ""
       },
-      { "code": "silver_2000", "name": "2000 Zilver", "description": "" },
-      { "code": "silver_500", "name": "500 Zilver", "description": "" },
+      {
+        "code": "silver_2000",
+        "name": "2000 Zilver",
+        "description": ""
+      },
+      {
+        "code": "silver_500",
+        "name": "500 Zilver",
+        "description": ""
+      },
       {
         "code": "silvercapsule_promo1",
         "name": "Zilveren Tijdcapsule Pack 1",
@@ -94502,30 +96691,126 @@
         "name": "Eenvoudige Kook Set 9",
         "description": ""
       },
-      { "code": "sk22_p10", "name": "Idol Beauty Pack 10", "description": "" },
-      { "code": "sk22_p11", "name": "Idol Beauty Pack 11", "description": "" },
-      { "code": "sk22_p12", "name": "Idol Beauty Pack 12", "description": "" },
-      { "code": "sk22_p13", "name": "Idol Fanclub Pack 1", "description": "" },
-      { "code": "sk22_p14", "name": "Idol Fanclub Pack 2", "description": "" },
-      { "code": "sk22_p15", "name": "Idol Fanclub Pack 3", "description": "" },
-      { "code": "sk22_p16", "name": "Idol Fanclub Pack 4", "description": "" },
-      { "code": "sk22_p17", "name": "Idol Fanclub Pack 5", "description": "" },
-      { "code": "sk22_p18", "name": "Idol Fanclub Pack 6", "description": "" },
-      { "code": "sk22_p19", "name": "Idol Fanclub Pack 7", "description": "" },
-      { "code": "sk22_p1", "name": "Idol Beauty Pack 1", "description": "" },
-      { "code": "sk22_p20", "name": "Idol Fanclub Pack 8", "description": "" },
-      { "code": "sk22_p21", "name": "Idol Fanclub Pack 9", "description": "" },
-      { "code": "sk22_p22", "name": "Idol Fanclub Pack 10", "description": "" },
-      { "code": "sk22_p23", "name": "Idol Fanclub Pack 11", "description": "" },
-      { "code": "sk22_p24", "name": "Idol Fanclub Pack 12", "description": "" },
-      { "code": "sk22_p2", "name": "Idol Beauty Pack 2", "description": "" },
-      { "code": "sk22_p3", "name": "Idol Beauty Pack 3", "description": "" },
-      { "code": "sk22_p4", "name": "Idol Beauty Pack 4", "description": "" },
-      { "code": "sk22_p5", "name": "Idol Beauty Pack 5", "description": "" },
-      { "code": "sk22_p6", "name": "Idol Beauty Pack 6", "description": "" },
-      { "code": "sk22_p7", "name": "Idol Beauty Pack 7", "description": "" },
-      { "code": "sk22_p8", "name": "Idol Beauty Pack 8", "description": "" },
-      { "code": "sk22_p9", "name": "Idol Beauty Pack 9", "description": "" },
+      {
+        "code": "sk22_p10",
+        "name": "Idol Beauty Pack 10",
+        "description": ""
+      },
+      {
+        "code": "sk22_p11",
+        "name": "Idol Beauty Pack 11",
+        "description": ""
+      },
+      {
+        "code": "sk22_p12",
+        "name": "Idol Beauty Pack 12",
+        "description": ""
+      },
+      {
+        "code": "sk22_p13",
+        "name": "Idol Fanclub Pack 1",
+        "description": ""
+      },
+      {
+        "code": "sk22_p14",
+        "name": "Idol Fanclub Pack 2",
+        "description": ""
+      },
+      {
+        "code": "sk22_p15",
+        "name": "Idol Fanclub Pack 3",
+        "description": ""
+      },
+      {
+        "code": "sk22_p16",
+        "name": "Idol Fanclub Pack 4",
+        "description": ""
+      },
+      {
+        "code": "sk22_p17",
+        "name": "Idol Fanclub Pack 5",
+        "description": ""
+      },
+      {
+        "code": "sk22_p18",
+        "name": "Idol Fanclub Pack 6",
+        "description": ""
+      },
+      {
+        "code": "sk22_p19",
+        "name": "Idol Fanclub Pack 7",
+        "description": ""
+      },
+      {
+        "code": "sk22_p1",
+        "name": "Idol Beauty Pack 1",
+        "description": ""
+      },
+      {
+        "code": "sk22_p20",
+        "name": "Idol Fanclub Pack 8",
+        "description": ""
+      },
+      {
+        "code": "sk22_p21",
+        "name": "Idol Fanclub Pack 9",
+        "description": ""
+      },
+      {
+        "code": "sk22_p22",
+        "name": "Idol Fanclub Pack 10",
+        "description": ""
+      },
+      {
+        "code": "sk22_p23",
+        "name": "Idol Fanclub Pack 11",
+        "description": ""
+      },
+      {
+        "code": "sk22_p24",
+        "name": "Idol Fanclub Pack 12",
+        "description": ""
+      },
+      {
+        "code": "sk22_p2",
+        "name": "Idol Beauty Pack 2",
+        "description": ""
+      },
+      {
+        "code": "sk22_p3",
+        "name": "Idol Beauty Pack 3",
+        "description": ""
+      },
+      {
+        "code": "sk22_p4",
+        "name": "Idol Beauty Pack 4",
+        "description": ""
+      },
+      {
+        "code": "sk22_p5",
+        "name": "Idol Beauty Pack 5",
+        "description": ""
+      },
+      {
+        "code": "sk22_p6",
+        "name": "Idol Beauty Pack 6",
+        "description": ""
+      },
+      {
+        "code": "sk22_p7",
+        "name": "Idol Beauty Pack 7",
+        "description": ""
+      },
+      {
+        "code": "sk22_p8",
+        "name": "Idol Beauty Pack 8",
+        "description": ""
+      },
+      {
+        "code": "sk22_p9",
+        "name": "Idol Beauty Pack 9",
+        "description": ""
+      },
       {
         "code": "skeletoncatdoll_badge",
         "name": "Skeleton Cat",
@@ -95446,19 +97731,31 @@
         "name": "stackable_water",
         "description": ""
       },
-      { "code": "starter_lrg", "name": "Startpakket Groot", "description": "" },
+      {
+        "code": "starter_lrg",
+        "name": "Startpakket Groot",
+        "description": ""
+      },
       {
         "code": "starter_med",
         "name": "Startpakket Medium",
         "description": ""
       },
-      { "code": "starter_roomdeal1_8c", "name": "", "description": "" },
+      {
+        "code": "starter_roomdeal1_8c",
+        "name": "",
+        "description": ""
+      },
       {
         "code": "starter_roomdeal1",
         "name": "De Starterskamer",
         "description": "Starterskamer inclusief 28 Meubi"
       },
-      { "code": "starter_sm", "name": "Startpakket Klein", "description": "" },
+      {
+        "code": "starter_sm",
+        "name": "Startpakket Klein",
+        "description": ""
+      },
       {
         "code": "starting_position",
         "name": "starting_position",
@@ -95794,7 +98091,11 @@
         "name": "Kleine Beer Knuffel",
         "description": "stellar_r23_ursaminor desc"
       },
-      { "code": "sticky_notes_c", "name": "Sticky notes", "description": "" },
+      {
+        "code": "sticky_notes_c",
+        "name": "Sticky notes",
+        "description": ""
+      },
       {
         "code": "stone_flowerbed",
         "name": "Monsterplant perk",
@@ -96065,8 +98366,16 @@
         "name": "Strand Disco Sub",
         "description": "33% korting"
       },
-      { "code": "subdeal_Scifi2", "name": "Sci-fi Sub 2", "description": "" },
-      { "code": "subdeal_Scifi", "name": "Sci-fi Sub 1", "description": "" },
+      {
+        "code": "subdeal_Scifi2",
+        "name": "Sci-fi Sub 2",
+        "description": ""
+      },
+      {
+        "code": "subdeal_Scifi",
+        "name": "Sci-fi Sub 1",
+        "description": ""
+      },
       {
         "code": "subdeal_nl_OSCAR",
         "name": "Subdeal Oscar",
@@ -96102,9 +98411,21 @@
         "name": "Subdeal Cake 2",
         "description": ""
       },
-      { "code": "subdeal_nl_cat1", "name": "Subdeal Cat 1", "description": "" },
-      { "code": "subdeal_nl_cat2", "name": "Subdeal Cat 2", "description": "" },
-      { "code": "subdeal_nl_cat3", "name": "Subdeal Cat 3", "description": "" },
+      {
+        "code": "subdeal_nl_cat1",
+        "name": "Subdeal Cat 1",
+        "description": ""
+      },
+      {
+        "code": "subdeal_nl_cat2",
+        "name": "Subdeal Cat 2",
+        "description": ""
+      },
+      {
+        "code": "subdeal_nl_cat3",
+        "name": "Subdeal Cat 3",
+        "description": ""
+      },
       {
         "code": "subdeal_nl_dragons",
         "name": "Subdeal Dragon",
@@ -96605,13 +98926,21 @@
         "name": "Big Ben",
         "description": "September '08 souvenir 3 van 6"
       },
-      { "code": "sw_hole", "name": "sw_hole", "description": "sw_hole" },
+      {
+        "code": "sw_hole",
+        "name": "sw_hole",
+        "description": "sw_hole"
+      },
       {
         "code": "sw_raven",
         "name": "raven",
         "description": "spiderwick furniture"
       },
-      { "code": "sw_stone", "name": "sw_stone", "description": "sw_stone" },
+      {
+        "code": "sw_stone",
+        "name": "sw_stone",
+        "description": "sw_stone"
+      },
       {
         "code": "table_plasto2_4leg",
         "name": "Zwarte tafel met vier poten",
@@ -97072,12 +99401,36 @@
         "name": "testbot name",
         "description": "testbot desc"
       },
-      { "code": "testing_NFTCoin1", "name": "Basis H", "description": "" },
-      { "code": "testing_NFTCoin2", "name": "Gouden H", "description": "" },
-      { "code": "testing_NFTCoin3", "name": "Diamanten H", "description": "" },
-      { "code": "testing_NFTCoin4", "name": "Regenboog H", "description": "" },
-      { "code": "testing_NFTCoin5", "name": "Coole H", "description": "" },
-      { "code": "testing_NFTCoin6", "name": "Supercoole H", "description": "" },
+      {
+        "code": "testing_NFTCoin1",
+        "name": "Basis H",
+        "description": ""
+      },
+      {
+        "code": "testing_NFTCoin2",
+        "name": "Gouden H",
+        "description": ""
+      },
+      {
+        "code": "testing_NFTCoin3",
+        "name": "Diamanten H",
+        "description": ""
+      },
+      {
+        "code": "testing_NFTCoin4",
+        "name": "Regenboog H",
+        "description": ""
+      },
+      {
+        "code": "testing_NFTCoin5",
+        "name": "Coole H",
+        "description": ""
+      },
+      {
+        "code": "testing_NFTCoin6",
+        "name": "Supercoole H",
+        "description": ""
+      },
       {
         "code": "testing_crackable",
         "name": "testing_crackable name",
@@ -97093,7 +99446,11 @@
         "name": "testing_yt name",
         "description": "testing_yt desc"
       },
-      { "code": "testli", "name": "Li test product", "description": "test" },
+      {
+        "code": "testli",
+        "name": "Li test product",
+        "description": "test"
+      },
       {
         "code": "testtubetv1",
         "name": "testtubetv1 name",
@@ -97424,7 +99781,11 @@
         "name": "Tiki mossige muur",
         "description": "Niet geschikt om te beklimmen"
       },
-      { "code": "tiki_gate", "name": "Tiki Gate", "description": "" },
+      {
+        "code": "tiki_gate",
+        "name": "Tiki Gate",
+        "description": ""
+      },
       {
         "code": "tiki_junglerug",
         "name": "Jungleperkje",
@@ -98005,9 +100366,21 @@
         "name": "Habbo Sounds deal",
         "description": "Habbo Sounds & Effects"
       },
-      { "code": "traxbronze", "name": "traxbronze", "description": "" },
-      { "code": "traxgold", "name": "traxgold", "description": "" },
-      { "code": "traxsilver", "name": "traxsilver", "description": "" },
+      {
+        "code": "traxbronze",
+        "name": "traxbronze",
+        "description": ""
+      },
+      {
+        "code": "traxgold",
+        "name": "traxgold",
+        "description": ""
+      },
+      {
+        "code": "traxsilver",
+        "name": "traxsilver",
+        "description": ""
+      },
       {
         "code": "tray_cake",
         "name": "Luxe taart",
@@ -98098,7 +100471,11 @@
         "name": "Wired 2.0 Trofee",
         "description": "trophy_wireds desc"
       },
-      { "code": "turkey", "name": "turkey name", "description": "turkey desc" },
+      {
+        "code": "turkey",
+        "name": "turkey name",
+        "description": "turkey desc"
+      },
       {
         "code": "tut carpet",
         "name": "Welkomstkleed",
@@ -99614,7 +101991,11 @@
         "name": "Fontein van David",
         "description": "Nu met echt stromend water!"
       },
-      { "code": "val13_table", "name": "tafel", "description": "tafel" },
+      {
+        "code": "val13_table",
+        "name": "tafel",
+        "description": "tafel"
+      },
       {
         "code": "val13_wall_1",
         "name": "Venetiaanse Muur",
@@ -100965,7 +103346,11 @@
         "name": "Vissie",
         "description": "Gevangen in het Tofu-meer"
       },
-      { "code": "voedseltest", "name": "Voedseltest", "description": "" },
+      {
+        "code": "voedseltest",
+        "name": "Voedseltest",
+        "description": ""
+      },
       {
         "code": "vote_count_add",
         "name": "vote_count_add name",
@@ -101326,41 +103711,161 @@
         "name": "Wallie Koninginnedagpakket",
         "description": "Oranje boven!"
       },
-      { "code": "wallpaper 10", "name": "Muur", "description": "Muur" },
-      { "code": "wallpaper 11", "name": "Muur", "description": "Muur" },
-      { "code": "wallpaper 12", "name": "Muur", "description": "Muur" },
-      { "code": "wallpaper 13", "name": "Muur", "description": "Muur" },
-      { "code": "wallpaper 14", "name": "Muur", "description": "Muur" },
-      { "code": "wallpaper 15", "name": "Muur", "description": "Muur" },
-      { "code": "wallpaper 16", "name": "Muur", "description": "Muur" },
-      { "code": "wallpaper 17", "name": "Muur", "description": "Muur" },
-      { "code": "wallpaper 18", "name": "Muur", "description": "Muur" },
-      { "code": "wallpaper 19", "name": "Muur", "description": "Muur" },
-      { "code": "wallpaper 1", "name": "Muur", "description": "Muur" },
-      { "code": "wallpaper 20", "name": "Muur", "description": "Muur" },
-      { "code": "wallpaper 21", "name": "Muur", "description": "Muur" },
-      { "code": "wallpaper 22", "name": "Muur", "description": "Muur" },
-      { "code": "wallpaper 23", "name": "Muur", "description": "Muur" },
-      { "code": "wallpaper 24", "name": "Muur", "description": "Muur" },
-      { "code": "wallpaper 25", "name": "Muur", "description": "Muur" },
-      { "code": "wallpaper 26", "name": "Muur", "description": "Muur" },
-      { "code": "wallpaper 27", "name": "Muur", "description": "Muur" },
-      { "code": "wallpaper 28", "name": "Muur", "description": "Muur" },
-      { "code": "wallpaper 29", "name": "Muur", "description": "Muur" },
-      { "code": "wallpaper 2", "name": "Muur", "description": "Muur" },
-      { "code": "wallpaper 30", "name": "Muur", "description": "Muur" },
+      {
+        "code": "wallpaper 10",
+        "name": "Muur",
+        "description": "Muur"
+      },
+      {
+        "code": "wallpaper 11",
+        "name": "Muur",
+        "description": "Muur"
+      },
+      {
+        "code": "wallpaper 12",
+        "name": "Muur",
+        "description": "Muur"
+      },
+      {
+        "code": "wallpaper 13",
+        "name": "Muur",
+        "description": "Muur"
+      },
+      {
+        "code": "wallpaper 14",
+        "name": "Muur",
+        "description": "Muur"
+      },
+      {
+        "code": "wallpaper 15",
+        "name": "Muur",
+        "description": "Muur"
+      },
+      {
+        "code": "wallpaper 16",
+        "name": "Muur",
+        "description": "Muur"
+      },
+      {
+        "code": "wallpaper 17",
+        "name": "Muur",
+        "description": "Muur"
+      },
+      {
+        "code": "wallpaper 18",
+        "name": "Muur",
+        "description": "Muur"
+      },
+      {
+        "code": "wallpaper 19",
+        "name": "Muur",
+        "description": "Muur"
+      },
+      {
+        "code": "wallpaper 1",
+        "name": "Muur",
+        "description": "Muur"
+      },
+      {
+        "code": "wallpaper 20",
+        "name": "Muur",
+        "description": "Muur"
+      },
+      {
+        "code": "wallpaper 21",
+        "name": "Muur",
+        "description": "Muur"
+      },
+      {
+        "code": "wallpaper 22",
+        "name": "Muur",
+        "description": "Muur"
+      },
+      {
+        "code": "wallpaper 23",
+        "name": "Muur",
+        "description": "Muur"
+      },
+      {
+        "code": "wallpaper 24",
+        "name": "Muur",
+        "description": "Muur"
+      },
+      {
+        "code": "wallpaper 25",
+        "name": "Muur",
+        "description": "Muur"
+      },
+      {
+        "code": "wallpaper 26",
+        "name": "Muur",
+        "description": "Muur"
+      },
+      {
+        "code": "wallpaper 27",
+        "name": "Muur",
+        "description": "Muur"
+      },
+      {
+        "code": "wallpaper 28",
+        "name": "Muur",
+        "description": "Muur"
+      },
+      {
+        "code": "wallpaper 29",
+        "name": "Muur",
+        "description": "Muur"
+      },
+      {
+        "code": "wallpaper 2",
+        "name": "Muur",
+        "description": "Muur"
+      },
+      {
+        "code": "wallpaper 30",
+        "name": "Muur",
+        "description": "Muur"
+      },
       {
         "code": "wallpaper 31",
         "name": "Gothic Wallpaper",
         "description": "The dark side of Habbo"
       },
-      { "code": "wallpaper 3", "name": "Muur", "description": "Muur" },
-      { "code": "wallpaper 4", "name": "Muur", "description": "Muur" },
-      { "code": "wallpaper 5", "name": "Muur", "description": "Muur" },
-      { "code": "wallpaper 6", "name": "Muur", "description": "Muur" },
-      { "code": "wallpaper 7", "name": "Muur", "description": "Muur" },
-      { "code": "wallpaper 8", "name": "Muur", "description": "Muur" },
-      { "code": "wallpaper 9", "name": "Muur", "description": "Muur" },
+      {
+        "code": "wallpaper 3",
+        "name": "Muur",
+        "description": "Muur"
+      },
+      {
+        "code": "wallpaper 4",
+        "name": "Muur",
+        "description": "Muur"
+      },
+      {
+        "code": "wallpaper 5",
+        "name": "Muur",
+        "description": "Muur"
+      },
+      {
+        "code": "wallpaper 6",
+        "name": "Muur",
+        "description": "Muur"
+      },
+      {
+        "code": "wallpaper 7",
+        "name": "Muur",
+        "description": "Muur"
+      },
+      {
+        "code": "wallpaper 8",
+        "name": "Muur",
+        "description": "Muur"
+      },
+      {
+        "code": "wallpaper 9",
+        "name": "Muur",
+        "description": "Muur"
+      },
       {
         "code": "wallpaper_single_1001",
         "name": "Behang",
@@ -103501,7 +106006,11 @@
         "name": "Mijnkar",
         "description": "Laden maar"
       },
-      { "code": "wildwest_piano_badge", "name": "Test", "description": "test" },
+      {
+        "code": "wildwest_piano_badge",
+        "name": "Test",
+        "description": "test"
+      },
       {
         "code": "wildwest_piano",
         "name": "Saloon Piano",
@@ -103777,7 +106286,11 @@
         "name": "Koud hart Liefdesslot",
         "description": "winter_c24_lovelock desc"
       },
-      { "code": "winter_r24_icefairy_bd", "name": "Ijsfee", "description": "" },
+      {
+        "code": "winter_r24_icefairy_bd",
+        "name": "Ijsfee",
+        "description": ""
+      },
       {
         "code": "winter_r24_icefairy",
         "name": "Ijsfee",
@@ -104888,7 +107401,11 @@
         "name": "Kerstman's Atelier Bundel",
         "description": "Opgestapeld tot de houten balken en versierd met kerstverlichting, snoepmachines en uitrustingsstukken in overvloed ... Wat wil een elf nog meer! Inclusief een EXCLUSIEVE pinguïnvormige boom!"
       },
-      { "code": "xmas13_roombundle_internal", "name": "", "description": "" },
+      {
+        "code": "xmas13_roombundle_internal",
+        "name": "",
+        "description": ""
+      },
       {
         "code": "xmas13_roombundle",
         "name": "Kerstman's Atelier Bundel",
@@ -105294,7 +107811,11 @@
         "name": "Blauwe Popballon",
         "description": "Voel het ritme met je ... handen"
       },
-      { "code": "xmas15_all", "name": "", "description": "" },
+      {
+        "code": "xmas15_all",
+        "name": "",
+        "description": ""
+      },
       {
         "code": "xmas15_c15_megabundle",
         "name": "Mega Bundle",
@@ -106595,7 +109116,11 @@
         "name": "Winterpaleis Balkon",
         "description": "xmas_c19_balcony desc"
       },
-      { "code": "xmas_c19_box1_bd", "name": "Icicle Box", "description": "" },
+      {
+        "code": "xmas_c19_box1_bd",
+        "name": "Icicle Box",
+        "description": ""
+      },
       {
         "code": "xmas_c19_box1",
         "name": "IJsjes Doos",
@@ -108246,7 +110771,11 @@
         "name": "Benji",
         "description": "Deze beer heeft het warm."
       },
-      { "code": "xmas_ltd17_ted_bd", "name": "Ted", "description": "" },
+      {
+        "code": "xmas_ltd17_ted_bd",
+        "name": "Ted",
+        "description": ""
+      },
       {
         "code": "xmas_ltd17_ted",
         "name": "Ted",
@@ -108342,7 +110871,11 @@
         "name": "Xmas Quest Prize 5",
         "description": ""
       },
-      { "code": "xmas_quest6", "name": "xmas_quest6", "description": "" },
+      {
+        "code": "xmas_quest6",
+        "name": "xmas_quest6",
+        "description": ""
+      },
       {
         "code": "xmas_r16_owl_bd",
         "name": "Wijze Uil",
@@ -108558,7 +111091,11 @@
         "name": "xmas_r24_divinedeer name",
         "description": "xmas_r24_divinedeer desc"
       },
-      { "code": "xmas_snow", "name": "SNEEUW!", "description": "En veel ook!" },
+      {
+        "code": "xmas_snow",
+        "name": "SNEEUW!",
+        "description": "En veel ook!"
+      },
       {
         "code": "xmas_traxtrance_deal",
         "name": "Traxkoopje: Dance",
@@ -108754,7 +111291,11 @@
         "name": "Grijs Stapelbaar Videoscherm",
         "description": "Dubbelklik voor de video"
       },
-      { "code": "yttv2n", "name": "yttv2n name", "description": "yttv2n desc" },
+      {
+        "code": "yttv2n",
+        "name": "yttv2n name",
+        "description": "yttv2n desc"
+      },
       {
         "code": "yttv3",
         "name": "Groen Stapelbaar Videoscherm",
@@ -108930,12 +111471,36 @@
         "name": "Zen-tuin Fontein",
         "description": "zengarden_r18_fountain desc"
       },
-      { "code": "aasa_wall_shelf2", "name": "", "description": "" },
-      { "code": "_anc_jngl_wall", "name": "", "description": "" },
-      { "code": "_football12_de", "name": "", "description": "" },
-      { "code": "_football12_es", "name": "", "description": "" },
-      { "code": "_football12_it", "name": "", "description": "" },
-      { "code": "_football12_pt", "name": "", "description": "" }
+      {
+        "code": "aasa_wall_shelf2",
+        "name": "",
+        "description": ""
+      },
+      {
+        "code": "_anc_jngl_wall",
+        "name": "",
+        "description": ""
+      },
+      {
+        "code": "_football12_de",
+        "name": "",
+        "description": ""
+      },
+      {
+        "code": "_football12_es",
+        "name": "",
+        "description": ""
+      },
+      {
+        "code": "_football12_it",
+        "name": "",
+        "description": ""
+      },
+      {
+        "code": "_football12_pt",
+        "name": "",
+        "description": ""
+      }
     ]
   }
 }
