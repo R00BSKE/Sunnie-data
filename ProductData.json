@@ -2,8 +2,13 @@
   "productdata": {
     "product": [
       {
+        "code": "crackable_pillow",
+        "name": "Groot stenen kussen",
+        "description": ""
+      },
+      {
         "code": "crackable_egg",
-        "name": "Stenen Dino Ei",
+        "name": "Stenen dino ei",
         "description": ""
       },
       {
