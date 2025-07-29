@@ -20815,6 +20815,7 @@
     "wiredfurni.params.freeze.effect.3": "${fx_53}",
     "wiredfurni.params.freeze.effect.4": "${fx_163}",
     "wiredfurni.params.freeze.effect_selection": "Kies een effect:",
+    "wiredfurni.params.general_box_info": "Gebruiksinformatie:",
     "wiredfurni.params.groupselection": "Kies een groep:",
     "wiredfurni.params.grouptype.0": "Huidige groep",
     "wiredfurni.params.grouptype.1": "Selecteer uit lijst",
