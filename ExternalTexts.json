@@ -20921,7 +20921,7 @@
     "wiredfurni.params.show_message.style_selection.252": "Vergrootglas",
     "wiredfurni.params.show_message.style_selection.34": "Standaard notificatie",
     "wiredfurni.params.show_message.style_selection.title": "Notificatie-stijl:",
-    "wiredfurni.params.show_message.usage_info": "Met deze Wired box kun je een bericht in de kamer aan één gebruiker of iedereen laten zien. Je kunt tags gebruiken zoals [rood]tekst[/rood], [b]vetgedrukt[/b] of [blauw]info[/blauw] om kleur of stijl toe te voegen.",
+    "wiredfurni.params.show_message.usage_info": "Met deze Wired box kun je een bericht in de kamer aan één gebruiker of iedereen laten zien.\n\nJe kunt tags gebruiken zoals [rood]tekst[/rood], [b]vetgedrukt[/b] of [blauw]info[/blauw] om kleur of stijl toe te voegen.",
     "wiredfurni.params.show_message.visibility_selection.0": "Alleen de gebruiker",
     "wiredfurni.params.show_message.visibility_selection.1": "Iedereen",
     "wiredfurni.params.show_message.visibility_selection.title": "Zichtbaarheid van berichten:",
