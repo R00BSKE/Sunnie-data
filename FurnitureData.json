@@ -444598,6 +444598,32 @@
                 "furniline": "custom",
                 "environment": null,
                 "rare": false
+            },
+            {
+                "id": 100007,
+                "classname": "mini_unicorn_blue",
+                "revision": 72921,
+                "category": "custom",
+                "defaultdir": 0,
+                "xdim": 1,
+                "ydim": 1,
+                "name": "Mini Blauwe Unicorn",
+                "description": "",
+                "adurl": null,
+                "offerid": 100007,
+                "buyout": true,
+                "rentofferid": -1,
+                "rentbuyout": false,
+                "bc": true,
+                "excludeddynamic": false,
+                "customparams": "null",
+                "specialtype": 1,
+                "canstandon": true,
+                "cansiton": false,
+                "canlayon": false,
+                "furniline": "custom",
+                "environment": null,
+                "rare": false
             }
         ]
     },
