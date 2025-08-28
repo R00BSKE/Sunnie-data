@@ -13822,5 +13822,11 @@
     "badge_name_ADMDEV": "Sunnie developer",
     "badge_desc_ADMDEV": " ",
     "badge_name_XX2020": "Zeldzame inuit Outfit ",
-    "badge_desc_XX2020" : " "
+    "badge_desc_XX2020": " ",
+    "badge_name_ACH_LegDay": "Strek je Benen %roman%",
+    "badge_desc_ACH_LegDay": "Voor het wandelen op %limit% tegels",
+    "badge_name_ACH_LTDPurchaser": "Eén op een miljoen %roman%!",
+    "badge_desc_ACH_LTDPurchaser": "Voor het kopen van %limit% LTD-zeldzaamheden",
+    "badge_name_ACH_ChatStyleOwner": "Chatten in Stijl %roman%",
+    "badge_desc_ACH_ChatStyleOwner": "Voor het verzamelen van %limit% verschillende Chat bubbels"
 }
