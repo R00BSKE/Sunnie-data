@@ -21116,5 +21116,14 @@
     "wiredfurni.error.require_click_tiles": "Je kan enkel onzichtbare kliktegel meubi selecteren.",
     "wiredfurni.error.require_counter_furni": "Je kan enkel timer meubi selecteren.",
     "wiredfurni.error.require_room_linker": "Kan alleen Wired kamerlinkers selecteren!",
-    "": ""
+    "": "",
+    "notifications.new_feature.daily_task_achievements.desc": "Het Achievement voor Dagelijkse Taken is beschikbaar!",
+    "notifications.new_feature.daily_tasks.desc": "De dagelijkse taken zijn NU BESCHIKBAAR!",
+    "notifications.new_feature.leg_day.desc": "Bewegen maar!",
+    "notifications.new_feature.new_achievements.desc": "Nieuwe achievements zijn beschikbaar!",
+    "notifications.new_feature.new_wired.desc": "De NIEUWE Wireds zijn beschikbaar!",
+    "notifications.new_feature.recycler_return.desc": "De recycler is TERUG!",
+    "notifications.new_feature.room_teleportation.desc": "De Wired voor kamerteleportatie is HIER!",
+    "notifications.button.cancel": "Annuleren",
+    "notifications.button.view": "Bekijk"
 }
