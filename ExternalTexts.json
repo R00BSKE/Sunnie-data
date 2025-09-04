@@ -21125,5 +21125,6 @@
     "notifications.new_feature.recycler_return.desc": "De recycler is TERUG!",
     "notifications.new_feature.room_teleportation.desc": "De Wired voor kamerteleportatie is HIER!",
     "notifications.button.cancel": "Annuleren",
-    "notifications.button.view": "Bekijk"
+    "notifications.button.view": "Bekijk",
+    "quests.new.name": "Achievements"
 }
