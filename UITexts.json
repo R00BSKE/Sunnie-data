@@ -118,5 +118,8 @@
     "battlepass.prize.next": "Je volgende prijs is:",
     "battlepass.challenges.active": "Quests om te voltooien ",
     "battlepass.rewards.title": "Prijzen",
-    "battlepass.challenges.title": "Uitdagingen"
+    "battlepass.challenges.title": "Uitdagingen",
+    "inventory.info.select.state": "Selecteer item status:",
+    "inventory.info.select.rotation": "Selecteer rotatie:",
+    "inventory.info.select.quantity": "Selecteer aantal items:"
 }
