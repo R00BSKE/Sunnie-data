@@ -21126,5 +21126,8 @@
     "notifications.new_feature.room_teleportation.desc": "De Wired voor kamerteleportatie is HIER!",
     "notifications.button.cancel": "Annuleren",
     "notifications.button.view": "Bekijk",
-    "quests.new.name": "Achievements"
+    "quests.new.name": "Achievements",
+    "widget.progmenu.dailytasks": "Dagelijkse taken",
+    "dailytasks.title": "Dagelijkse taken",
+    "dailytasks.refreshes": "Wordt vernieuwd in %time%"
 }
