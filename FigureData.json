@@ -101786,7 +101786,7 @@
                     "colorable": true,
                     "selectable": true,
                     "preselectable": false,
-                    "sellable": true,
+                    "sellable": false,
                     "parts": [
                         {
                             "id": 7197,
