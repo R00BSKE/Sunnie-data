@@ -102,6 +102,10 @@
             "id": "pet_U_simba",
             "revision": 72969,
             "parts": [
+                 {
+                    "id": 5056656,
+                    "type": "pt"
+                },
                 {
                     "id": 5056656,
                     "type": "ptl"

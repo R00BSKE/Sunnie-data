@@ -101716,6 +101716,13 @@
                     "parts": [
                         {
                             "id": 5056656,
+                            "type": "pt",
+                            "colorable": false,
+                            "index": 0,
+                            "colorindex": 0
+                        },
+                        {
+                            "id": 5056656,
                             "type": "ptl",
                             "colorable": false,
                             "index": 0,
