@@ -1,16 +1,68 @@
 {
     "libraries": [
         {
-            "id": "pet_U_shiba1test",
+            "id": "misc_U_nftbluerose",
             "revision": 72721,
             "parts": [
                 {
-                    "id": 6490,
-                    "type": "pt"
+                    "id": 7197,
+                    "type": "mc"
                 },
                 {
-                    "id": 6491,
-                    "type": "pt"
+                    "id": 7197,
+                    "type": "mcl"
+                },
+                {
+                    "id": 7197,
+                    "type": "mcr"
+                }
+            ]
+        },
+        {
+            "id": "misc_U_simpleglovetest",
+            "revision": 72721,
+            "parts": [
+                {
+                    "id": 7220,
+                    "type": "mc"
+                },
+                {
+                    "id": 7220,
+                    "type": "mcl"
+                },
+                {
+                    "id": 7220,
+                    "type": "mcr"
+                }
+            ]
+        },
+        {
+            "id": "pet_U_shroomietest",
+            "revision": 72721,
+            "parts": [
+                {
+                    "id": 7217,
+                    "type": "ptl"
+                },
+                {
+                    "id": 7217,
+                    "type": "ptr"
+                },
+                {
+                    "id": 7218,
+                    "type": "ptl"
+                },
+                {
+                    "id": 7218,
+                    "type": "ptr"
+                },
+                {
+                    "id": 7219,
+                    "type": "ptl"
+                },
+                {
+                    "id": 7219,
+                    "type": "ptr"
                 }
             ]
         },
