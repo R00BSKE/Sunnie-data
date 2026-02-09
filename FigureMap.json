@@ -1,6 +1,20 @@
 {
     "libraries": [
         {
+            "id": "pet_U_shiba1test",
+            "revision": 72721,
+            "parts": [
+                {
+                    "id": 6490,
+                    "type": "pt"
+                },
+                {
+                    "id": 6491,
+                    "type": "pt"
+                }
+            ]
+        },
+        {
             "id": "shirt_F_trippyshirt_hearts_nft",
             "revision": 67121,
             "parts": [
