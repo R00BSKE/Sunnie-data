@@ -99476,38 +99476,6 @@
                     ]
                 },
                 {
-                    "id": 5056070,
-                    "gender": "U",
-                    "club": 0,
-                    "colorable": false,
-                    "selectable": true,
-                    "preselectable": false,
-                    "sellable": false,
-                    "parts": [
-                        {
-                            "id": 5056656,
-                            "type": "cc",
-                            "colorable": false,
-                            "index": 0,
-                            "colorindex": 0
-                        },
-                        {
-                            "id": 5056656,
-                            "type": "lc",
-                            "colorable": false,
-                            "index": 0,
-                            "colorindex": 0
-                        },
-                        {
-                            "id": 5056656,
-                            "type": "rc",
-                            "colorable": false,
-                            "index": 0,
-                            "colorindex": 0
-                        }
-                    ]
-                },
-                {
                     "id": 6077,
                     "gender": "U",
                     "club": 0,
@@ -101733,6 +101701,31 @@
                             "type": "ptr",
                             "colorable": false,
                             "index": 2,
+                            "colorindex": 0
+                        }
+                    ]
+                },
+                {
+                    "id": 5056070,
+                    "gender": "U",
+                    "club": 0,
+                    "colorable": false,
+                    "selectable": true,
+                    "preselectable": false,
+                    "sellable": false,
+                    "parts": [
+                        {
+                            "id": 5056656,
+                            "type": "ptl",
+                            "colorable": false,
+                            "index": 0,
+                            "colorindex": 0
+                        },
+                        {
+                            "id": 5056656,
+                            "type": "ptr",
+                            "colorable": false,
+                            "index": 0,
                             "colorindex": 0
                         }
                     ]
