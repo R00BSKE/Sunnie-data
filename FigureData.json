@@ -82681,16 +82681,6 @@
                     ]
                 },
                 {
-                    "id": 3801,
-                    "gender": "U",
-                    "club": 0,
-                    "colorable": false,
-                    "selectable": true,
-                    "preselectable": false,
-                    "sellable": true,
-                    "parts": []
-                },
-                {
                     "id": 3802,
                     "gender": "U",
                     "club": 0,
