@@ -82687,7 +82687,8 @@
                     "colorable": false,
                     "selectable": true,
                     "preselectable": false,
-                    "sellable": true
+                    "sellable": true,
+                    "parts": []
                 },
                 {
                     "id": 3802,
