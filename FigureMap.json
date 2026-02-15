@@ -13669,6 +13669,24 @@
             ]
         },
         {
+            "id": "acc_chest_U_bohobackpack",
+            "revision": 64839,
+            "parts": [
+                {
+                    "id": 3392,
+                    "type": "ca"
+                },
+                {
+                    "id": 3393,
+                    "type": "ca"
+                },
+                {
+                    "id": 3394,
+                    "type": "ca"
+                }
+            ]
+        },
+        {
             "id": "hat_U_bunniehat",
             "revision": 63902,
             "parts": [
