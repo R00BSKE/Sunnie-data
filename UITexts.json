@@ -121,5 +121,22 @@
     "battlepass.challenges.title": "Uitdagingen",
     "inventory.info.select.state": "Selecteer item status:",
     "inventory.info.select.rotation": "Selecteer rotatie:",
-    "inventory.info.select.quantity": "Selecteer aantal items:"
+    "inventory.info.select.quantity": "Selecteer aantal items:",
+    "extendedprofile.donations": "Doneer",
+    "extendedprofile.donate": "Doneren",
+    "extendedprofile.donate.confirm": "Bevestigen",
+    "furni.editor.title": "Furni Editor",
+    "furnieditor.length": "Lengte",
+    "furnieditor.width": "Breedte",
+    "furnieditor.height": "Hoogte",
+    "furnieditor.interaction_type": "Interactie Type",
+    "furnieditor.interaction_modes_count": "Aantal Interactiemodi",
+    "furnieditor.vending_ids": "Vending ID's",
+    "furnieditor.allow_stack": "Stapelbaar",
+    "furnieditor.allow_walk": "Wandelbaar",
+    "furnieditor.allow_sit": "Zitbaar",
+    "furnieditor.allow_lay": "Ligbaar",
+    "furnieditor.allow_gift": "Als cadeau",
+    "furnieditor.allow_trade": "Ruilbaar",
+    "furnieditor.allow_marketplace_sell": "Verkoopbaar"
 }
