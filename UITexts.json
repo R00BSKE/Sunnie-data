@@ -129,14 +129,14 @@
     "furnieditor.length": "Lengte",
     "furnieditor.width": "Breedte",
     "furnieditor.height": "Hoogte",
-    "furnieditor.interaction_type": "Interactie Type",
-    "furnieditor.interaction_modes_count": "Aantal Interactiemodi",
+    "furnieditor.interaction_type": "Interactie",
+    "furnieditor.interaction_modes_count": "Aantal Interacties",
     "furnieditor.vending_ids": "Vending ID's",
     "furnieditor.allow_stack": "Stapelbaar",
-    "furnieditor.allow_walk": "Wandelbaar",
+    "furnieditor.allow_walk": "Loopbaar",
     "furnieditor.allow_sit": "Zitbaar",
     "furnieditor.allow_lay": "Ligbaar",
-    "furnieditor.allow_gift": "Als cadeau",
+    "furnieditor.allow_gift": "Cadeau Toestaan",
     "furnieditor.allow_trade": "Ruilbaar",
     "furnieditor.allow_marketplace_sell": "Verkoopbaar"
 }
