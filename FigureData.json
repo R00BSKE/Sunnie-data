@@ -89159,7 +89159,7 @@
                     "selectable": true,
                     "preselectable": false,
                     "sellable": false,
-                    "limited": false,
+                    "limited": true,
                     "parts": [
                         {
                             "id": 4682,
