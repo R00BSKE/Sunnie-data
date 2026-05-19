@@ -21132,5 +21132,13 @@
     "quests.new.name": "Achievements",
     "widget.progmenu.dailytasks": "Dagelijkse taken",
     "dailytasks.title": "Dagelijkse taken",
-    "dailytasks.refreshes": "Wordt vernieuwd in %time%"
+    "dailytasks.refreshes": "Wordt vernieuwd in %time%",
+    "navigator.roomsettings.room_behavior": "Kamer regels",
+    "navigator.roomsettings.do_not_leave_on_door_tile": "Laat geen ruimte over wanneer je over op de deurtegel loopt.",
+    "navigator.roomsettings.idle_sleep": "AFK na time-out",
+    "navigator.roomsettings.idle_sleep_timeout.invalid": "AFK time-out moet tussen 30 seconden en 1 uur zijn",
+    "navigator.roomsettings.timeout.seconds": "Seconden",
+    "navigator.roomsettings.idle_autokick": "Automatisch Kicken na time-out",
+    "navigator.roomsettings.idle_autokick_timeout.invalid": "Automatisch kicken time-out moet tussen 60 seconden en 10 uur zijn",
+    "navigator.roomsettings.idle_autokick_timeout.offset.invalid": "Automatisch kicken time-out moet 30 seconden hoger zijn dan AFK time-out"
 }
