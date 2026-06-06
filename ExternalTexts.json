@@ -21164,6 +21164,8 @@
     "action-9": "Liggend",
     "action-10": "Signalen",
     "action-11": "Dans",
+    "widget.areahide.button.off": "Zet UIT",
+    "widget.areahide.button.on": "Zet AAN",
     "widget.areahide.options": "Opties",
     "widget.areahide.title": "Verberg gebied in kamer",
     "widget.areahide.options.invert.info": "Houd het geselecteerde gebied zichtbaar en verberg de rest van de kamer",
