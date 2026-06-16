@@ -169,9 +169,38 @@
                 "fx.194",
                 "fx.195",
                 "fx.196",
-                "fx197",
-                "fx198",
-                "fx199",
+                "fx.197",
+                "fx.198",
+                "fx.199",
+                "fx.207",
+                "fx.208",
+                "fx.209",
+                "fx.210",
+                "fx.211",
+                "fx.212",
+                "fx.214",
+                "fx.215",
+                "fx.216",
+                "fx.217",
+                "fx.218",
+                "fx.219",
+                "fx.221",
+                "fx.222",
+                "fx.223",
+                "fx.229",
+                "fx.230",
+                "fx.231",
+                "fx.232",
+                "fx.233",
+                "fx.234",
+                "fx.235",
+                "fx.236",
+                "fx.238",
+                "fx.239",
+                "fx.240",
+                "fx.241",
+                "fx.242",
+                "fx.244",
                 "spk",
                 "gest",
                 "sml",
@@ -325,9 +354,40 @@
                 "fx.194",
                 "fx.195",
                 "fx.196",
-                "fx197",
-                "fx198",
-                "fx199",
+                "fx.197",
+                "fx.198",
+                "fx.199",
+                "fx.207",
+                "fx.208",
+                "fx.209",
+                "fx.210",
+                "fx.211",
+                "fx.212",
+                "fx.214",
+                "fx.215",
+                "fx.216",
+                "fx.217",
+                "fx.218",
+                "fx.219",
+                "fx.221",
+                "fx.227",
+                "fx.228",
+                "fx.229",
+                "fx.230",
+                "fx.231",
+                "fx.232",
+                "fx.233",
+                "fx.234",
+                "fx.235",
+                "fx.236",
+                "fx.238",
+                "fx.239",
+                "fx.240",
+                "fx.241",
+                "fx.242",
+                "fx.243",
+                "fx.244",
+                "fx.245",
                 "dance",
                 "usei",
                 "cri",
@@ -474,9 +534,40 @@
                 "fx.194",
                 "fx.195",
                 "fx.196",
-                "fx197",
-                "fx198",
-                "fx199",
+                "fx.197",
+                "fx.198",
+                "fx.199",
+                "fx.207",
+                "fx.208",
+                "fx.209",
+                "fx.210",
+                "fx.211",
+                "fx.212",
+                "fx.214",
+                "fx.215",
+                "fx.216",
+                "fx.217",
+                "fx.218",
+                "fx.219",
+                "fx.221",
+                "fx.227",
+                "fx.228",
+                "fx.229",
+                "fx.230",
+                "fx.231",
+                "fx.232",
+                "fx.233",
+                "fx.234",
+                "fx.235",
+                "fx.236",
+                "fx.238",
+                "fx.239",
+                "fx.240",
+                "fx.241",
+                "fx.242",
+                "fx.243",
+                "fx.244",
+                "fx.245",
                 "dance",
                 "usei",
                 "cri",
@@ -539,11 +630,78 @@
                 "fx.193",
                 "fx.194",
                 "fx.195",
-                "fx197",
-                "fx198",
-                "fx199",
+                "fx.197",
+                "fx.198",
+                "fx.199",
+                "fx.215",
+                "fx.216",
+                "fx.217",
+                "fx.218",
+                "fx.219",
+                "fx.221",
+                "fx.229",
+                "fx.230",
+                "fx.231",
+                "fx.232",
+                "fx.245",
                 "dance"
             ]
+        },
+        {
+            "id": "Snowboard360",
+            "state": "sb360",
+            "precedence": 140,
+            "animation": true,
+            "main": true,
+            "geometryType": "vertical",
+            "activePartSet": "figure",
+            "assetPartDefinition": "sb360",
+            "startFromFrameZero": true,
+            "prevents": [
+                "usei",
+                "cri",
+                "wave",
+                "sign"
+            ]
+        },
+        {
+            "id": "SnowboardOllie",
+            "state": "sbollie",
+            "precedence": 141,
+            "animation": true,
+            "main": true,
+            "geometryType": "vertical",
+            "activePartSet": "figure",
+            "assetPartDefinition": "sbollie",
+            "startFromFrameZero": true,
+            "prevents": [
+                "usei",
+                "cri",
+                "wave",
+                "sign"
+            ]
+        },
+        {
+            "id": "SnowboardUp",
+            "state": "sbup",
+            "precedence": 142,
+            "animation": true,
+            "main": true,
+            "geometryType": "vertical",
+            "activePartSet": "figure",
+            "assetPartDefinition": "std",
+            "startFromFrameZero": true
+        },
+        {
+            "id": "SnowboardSquat",
+            "state": "sbsq",
+            "precedence": 143,
+            "animation": true,
+            "main": true,
+            "geometryType": "vertical",
+            "activePartSet": "figure",
+            "assetPartDefinition": "std",
+            "startFromFrameZero": true
         },
         {
             "id": "RideJump",
@@ -562,8 +720,8 @@
             "precedence": 204,
             "geometryType": "vertical",
             "activePartSet": "handLeft",
-            "assetPartDefinition": "respect",
             "startFromFrameZero": true,
+            "assetPartDefinition": "respect",
             "prevents": [
                 "dance"
             ]
@@ -574,7 +732,7 @@
             "precedence": 205,
             "geometryType": "vertical",
             "activePartSet": "handLeft",
-            "assetPartDefinition": "wave",
+            "assetPartDefinition": "wav",
             "prevents": [
                 "dance"
             ]
@@ -642,7 +800,7 @@
             ],
             "types": [
                 {
-                    "id": 1,
+                    "id": "1",
                     "animated": false
                 },
                 {
@@ -829,7 +987,8 @@
                 {
                     "id": "64",
                     "prevents": [
-                        "usei,cri"
+                        "usei",
+                        "cri"
                     ]
                 },
                 {
@@ -1249,6 +1408,17 @@
                     ]
                 },
                 {
+                    "id": "163",
+                    "animated": false,
+                    "prevents": [
+                        "usei",
+                        "cri",
+                        "wave",
+                        "sign",
+                        "respect"
+                    ]
+                },
+                {
                     "id": "164",
                     "animated": false,
                     "prevents": [
@@ -1472,6 +1642,249 @@
                         "sign",
                         "respect"
                     ]
+                },
+                {
+                    "id": "207",
+                    "animated": true,
+                    "prevents": [
+                        "usei",
+                        "cri"
+                    ]
+                },
+                {
+                    "id": "208",
+                    "animated": true,
+                    "prevents": [
+                        "usei",
+                        "cri"
+                    ]
+                },
+                {
+                    "id": "209",
+                    "animated": true,
+                    "prevents": [
+                        "usei",
+                        "cri"
+                    ]
+                },
+                {
+                    "id": "210",
+                    "animated": true,
+                    "prevents": [
+                        "usei",
+                        "cri"
+                    ]
+                },
+                {
+                    "id": "211",
+                    "animated": true,
+                    "prevents": [
+                        "usei",
+                        "cri"
+                    ]
+                },
+                {
+                    "id": "212",
+                    "animated": true,
+                    "prevents": [
+                        "usei",
+                        "cri"
+                    ]
+                },
+                {
+                    "id": "214",
+                    "animated": true,
+                    "prevents": [
+                        "usei",
+                        "cri"
+                    ]
+                },
+                {
+                    "id": "215",
+                    "animated": true,
+                    "prevents": [
+                        "usei",
+                        "cri"
+                    ]
+                },
+                {
+                    "id": "216",
+                    "animated": true,
+                    "prevents": [
+                        "usei",
+                        "cri"
+                    ]
+                },
+                {
+                    "id": "217",
+                    "animated": true,
+                    "prevents": [
+                        "usei",
+                        "cri"
+                    ]
+                },
+                {
+                    "id": "218",
+                    "animated": true
+                },
+                {
+                    "id": "219",
+                    "animated": true,
+                    "prevents": [
+                        "usei",
+                        "cri",
+                        "wave",
+                        "sign"
+                    ]
+                },
+                {
+                    "id": "221",
+                    "animated": true,
+                    "prevents": [
+                        "usei",
+                        "cri",
+                        "wave",
+                        "sign"
+                    ]
+                },
+                {
+                    "id": "222",
+                    "animated": true
+                },
+                {
+                    "id": "223",
+                    "animated": false
+                },
+                {
+                    "id": "227",
+                    "animated": true,
+                    "prevents": [
+                        "usei",
+                        "cri",
+                        "wave",
+                        "sign",
+                        "respect"
+                    ]
+                },
+                {
+                    "id": "228",
+                    "animated": true,
+                    "prevents": [
+                        "usei",
+                        "cri",
+                        "wave",
+                        "sign",
+                        "respect"
+                    ]
+                },
+                {
+                    "id": "229",
+                    "animated": true,
+                    "prevents": [
+                        "usei",
+                        "cri",
+                        "wave",
+                        "sign",
+                        "respect",
+                        "Sleep",
+                        "talk",
+                        "gest",
+                        "sml",
+                        "sad",
+                        "agr",
+                        "srp"
+                    ]
+                },
+                {
+                    "id": "230",
+                    "animated": true
+                },
+                {
+                    "id": "231",
+                    "animated": true
+                },
+                {
+                    "id": "232",
+                    "animated": true
+                },
+                {
+                    "id": "233",
+                    "animated": false,
+                    "preventHeadTurn": true
+                },
+                {
+                    "id": "234",
+                    "animated": true
+                },
+                {
+                    "id": "235",
+                    "animated": true
+                },
+                {
+                    "id": "236",
+                    "animated": true
+                },
+                {
+                    "id": "238",
+                    "animated": true,
+                    "prevents": [
+                        "usei",
+                        "cri"
+                    ]
+                },
+                {
+                    "id": "239",
+                    "animated": true,
+                    "prevents": [
+                        "usei",
+                        "cri"
+                    ]
+                },
+                {
+                    "id": "240",
+                    "animated": true,
+                    "prevents": [
+                        "usei",
+                        "cri"
+                    ]
+                },
+                {
+                    "id": "241",
+                    "animated": true,
+                    "prevents": [
+                        "usei",
+                        "cri"
+                    ]
+                },
+                {
+                    "id": "242",
+                    "animated": true
+                },
+                {
+                    "id": "243",
+                    "animated": true
+                },
+                {
+                    "id": "244",
+                    "animated": true
+                },
+                {
+                    "id": "245",
+                    "animated": true,
+                    "prevents": [
+                        "usei",
+                        "cri",
+                        "wave",
+                        "sign",
+                        "respect",
+                        "Sleep",
+                        "talk",
+                        "gest",
+                        "sml",
+                        "sad",
+                        "agr",
+                        "srp"
+                    ]
                 }
             ]
         },
@@ -1485,7 +1898,14 @@
             "assetPartDefinition": "std",
             "prevents": [
                 "cri",
-                "usei"
+                "usei",
+                "Sleep",
+                "talk",
+                "gest",
+                "sml",
+                "sad",
+                "agr",
+                "srp"
             ]
         },
         {
@@ -2060,6 +2480,134 @@
                 {
                     "id": "148",
                     "value": "247"
+                },
+                {
+                    "id": "149",
+                    "value": "248"
+                },
+                {
+                    "id": "150",
+                    "value": "250"
+                },
+                {
+                    "id": "151",
+                    "value": "251"
+                },
+                {
+                    "id": "152",
+                    "value": "252"
+                },
+                {
+                    "id": "153",
+                    "value": "259"
+                },
+                {
+                    "id": "154",
+                    "value": "262"
+                },
+                {
+                    "id": "155",
+                    "value": "263"
+                },
+                {
+                    "id": "156",
+                    "value": "264"
+                },
+                {
+                    "id": "157",
+                    "value": "265"
+                },
+                {
+                    "id": "158",
+                    "value": "266"
+                },
+                {
+                    "id": "159",
+                    "value": "267"
+                },
+                {
+                    "id": "160",
+                    "value": "268"
+                },
+                {
+                    "id": "161",
+                    "value": "269"
+                },
+                {
+                    "id": "162",
+                    "value": "270"
+                },
+                {
+                    "id": "163",
+                    "value": "271"
+                },
+                {
+                    "id": "165",
+                    "value": "273"
+                },
+                {
+                    "id": "166",
+                    "value": "274"
+                },
+                {
+                    "id": "167",
+                    "value": "278"
+                },
+                {
+                    "id": "168",
+                    "value": "281"
+                },
+                {
+                    "id": "169",
+                    "value": "284"
+                },
+                {
+                    "id": "170",
+                    "value": "287"
+                },
+                {
+                    "id": "171",
+                    "value": "290"
+                },
+                {
+                    "id": "172",
+                    "value": "291"
+                },
+                {
+                    "id": "173",
+                    "value": "292"
+                },
+                {
+                    "id": "174",
+                    "value": "293"
+                },
+                {
+                    "id": "175",
+                    "value": "294"
+                },
+                {
+                    "id": "176",
+                    "value": "295"
+                },
+                {
+                    "id": "177",
+                    "value": "296"
+                },
+                {
+                    "id": "178",
+                    "value": "298"
+                },
+                {
+                    "id": "179",
+                    "value": "303"
+                },
+                {
+                    "id": "180",
+                    "value": "305"
+                },
+                {
+                    "id": "181",
+                    "value": "306"
                 }
             ]
         },
@@ -2604,6 +3152,162 @@
                     "value": "232"
                 },
                 {
+                    "id": "142",
+                    "value": "234"
+                },
+                {
+                    "id": "143",
+                    "value": "238"
+                },
+                {
+                    "id": "144",
+                    "value": "239"
+                },
+                {
+                    "id": "145",
+                    "value": "243"
+                },
+                {
+                    "id": "146",
+                    "value": "245"
+                },
+                {
+                    "id": "147",
+                    "value": "246"
+                },
+                {
+                    "id": "148",
+                    "value": "247"
+                },
+                {
+                    "id": "149",
+                    "value": "248"
+                },
+                {
+                    "id": "150",
+                    "value": "250"
+                },
+                {
+                    "id": "151",
+                    "value": "251"
+                },
+                {
+                    "id": "152",
+                    "value": "252"
+                },
+                {
+                    "id": "153",
+                    "value": "259"
+                },
+                {
+                    "id": "154",
+                    "value": "262"
+                },
+                {
+                    "id": "155",
+                    "value": "263"
+                },
+                {
+                    "id": "156",
+                    "value": "264"
+                },
+                {
+                    "id": "157",
+                    "value": "265"
+                },
+                {
+                    "id": "158",
+                    "value": "266"
+                },
+                {
+                    "id": "159",
+                    "value": "267"
+                },
+                {
+                    "id": "160",
+                    "value": "268"
+                },
+                {
+                    "id": "161",
+                    "value": "269"
+                },
+                {
+                    "id": "162",
+                    "value": "270"
+                },
+                {
+                    "id": "163",
+                    "value": "271"
+                },
+                {
+                    "id": "165",
+                    "value": "273"
+                },
+                {
+                    "id": "166",
+                    "value": "274"
+                },
+                {
+                    "id": "167",
+                    "value": "278"
+                },
+                {
+                    "id": "168",
+                    "value": "281"
+                },
+                {
+                    "id": "169",
+                    "value": "284"
+                },
+                {
+                    "id": "170",
+                    "value": "287"
+                },
+                {
+                    "id": "171",
+                    "value": "290"
+                },
+                {
+                    "id": "172",
+                    "value": "291"
+                },
+                {
+                    "id": "173",
+                    "value": "292"
+                },
+                {
+                    "id": "174",
+                    "value": "293"
+                },
+                {
+                    "id": "175",
+                    "value": "294"
+                },
+                {
+                    "id": "176",
+                    "value": "295"
+                },
+                {
+                    "id": "177",
+                    "value": "296"
+                },
+                {
+                    "id": "178",
+                    "value": "298"
+                },
+                {
+                    "id": "179",
+                    "value": "303"
+                },
+                {
+                    "id": "180",
+                    "value": "305"
+                },
+                {
+                    "id": "181",
+                    "value": "306"
+                },
+                {
                     "id": "1000",
                     "value": "76"
                 },
@@ -2968,6 +3672,138 @@
                     "value": "244"
                 },
                 {
+                    "id": "1097",
+                    "value": "249"
+                },
+                {
+                    "id": "1098",
+                    "value": "253"
+                },
+                {
+                    "id": "1099",
+                    "value": "254"
+                },
+                {
+                    "id": "1100",
+                    "value": "255"
+                },
+                {
+                    "id": "1101",
+                    "value": "256"
+                },
+                {
+                    "id": "1102",
+                    "value": "257"
+                },
+                {
+                    "id": "1103",
+                    "value": "258"
+                },
+                {
+                    "id": "1104",
+                    "value": "260"
+                },
+                {
+                    "id": "1105",
+                    "value": "261"
+                },
+                {
+                    "id": "1106",
+                    "value": "272"
+                },
+                {
+                    "id": "1107",
+                    "value": "275"
+                },
+                {
+                    "id": "1108",
+                    "value": "276"
+                },
+                {
+                    "id": "1109",
+                    "value": "277"
+                },
+                {
+                    "id": "1110",
+                    "value": "279"
+                },
+                {
+                    "id": "1111",
+                    "value": "280"
+                },
+                {
+                    "id": "1112",
+                    "value": "282"
+                },
+                {
+                    "id": "1113",
+                    "value": "283"
+                },
+                {
+                    "id": "1114",
+                    "value": "285"
+                },
+                {
+                    "id": "1115",
+                    "value": "286"
+                },
+                {
+                    "id": "1116",
+                    "value": "288"
+                },
+                {
+                    "id": "1117",
+                    "value": "289"
+                },
+                {
+                    "id": "1118",
+                    "value": "297"
+                },
+                {
+                    "id": "1119",
+                    "value": "299"
+                },
+                {
+                    "id": "1120",
+                    "value": "300"
+                },
+                {
+                    "id": "1121",
+                    "value": "301"
+                },
+                {
+                    "id": "1124",
+                    "value": "307"
+                },
+                {
+                    "id": "1125",
+                    "value": "308"
+                },
+                {
+                    "id": "1126",
+                    "value": "309"
+                },
+                {
+                    "id": "1127",
+                    "value": "310"
+                },
+                {
+                    "id": "1128",
+                    "value": "311"
+                },
+                {
+                    "id": "1122",
+                    "value": "302"
+                },
+                {
+                    "id": "1123",
+                    "value": "304"
+                },
+                {
+                    "id": "1129",
+                    "value": "312"
+                },
+                {
                     "id": "999999999",
                     "value": "-1"
                 }
@@ -3028,7 +3864,7 @@
         },
         {
             "id": "Sleep",
-            "state": "sleep",
+            "state": "Sleep",
             "precedence": 520,
             "geometryType": "vertical",
             "activePartSet": "eye",
@@ -3049,80 +3885,13 @@
         },
         {
             "id": "Default",
-            "state": "std",
             "precedence": 1000,
+            "state": "std",
             "main": true,
             "isDefault": true,
             "geometryType": "vertical",
             "activePartSet": "figure",
             "assetPartDefinition": "std"
-        },
-        {
-            "id": "Snowboard360",
-            "state": "sb360",
-            "precedence": 140,
-            "animation": 1,
-            "main": 1,
-            "geometryType": "vertical",
-            "activePartSet": "figure",
-            "assetPartDefinition": "sb360",
-            "startFromFrameZero": true,
-            "prevents": [
-                "usei",
-                "cri",
-                "wave",
-                "sign"
-            ]
-        },
-        {
-            "id": "SnowboardOllie",
-            "state": "sbollie",
-            "precedence": 141,
-            "animation": 1,
-            "main": 1,
-            "geometryType": "vertical",
-            "activePartSet": "figure",
-            "assetPartDefinition": "sbollie",
-            "startFromFrameZero": true,
-            "prevents": [
-                "usei",
-                "cri",
-                "wave",
-                "sign"
-            ]
-        },
-        {
-            "id": "SnowboardUp",
-            "state": "sbup",
-            "precedence": 142,
-            "animation": 1,
-            "main": 1,
-            "geometryType": "vertical",
-            "activePartSet": "figure",
-            "assetPartDefinition": "std",
-            "startFromFrameZero": true
-        },
-        {
-            "id": "SnowboardSquat",
-            "state": "sbsq",
-            "precedence": 143,
-            "animation": 1,
-            "main": 1,
-            "geometryType": "vertical",
-            "activePartSet": "figure",
-            "assetPartDefinition": "std",
-            "startFromFrameZero": true
-        },
-        {
-            "id": "RideJump",
-            "state": "ridejump",
-            "precedence": 144,
-            "animation": 1,
-            "main": 1,
-            "geometryType": "vertical",
-            "activePartSet": "figure",
-            "assetPartDefinition": "std",
-            "startFromFrameZero": true
         }
     ],
     "actionOffsets": [
