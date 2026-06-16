@@ -648,62 +648,6 @@
             ]
         },
         {
-            "id": "Snowboard360",
-            "state": "sb360",
-            "precedence": 140,
-            "animation": true,
-            "main": true,
-            "geometryType": "vertical",
-            "activePartSet": "figure",
-            "assetPartDefinition": "sb360",
-            "startFromFrameZero": true,
-            "prevents": [
-                "usei",
-                "cri",
-                "wave",
-                "sign"
-            ]
-        },
-        {
-            "id": "SnowboardOllie",
-            "state": "sbollie",
-            "precedence": 141,
-            "animation": true,
-            "main": true,
-            "geometryType": "vertical",
-            "activePartSet": "figure",
-            "assetPartDefinition": "sbollie",
-            "startFromFrameZero": true,
-            "prevents": [
-                "usei",
-                "cri",
-                "wave",
-                "sign"
-            ]
-        },
-        {
-            "id": "SnowboardUp",
-            "state": "sbup",
-            "precedence": 142,
-            "animation": true,
-            "main": true,
-            "geometryType": "vertical",
-            "activePartSet": "figure",
-            "assetPartDefinition": "std",
-            "startFromFrameZero": true
-        },
-        {
-            "id": "SnowboardSquat",
-            "state": "sbsq",
-            "precedence": 143,
-            "animation": true,
-            "main": true,
-            "geometryType": "vertical",
-            "activePartSet": "figure",
-            "assetPartDefinition": "std",
-            "startFromFrameZero": true
-        },
-        {
             "id": "RideJump",
             "state": "ridejump",
             "precedence": 144,
@@ -720,8 +664,8 @@
             "precedence": 204,
             "geometryType": "vertical",
             "activePartSet": "handLeft",
-            "startFromFrameZero": true,
             "assetPartDefinition": "respect",
+            "startFromFrameZero": true,
             "prevents": [
                 "dance"
             ]
@@ -732,7 +676,7 @@
             "precedence": 205,
             "geometryType": "vertical",
             "activePartSet": "handLeft",
-            "assetPartDefinition": "wav",
+            "assetPartDefinition": "wave",
             "prevents": [
                 "dance"
             ]
@@ -800,7 +744,7 @@
             ],
             "types": [
                 {
-                    "id": "1",
+                    "id": 1,
                     "animated": false
                 },
                 {
@@ -1642,7 +1586,7 @@
                         "sign",
                         "respect"
                     ]
-                },
+                    },
                 {
                     "id": "207",
                     "animated": true,
@@ -2480,7 +2424,7 @@
                 {
                     "id": "148",
                     "value": "247"
-                },
+                    },
                 {
                     "id": "149",
                     "value": "248"
@@ -3864,7 +3808,7 @@
         },
         {
             "id": "Sleep",
-            "state": "Sleep",
+            "state": "sleep",
             "precedence": 520,
             "geometryType": "vertical",
             "activePartSet": "eye",
@@ -3885,13 +3829,80 @@
         },
         {
             "id": "Default",
-            "precedence": 1000,
             "state": "std",
+            "precedence": 1000,
             "main": true,
             "isDefault": true,
             "geometryType": "vertical",
             "activePartSet": "figure",
             "assetPartDefinition": "std"
+        },
+        {
+            "id": "Snowboard360",
+            "state": "sb360",
+            "precedence": 140,
+            "animation": 1,
+            "main": 1,
+            "geometryType": "vertical",
+            "activePartSet": "figure",
+            "assetPartDefinition": "sb360",
+            "startFromFrameZero": true,
+            "prevents": [
+                "usei",
+                "cri",
+                "wave",
+                "sign"
+            ]
+        },
+        {
+            "id": "SnowboardOllie",
+            "state": "sbollie",
+            "precedence": 141,
+            "animation": 1,
+            "main": 1,
+            "geometryType": "vertical",
+            "activePartSet": "figure",
+            "assetPartDefinition": "sbollie",
+            "startFromFrameZero": true,
+            "prevents": [
+                "usei",
+                "cri",
+                "wave",
+                "sign"
+            ]
+        },
+        {
+            "id": "SnowboardUp",
+            "state": "sbup",
+            "precedence": 142,
+            "animation": 1,
+            "main": 1,
+            "geometryType": "vertical",
+            "activePartSet": "figure",
+            "assetPartDefinition": "std",
+            "startFromFrameZero": true
+        },
+        {
+            "id": "SnowboardSquat",
+            "state": "sbsq",
+            "precedence": 143,
+            "animation": 1,
+            "main": 1,
+            "geometryType": "vertical",
+            "activePartSet": "figure",
+            "assetPartDefinition": "std",
+            "startFromFrameZero": true
+        },
+        {
+            "id": "RideJump",
+            "state": "ridejump",
+            "precedence": 144,
+            "animation": 1,
+            "main": 1,
+            "geometryType": "vertical",
+            "activePartSet": "figure",
+            "assetPartDefinition": "std",
+            "startFromFrameZero": true
         }
     ],
     "actionOffsets": [
