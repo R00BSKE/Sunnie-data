@@ -19076,6 +19076,7 @@
     "respect.giving.failed.no.audience": "Tijdens de Sunnie Stars-wedstrijd kun je alleen Respect aan iemand geven als er ten minste %users% Sunnie's in de kamer zijn.",
     "respect.giving.failed.no.stage": "Tijdens de Sunnie Stars-wedstrijd kun je alleen Respect aan iemand geven als diegene op een van de vier Podium Meubi staat.",
     "respect.giving.failed.title": "Sunnie Stars-wedstrijd",
+    "room.build.tool.button.text": "Bouw Tool",
     "room.bundle.credit.price.too.low": "Creditprijs is te laag.",
     "room.bundle.ducket.price.too.high": "Sorry, maar de totale ducket waarde van je bundel (%bundlePrice%) zal de ducket-limiet van de portemonnee (%ducketLimit%) overschrijden.",
     "room.bundle.purchase.confirmation": "Je koopt een kamerbundel. Deze bevat de kamer met de volgende items.",
