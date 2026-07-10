@@ -505898,33 +505898,6 @@
                 "furniline": "custom",
                 "environment": null,
                 "rare": false
-            },
-            {
-                "id": 100010,
-                "classname": "infobus_crnr_sofa",
-                "revision": 72921,
-                "category": "custom",
-                "defaultdir": 2,
-                "xdim": 1,
-                "ydim": 1,
-                "name": "Infobus Hoek Bank",
-                "description": "",
-                "adurl": null,
-                "offerid": 100010,
-                "buyout": true,
-                "rentofferid": -1,
-                "rentbuyout": false,
-                "bc": true,
-                "excludeddynamic": false,
-                "customparams": "null",
-                "specialtype": 1,
-                "canstandon": true,
-                "cansiton": false,
-                "canlayon": false,
-                "canputstuffon": false,
-                "furniline": "custom",
-                "environment": null,
-                "rare": false
             }
         ]
     },
