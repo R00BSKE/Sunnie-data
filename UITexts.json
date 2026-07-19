@@ -133,5 +133,6 @@
     "furnieditor.allow_lay": "Ligbaar",
     "furnieditor.allow_gift": "Cadeau Toestaan",
     "furnieditor.allow_trade": "Ruilbaar",
-    "furnieditor.allow_marketplace_sell": "Verkoopbaar"
+    "furnieditor.allow_marketplace_sell": "Verkoopbaar",
+    "purse.clubdays.unlimited.text": "Onbeperkt"
 }
