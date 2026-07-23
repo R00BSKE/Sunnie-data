@@ -17599,7 +17599,7 @@
                     "colorable": false,
                     "selectable": true,
                     "preselectable": false,
-                    "sellable": false,
+                    "sellable": true,
                     "limited": false,
                     "parts": [
                         {
