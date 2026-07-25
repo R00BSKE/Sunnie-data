@@ -71145,7 +71145,7 @@
                     "colorable": true,
                     "selectable": true,
                     "preselectable": false,
-                    "sellable": false,
+                    "sellable": true,
                     "limited": false,
                     "parts": [
                         {
@@ -71171,7 +71171,7 @@
                     "colorable": true,
                     "selectable": true,
                     "preselectable": false,
-                    "sellable": false,
+                    "sellable": true,
                     "limited": false,
                     "parts": [
                         {
@@ -71295,7 +71295,7 @@
                     "colorable": true,
                     "selectable": true,
                     "preselectable": false,
-                    "sellable": false,
+                    "sellable": true,
                     "limited": false,
                     "parts": [
                         {
@@ -71321,7 +71321,7 @@
                     "colorable": true,
                     "selectable": true,
                     "preselectable": false,
-                    "sellable": false,
+                    "sellable": true,
                     "limited": false,
                     "parts": [
                         {
@@ -71347,7 +71347,7 @@
                     "colorable": true,
                     "selectable": true,
                     "preselectable": false,
-                    "sellable": false,
+                    "sellable": true,
                     "limited": false,
                     "parts": [
                         {
