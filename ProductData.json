@@ -2,6 +2,86 @@
   "productdata": {
     "product": [
       {
+        "code": "lilatr",
+        "name": "Lila Troon",
+        "description": "Alleen voor belangrijke Sunnie's"
+      },
+      {
+        "code": "suholo",
+        "name": "Holografische Troon",
+        "description": "Alleen voor belangrijke Sunnie's"
+      },
+      {
+        "code": "rgrone",
+        "name": "Roségouden Troon",
+        "description": "Alleen voor belangrijke Sunnie's"
+      },
+      {
+        "code": "throdl",
+        "name": "Donkerleiblauwe Troon",
+        "description": "Alleen voor belangrijke Sunnie's"
+      },
+      {
+        "code": "throhp",
+        "name": "Hardroze Troon",
+        "description": "Alleen voor belangrijke Sunnie's"
+      },
+      {
+        "code": "throib",
+        "name": "Ijsblauwe Troon",
+        "description": "Alleen voor belangrijke Sunnie's"
+      },
+      {
+        "code": "throdr",
+        "name": "Donkerrode Troon",
+        "description": "Alleen voor belangrijke Sunnie's"
+      },
+      {
+        "code": "bhobba",
+        "name": "Bronzen Troon",
+        "description": "Alleen voor belangrijke Sunnie's"
+      },
+      {
+        "code": "raintr",
+        "name": "Regenboog Troon",
+        "description": "Alleen voor belangrijke Sunnie's"
+      },
+      {
+        "code": "thronp",
+        "name": "Paarse Troon",
+        "description": "Alleen voor belangrijke Sunnie's"
+      },
+      {
+        "code": "throng",
+        "name": "Gouden Troon",
+        "description": "Alleen voor belangrijke Sunnie's"
+      },
+      {
+        "code": "hobba4",
+        "name": "Oranje Troon",
+        "description": "Alleen voor belangrijke Sunnie's"
+      },
+      {
+        "code": "milkth",
+        "name": "Milka Troon",
+        "description": "Alleen voor belangrijke Sunnie's"
+      },
+      {
+        "code": "saphire16_throne",
+        "name": "Saffier Troon",
+        "description": "Alleen voor belangrijke Sunnie's"
+      },
+      {
+        "code": "phobba",
+        "name": "Purperen Troon",
+        "description": "Alleen voor belangrijke Sunnie's"
+      },
+      {
+        "code": "throbl",
+        "name": "Zwarte Troon",
+        "description": "Alleen voor belangrijke Sunnie's"
+      },
+      {
         "code": "crackable_pillow",
         "name": "Groot stenen kussen",
         "description": ""
